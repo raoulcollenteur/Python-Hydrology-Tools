@@ -23,7 +23,7 @@ Time Series (Analysis)
 MODFLOW Related packages
 ------------------------
 - Flopy: The Python interface to MODFLOW. https://github.com/modflowpy/flopy
-- XXX
+- Idfpy: A simple module for reading and writing iMOD IDF files. IDF is a simple binary format used by the iMOD groundwater modelling software. https://github.com/tomvansteijn/idfpy
 
 Analytic Elements
 -----------------
