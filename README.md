@@ -60,6 +60,7 @@ Miscellaneous
 - SPHY, Spatial Processes in HYdrology (SPHY) model, https://github.com/WilcoTerink/SPHY
 - ESMPY, Earth System Modeling Framework (ESMF) Python interface, https://www.earthsystemcog.org/projects/esmpy/
 - PyHSPF, Python extensions to the Hydrological Simulation Program in Fortran (HSPF), https://github.com/djlampert/PyHSPF
+- xsboringen, (In Dutch) A python library for processing and plotting borehole and CPT data, developed for open data formats in the Netherlands. . https://github.com/tomvansteijn/xsboringen
 
 
 Interesting Organizations
