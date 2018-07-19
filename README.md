@@ -5,70 +5,96 @@ My attempt to list interesting open source python projects that can be used in t
 R.A. Collenteur, July 2018
 
 Hydrological Models
--------------------
-- VIC: The Variable Infiltration Capacity (VIC) Macroscale Hydrologic Model. https://github.com/UW-Hydro/VIC
-- CMF: Catchment Modelling Framework, a hydrologic modelling toolbox. https://github.com/philippkraft/cmf
-- TopoFlow: Spatial hydrologic model (D8-based, fully BMI-compliant). https://github.com/peckhams/topoflow
+------------------
+| Project Name | Description |
+| ------- | ------ |
+| [CMF](https://github.com/philippkraft/cmf) | Catchment Modelling Framework, a hydrologic modelling toolbox. |
+| [TopoFlow](https://github.com/peckhams/topoflow) | Spatial hydrologic model (D8-based, fully BMI-compliant). |
+| [VIC](https://github.com/UW-Hydro/VIC) | The Variable Infiltration Capacity (VIC) Macroscale Hydrologic Model. |
+
+
+| []() |  |
+| []() |  |
+| []() |  |
+
 
 Hydrological Tools
 ------------------
-- PyEto: PyETo is a Python library for calculating reference crop evapotranspiration (ETo), sometimes referred to as potential evapotranspiration (PET). The library provides numerous functions for estimating missing meteorological data. https://github.com/woodcrafty/PyETo
-- MetPy: MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data. https://github.com/Unidata/MetPy
+| Project Name | Description |
+| ------- | ------ |
+| [MetPy](https://github.com/Unidata/MetPy) | MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data. |
+| [PyEto](https://github.com/woodcrafty/PyETo) | PyETo is a Python library for calculating reference crop evapotranspiration (ETo), sometimes referred to as potential evapotranspiration (PET). The library provides numerous functions for estimating missing meteorological data. |
 
 Time Series (Analysis)
 --------------------
-- PASTAS: Analysis of hydrological time series using time series models. https://github.com/pastas/pastas
-- Hydropy: Analysis of hydrological oriented time series. https://github.com/stijnvanhoey/hydropy
+| Project Name | Description |
+| ------- | ------ |
+| [Hydropy](https://github.com/stijnvanhoey/hydropy) | Analysis of hydrological oriented time series. |
+| [Pastas](https://github.com/pastas/pastas) | Analysis of hydrological time series using time series models. |
 
 MODFLOW Related packages
 ------------------------
-- Flopy: The Python interface to MODFLOW. https://github.com/modflowpy/flopy
-- Idfpy: A simple module for reading and writing iMOD IDF files. IDF is a simple binary format used by the iMOD groundwater modelling software. https://github.com/tomvansteijn/idfpy
+| Project Name | Description |
+| ------- | ------ |
+| [Flopy](https://github.com/modflowpy/flopy) | The Python interface to MODFLOW. |
+| [Idfpy](https://github.com/tomvansteijn/idfpy) | A simple module for reading and writing iMOD IDF files. IDF is a simple binary format used by the iMOD groundwater modelling software. |
 
 Analytic Elements
 -----------------
-- TIMML: A Multi-Layer, Analytic Element Model. https://github.com/mbakker7/timml
-- TTim: A Multi-Layer, Transient, Analytic Element Model. https://github.com/mbakker7/ttim
+| Project Name | Description |
+| ------- | ------ |
+| [TIMML](https://github.com/mbakker7/timml) |  A Multi-Layer, Analytic Element Model. |
+| [TTim](https://github.com/mbakker7/ttim) | A Multi-Layer, Transient, Analytic Element Model.  |
 
 GIS Related
 -----------
-- PcRaster: Is a collection of software targeted at the development and deployment of spatio-temporal environmental models. http://pcraster.geo.uu.nl/
--  PyGeoprocessing: a Python/Cython based library that provides a set of commonly used raster, vector, and hydrological operations for GIS processing. https://pypi.org/project/pygeoprocessing/
+| Project Name | Description |
+| ------- | ------ |
+| [PcRaster](http://pcraster.geo.uu.nl/) | Is a collection of software targeted at the development and deployment of spatio-temporal environmental models. |
+| [PyGeoprocessing](https://pypi.org/project/pygeoprocessing/) | a Python/Cython based library that provides a set of commonly used raster, vector, and hydrological operations for GIS processing. |
 
 Statistics
 ----------
-- HPGL, High Performance Geostatistics Library. http://hpgl.github.io/hpgl/
+| Project Name | Description |
+| ------- | ------ |
+| [HPGL](http://hpgl.github.io/hpgl/) |  High Performance Geostatistics Library. |
 
 Optimization
 ------------
-- LMFIT: https://github.com/lmfit/lmfit-py
-- SPOTpy: https://github.com/thouska/spotpy
+| Project Name | Description |
+| ------- | ------ |
+| [LMFIT](https://github.com/lmfit/lmfit-py) |  |
+| [SPOTpy](https://github.com/thouska/spotpy) |  |
 
 Uncertainty
 -----------
-- PyGLUE: Generalised Likelihood Uncertainty Estimation (GLUE) Framework, http://code.activestate.com/pypm/pyglue/
+| Project Name | Description |
+| ------- | ------ |
+| [PyGLUE](http://code.activestate.com/pypm/pyglue/
+) | Generalised Likelihood Uncertainty Estimation (GLUE) Framework |
 
 Data Collection
 ---------------
-- HKVFEWSPY: Connection to the Delft FEWS servers, https://github.com/HKV-products-services/hkvfewspy
-- PiConnect: Connection to PI: https://github.com/Hugovdberg/PIconnect
-- Openradar: Library for processing a set of dutch, german and belgian precipitation radars into calibrated composites., https://github.com/nens/openradar
+| Project Name | Description |
+| ------- | ------ |
+| [HKVFEWSPY](https://github.com/HKV-products-services/hkvfewspy) | Connection to the Delft FEWS servers |
+| [PiConnect](https://github.com/Hugovdberg/PIconnect) | Connection to PI |
+| [Openradar](https://github.com/nens/openradar) | Library for processing a set of dutch, german and belgian precipitation radars into calibrated composites. |
 
 Miscellaneous
 -------------
-- PYWR: spatial allocation tool, https://github.com/pywr/pywr
-- SPHY, Spatial Processes in HYdrology (SPHY) model, https://github.com/WilcoTerink/SPHY
-- ESMPY, Earth System Modeling Framework (ESMF) Python interface, https://www.earthsystemcog.org/projects/esmpy/
-- PyHSPF, Python extensions to the Hydrological Simulation Program in Fortran (HSPF), https://github.com/djlampert/PyHSPF
-- xsboringen, (In Dutch) A python library for processing and plotting borehole and CPT data, developed for open data formats in the Netherlands. . https://github.com/tomvansteijn/xsboringen
-
+| Project Name | Description |
+| ------- | ------ |
+| [ESMPY](https://www.earthsystemcog.org/projects/esmpy/) | Earth System Modeling Framework (ESMF) Python interface |
+| [PyHSPF](https://github.com/djlampert/PyHSPF) | Python extensions to the Hydrological Simulation Program in Fortran (HSPF), |
+| [PYWR](https://github.com/pywr/pywr) | spatial allocation tool |
+| [SPHY](https://github.com/WilcoTerink/SPHY) |  Spatial Processes in HYdrology (SPHY) model |
+| [xsboringen](https://github.com/tomvansteijn/xsboringen) | (In Dutch) A python library for processing and plotting borehole and CPT data, developed for open data formats in the Netherlands. |
 
 Interesting Organizations
 -------------------------
-- https://github.com/OpenHydrology
-- https://github.com/UW-Hydro
-- https://github.com/nens
-- https://github.com/waternet
-
-
-
+| Project Name | Description |
+| ------- | ------ |
+| [OpenHydrology](https://github.com/OpenHydrology) |  |
+| [UW-Hydro](https://github.com/UW-Hydro) |  |
+| []() |  |
