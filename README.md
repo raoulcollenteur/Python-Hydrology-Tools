@@ -12,12 +12,6 @@ Hydrological Models
 | [TopoFlow](https://github.com/peckhams/topoflow) | Spatial hydrologic model (D8-based, fully BMI-compliant). |
 | [VIC](https://github.com/UW-Hydro/VIC) | The Variable Infiltration Capacity (VIC) Macroscale Hydrologic Model. |
 
-
-| []() |  |
-| []() |  |
-| []() |  |
-
-
 Hydrological Tools
 ------------------
 | Project Name | Description |
@@ -70,8 +64,7 @@ Uncertainty
 -----------
 | Project Name | Description |
 | ------- | ------ |
-| [PyGLUE](http://code.activestate.com/pypm/pyglue/
-) | Generalised Likelihood Uncertainty Estimation (GLUE) Framework |
+| [PyGLUE](http://code.activestate.com/pypm/pyglue/) | Generalised Likelihood Uncertainty Estimation (GLUE) Framework |
 
 Data Collection
 ---------------
