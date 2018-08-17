@@ -15,8 +15,13 @@ Open Source Software
 | [TTim](https://github.com/mbakker7/ttim) | A Multi-Layer, Transient, Analytic Element Model. | Python |
 | [PcRaster](http://pcraster.geo.uu.nl/) | Is a collection of software targeted at the development and deployment of spatio-temporal environmental models. | C++ |
 | [HKVFEWSPY](https://github.com/HKV-products-services/hkvfewspy) | Connection to the Delft FEWS servers | Python |
-| [PiConnect](https://github.com/Hugovdberg/PIconnect) | Connection to PI | Python |
+| [PiConnect](https://github.com/Hugovdberg/PIconnect) | This connector allows access to the OSISoft PI System through their proprietary SDK. It provides a number of classes, mostly mirroring the AF SDK structure, but at the same time implementing the cool stuff we use Python for. | Python |
 | [xsboringen](https://github.com/tomvansteijn/xsboringen) | (In Dutch) A python library for processing and plotting borehole and CPT data, developed for open data formats in the Netherlands. | Python |
 | [Idfpy](https://github.com/tomvansteijn/idfpy) | A simple module for reading and writing iMOD IDF files. IDF is a simple binary format used by the iMOD groundwater modelling software. | Python |
 | [Pastas](https://github.com/pastas/pastas) | Analysis of hydrological time series using time series models. | Python |
 |[WALRUS](https://github.com/ClaudiaBrauer/WALRUS)| The Wageningen Lowland Runoff Simulator (WALRUS) is a novel rainfall-runoff model to fill the gap between complex, spatially distributed models  | R |
+|[HKVSOBEKPY](https://github.com/HKV-products-services/hkvsobekpy) | package for water-statistics and plausibility checker using his- and bui-files. A his-file is a binary file object used for read/write in- and output in SOBEK. | Python |
+| [WFLOW](https://github.com/openstreams/wflow) | wflow consists of a set of python programs that can be run on the command line and perform hydrological simulations. The models are based on the PCRaster python framework. | Python |
+| [GLOFRIM](https://github.com/openearth/glofrim) | Globally Applicable Framework for Integrated Hydrological-Hydrodynamic Modelling (GLOFRIM) | Python |
+| [KNMI-R](https://github.com/KNMI/knmiR) | A package to access KNMI data within R. | R |
+| [ADAGUC](https://github.com/KNMI/adaguc-server) | ADAGUC is a geographical information system to visualize netCDF files via the web. The software consists of a server side C++ application and a client side JavaScript application. | C++/Python |
