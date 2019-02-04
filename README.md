@@ -46,6 +46,7 @@ GIS Related
 | ------- | ------ |
 | [PcRaster](http://pcraster.geo.uu.nl/) | Is a collection of software targeted at the development and deployment of spatio-temporal environmental models. |
 | [PyGeoprocessing](https://pypi.org/project/pygeoprocessing/) | a Python/Cython based library that provides a set of commonly used raster, vector, and hydrological operations for GIS processing. |
+|[Pysheds](https://github.com/mdbartos/pysheds)|Simple and fast watershed delineation in python.|
 
 Statistics
 ----------
