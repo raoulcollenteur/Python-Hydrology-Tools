@@ -11,6 +11,7 @@ Hydrological Models
 | [CMF](https://github.com/philippkraft/cmf) | Catchment Modelling Framework, a hydrologic modelling toolbox. |
 | [TopoFlow](https://github.com/peckhams/topoflow) | Spatial hydrologic model (D8-based, fully BMI-compliant). |
 | [VIC](https://github.com/UW-Hydro/VIC) | The Variable Infiltration Capacity (VIC) Macroscale Hydrologic Model. |
+| [Xanthos](https://github.com/JGCRI/xanthos)| Xanthos is an open-source hydrologic model, written in Python, designed to quantify and analyze global water availability.|
 
 Hydrological Tools
 ------------------
@@ -20,24 +21,19 @@ Hydrological Tools
 | [PyEto](https://github.com/woodcrafty/PyETo) | PyETo is a Python library for calculating reference crop evapotranspiration (ETo), sometimes referred to as potential evapotranspiration (PET). The library provides numerous functions for estimating missing meteorological data. |
 
 Time Series (Analysis)
---------------------
+----------------------
 | Project Name | Description |
 | ------- | ------ |
 | [Hydropy](https://github.com/stijnvanhoey/hydropy) | Analysis of hydrological oriented time series. |
 | [Pastas](https://github.com/pastas/pastas) | Analysis of hydrological time series using time series models. |
 
-Groundwater Related packages
-------------------------
+Groundwater 
+-----------
 | Project Name | Description |
 | ------- | ------ |
 | [Flopy](https://github.com/modflowpy/flopy) | The Python interface to MODFLOW. |
 | [Idfpy](https://github.com/tomvansteijn/idfpy) | A simple module for reading and writing iMOD IDF files. IDF is a simple binary format used by the iMOD groundwater modelling software. |
 | [WellApplication](https://github.com/utah-geological-survey/WellApplication) | Set of tools for groundwater level and water chemistry analysis. |
-
-Analytic Elements
------------------
-| Project Name | Description |
-| ------- | ------ |
 | [TIMML](https://github.com/mbakker7/timml) |  A Multi-Layer, Analytic Element Model. |
 | [TTim](https://github.com/mbakker7/ttim) | A Multi-Layer, Transient, Analytic Element Model.  |
 
@@ -81,7 +77,6 @@ Miscellaneous
 | [PYWR](https://github.com/pywr/pywr) | spatial allocation tool |
 | [SPHY](https://github.com/WilcoTerink/SPHY) |  Spatial Processes in HYdrology (SPHY) model |
 | [xsboringen](https://github.com/tomvansteijn/xsboringen) | (In Dutch) A python library for processing and plotting borehole and CPT data, developed for open data formats in the Netherlands. |
-| [Xanthos](https://github.com/JGCRI/xanthos)| Xanthos is an open-source hydrologic model, written in Python, designed to quantify and analyze global water availability.|
 
 Interesting Organizations
 -------------------------
