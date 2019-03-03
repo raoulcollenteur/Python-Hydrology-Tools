@@ -55,18 +55,14 @@ Statistics
 | ------- | ------ |
 | [HPGL](http://hpgl.github.io/hpgl/) |  High Performance Geostatistics Library. |
 
-Optimization
+Optimization & Uncertainty
 ------------
 | Project Name | Description |
 | ------- | ------ |
-| [LMFIT](https://github.com/lmfit/lmfit-py) |  |
-| [SPOTpy](https://github.com/thouska/spotpy) |  |
-
-Uncertainty
------------
-| Project Name | Description |
-| ------- | ------ |
-| [PyGLUE](http://code.activestate.com/pypm/pyglue/) | Generalised Likelihood Uncertainty Estimation (GLUE) Framework |
+| [LMFIT](https://github.com/lmfit/lmfit-py) | Non-Linear Least Squares Minimization, with flexible Parameter settings, based on scipy.optimize.leastsq, and with many additional classes and methods for curve fitting. |
+| [SPOTpy](https://github.com/thouska/spotpy) | A Statistical Parameter Optimization Tool for Python. |
+| [PyGLUE](http://code.activestate.com/pypm/pyglue/) | Generalised Likelihood Uncertainty Estimation (GLUE) Framework. |
+| [Pyemu](https://github.com/jtwhite79/pyemu) | python modules for model-independent uncertainty analyses, data-worth analyses, and interfacing with PEST(++). |
 
 Data Collection
 ---------------
