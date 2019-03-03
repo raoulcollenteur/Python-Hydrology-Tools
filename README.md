@@ -1,8 +1,8 @@
 Open Source Python Packages in Hydrology
 ========================================
-My attempt to list interesting open source python projects that can be used in the field of Hydrology. Suggestions Welcome!
+My attempt to list interesting open source python projects that can be used in the field of Hydrology. Suggestions as issues or pull requests are welcome!
 
-R.A. Collenteur, July 2018
+R.A. Collenteur, University of Graz.
 
 Hydrological Models
 ------------------
@@ -13,12 +13,13 @@ Hydrological Models
 | [VIC](https://github.com/UW-Hydro/VIC) | The Variable Infiltration Capacity (VIC) Macroscale Hydrologic Model. |
 | [Xanthos](https://github.com/JGCRI/xanthos)| Xanthos is an open-source hydrologic model, written in Python, designed to quantify and analyze global water availability.|
 
-Hydrological Tools
-------------------
+Meteorological tools
+--------------------
 | Project Name | Description |
 | ------- | ------ |
 | [MetPy](https://github.com/Unidata/MetPy) | MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data. |
 | [PyEto](https://github.com/woodcrafty/PyETo) | PyETo is a Python library for calculating reference crop evapotranspiration (ETo), sometimes referred to as potential evapotranspiration (PET). The library provides numerous functions for estimating missing meteorological data. |
+| [Improver](https://github.com/metoppv/improver) | IMPROVER is a library of algorithms for meteorological post-processing and verification. |
 
 Time Series (Analysis)
 ----------------------
