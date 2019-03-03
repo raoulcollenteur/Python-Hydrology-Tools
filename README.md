@@ -81,6 +81,7 @@ Miscellaneous
 | [PYWR](https://github.com/pywr/pywr) | spatial allocation tool |
 | [SPHY](https://github.com/WilcoTerink/SPHY) |  Spatial Processes in HYdrology (SPHY) model |
 | [xsboringen](https://github.com/tomvansteijn/xsboringen) | (In Dutch) A python library for processing and plotting borehole and CPT data, developed for open data formats in the Netherlands. |
+| [Xanthos](https://github.com/JGCRI/xanthos)| Xanthos is an open-source hydrologic model, written in Python, designed to quantify and analyze global water availability.|
 
 Interesting Organizations
 -------------------------
