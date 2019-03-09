@@ -64,7 +64,6 @@ Data Collection
 | Project Name | Description |
 | ------- | ------ |
 | [HKVFEWSPY](https://github.com/HKV-products-services/hkvfewspy) | Connection to the Delft FEWS servers |
-| [PiConnect](https://github.com/Hugovdberg/PIconnect) | Connection to PI |
 | [Openradar](https://github.com/nens/openradar) | Library for processing a set of dutch, german and belgian precipitation radars into calibrated composites. |
 
 Miscellaneous
@@ -76,11 +75,3 @@ Miscellaneous
 | [PYWR](https://github.com/pywr/pywr) | spatial allocation tool |
 | [SPHY](https://github.com/WilcoTerink/SPHY) |  Spatial Processes in HYdrology (SPHY) model |
 | [xsboringen](https://github.com/tomvansteijn/xsboringen) | (In Dutch) A python library for processing and plotting borehole and CPT data, developed for open data formats in the Netherlands. |
-
-Interesting Organizations
--------------------------
-| Project Name | Description |
-| ------- | ------ |
-| [OpenHydrology](https://github.com/OpenHydrology) |  |
-| [UW-Hydro](https://github.com/UW-Hydro) |  |
-| []() |  |
