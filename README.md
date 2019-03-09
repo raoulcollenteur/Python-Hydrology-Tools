@@ -13,6 +13,7 @@ Hydrological Models
 | [VIC](https://github.com/UW-Hydro/VIC) | The Variable Infiltration Capacity (VIC) Macroscale Hydrologic Model. |
 | [Xanthos](https://github.com/JGCRI/xanthos)| Xanthos is an open-source hydrologic model, written in Python, designed to quantify and analyze global water availability.|
 | [WRF-Hydro](https://github.com/NCAR/wrf_hydro_py)| wrfhydrpy is a Python API for the WRF-Hydro modelling system. |
+| [EXP-HYDRO](https://github.com/sopanpatil/exp-hydro) | EXP-HYDRO is a catchment scale hydrological model that operates at a daily time-step.  It takes as inputs the daily values of precipitation, air temperature, and potential evapotranspiration, and simulates daily streamflow at the catchment outlet. |
 
 
 Meteorological tools
