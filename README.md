@@ -12,6 +12,8 @@ Hydrological Models
 | [TopoFlow](https://github.com/peckhams/topoflow) | Spatial hydrologic model (D8-based, fully BMI-compliant). |
 | [VIC](https://github.com/UW-Hydro/VIC) | The Variable Infiltration Capacity (VIC) Macroscale Hydrologic Model. |
 | [Xanthos](https://github.com/JGCRI/xanthos)| Xanthos is an open-source hydrologic model, written in Python, designed to quantify and analyze global water availability.|
+| [WRF-Hydro](https://github.com/NCAR/wrf_hydro_py)| wrfhydrpy is a Python API for the WRF-Hydro modelling system. |
+
 
 Meteorological tools
 --------------------
