@@ -22,6 +22,7 @@ Meteorological tools
 | [MetPy](https://github.com/Unidata/MetPy) | MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data. |
 | [PyEto](https://github.com/woodcrafty/PyETo) | PyETo is a Python library for calculating reference crop evapotranspiration (ETo), sometimes referred to as potential evapotranspiration (PET). The library provides numerous functions for estimating missing meteorological data. |
 | [Improver](https://github.com/metoppv/improver) | IMPROVER is a library of algorithms for meteorological post-processing and verification. |
+| [MetSim](https://github.com/UW-Hydro/MetSim) | MetSim is a meteorological simulator and forcing disaggregator for hydrologic modeling and climate applications. |
 
 Time Series (Analysis)
 ----------------------
@@ -48,13 +49,7 @@ GIS Related
 | [PyGeoprocessing](https://pypi.org/project/pygeoprocessing/) | a Python/Cython based library that provides a set of commonly used raster, vector, and hydrological operations for GIS processing. |
 |[Pysheds](https://github.com/mdbartos/pysheds)|Simple and fast watershed delineation in python.|
 
-Statistics
-----------
-| Project Name | Description |
-| ------- | ------ |
-| [HPGL](http://hpgl.github.io/hpgl/) |  High Performance Geostatistics Library. |
-
-Optimization & Uncertainty
+Optimization, Uncertainty, Statistics
 ------------
 | Project Name | Description |
 | ------- | ------ |
@@ -62,6 +57,7 @@ Optimization & Uncertainty
 | [SPOTpy](https://github.com/thouska/spotpy) | A Statistical Parameter Optimization Tool for Python. |
 | [PyGLUE](http://code.activestate.com/pypm/pyglue/) | Generalised Likelihood Uncertainty Estimation (GLUE) Framework. |
 | [Pyemu](https://github.com/jtwhite79/pyemu) | python modules for model-independent uncertainty analyses, data-worth analyses, and interfacing with PEST(++). |
+| [HPGL](http://hpgl.github.io/hpgl/) |  High Performance Geostatistics Library. |
 
 Data Collection
 ---------------
