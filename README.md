@@ -15,6 +15,7 @@ Hydrological Models
 | [WRF-Hydro](https://github.com/NCAR/wrf_hydro_py)| wrfhydrpy is a Python API for the WRF-Hydro modelling system. |
 | [EXP-HYDRO](https://github.com/sopanpatil/exp-hydro) | EXP-HYDRO is a catchment scale hydrological model that operates at a daily time-step.  It takes as inputs the daily values of precipitation, air temperature, and potential evapotranspiration, and simulates daily streamflow at the catchment outlet. |
 | [RRMPG](https://github.com/kratzert/RRMPG) | Rainfall-Runoff modelling playground. |
+| [LHMP](https://github.com/hydrogo/LHMP) | Lumped Hydrological Models Playground. |
 
 
 Meteorological tools
