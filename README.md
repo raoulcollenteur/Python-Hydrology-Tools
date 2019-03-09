@@ -66,6 +66,7 @@ Data Collection
 | ------- | ------ |
 | [HKVFEWSPY](https://github.com/HKV-products-services/hkvfewspy) | Connection to the Delft FEWS servers |
 | [Openradar](https://github.com/nens/openradar) | Library for processing a set of dutch, german and belgian precipitation radars into calibrated composites. |
+| [Ecohydrolib](https://github.com/selimnairb/EcohydroLib)| Libraries and command-line scripts for performing ecohydrology data preparation workflows. |
 
 Miscellaneous
 -------------
