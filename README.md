@@ -81,3 +81,4 @@ Miscellaneous
 | [PYWR](https://github.com/pywr/pywr) | spatial allocation tool |
 | [SPHY](https://github.com/WilcoTerink/SPHY) |  Spatial Processes in HYdrology (SPHY) model |
 | [xsboringen](https://github.com/tomvansteijn/xsboringen) | (In Dutch) A python library for processing and plotting borehole and CPT data, developed for open data formats in the Netherlands. |
+| [PyMT](https://github.com/csdms/pymt/) | PyMT is an Open Source Python package that provides the necessary tools used for the coupling of models that expose the Basic Model Interface (BMI).|
