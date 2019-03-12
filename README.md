@@ -87,4 +87,5 @@ Miscellaneous
 | [PyMT](https://github.com/csdms/pymt/) | PyMT is an Open Source Python package that provides the necessary tools used for the coupling of models that expose the Basic Model Interface (BMI).|
 | [Ladlab](https://github.com/landlab/landlab) | The Landlab project creates an environment in which scientists can build a numerical landscape model without having to code all of the individual components. |
 | [EFlowCalc](https://github.com/ThibHlln/eflowcalc)| Calculator of Streamflow Characteristics. |
+| [IRIS](https://github.com/SciTools/iris) | A powerful, format-agnostic, and community-driven Python library for analysing and visualising Earth science data. | 
 
