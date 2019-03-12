@@ -62,6 +62,7 @@ Optimization, Uncertainty, Statistics
 | [PyGLUE](http://code.activestate.com/pypm/pyglue/) | Generalised Likelihood Uncertainty Estimation (GLUE) Framework. |
 | [Pyemu](https://github.com/jtwhite79/pyemu) | python modules for model-independent uncertainty analyses, data-worth analyses, and interfacing with PEST(++). |
 | [HPGL](http://hpgl.github.io/hpgl/) |  High Performance Geostatistics Library. |
+| [HydroErr](https://github.com/BYU-Hydroinformatics/HydroErr)| Goodness of Fit metrics for use in comparison studies, specifically in the field of hydrology. |
 
 Data Collection
 ---------------
