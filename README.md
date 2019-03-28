@@ -29,6 +29,7 @@ Meteorological tools
 | [MetSim](https://github.com/UW-Hydro/MetSim) | MetSim is a meteorological simulator and forcing disaggregator for hydrologic modeling and climate applications. |
 | [MELODIST](https://github.com/kristianfoerster/melodist)| MELODIST is an open-source toolbox written in Python for disaggregating daily meteorological time series to hourly time steps. |
 | [Climate Analysis Tool written in python](https://github.com/wegener-center/pyCAT) | Climate Analysis Tool written in python |
+| [PySteps](https://github.com/pySTEPS/pysteps) | pySTEPS is a community-driven initiative for developing and maintaining an easy to use, modular, free and open source Python framework for short-term ensemble prediction systems. | 
 
 Time Series (Analysis)
 ----------------------
