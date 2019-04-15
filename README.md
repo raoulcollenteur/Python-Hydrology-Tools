@@ -49,6 +49,7 @@ Groundwater
 | [WellApplication](https://github.com/utah-geological-survey/WellApplication) | Set of tools for groundwater level and water chemistry analysis. |
 | [TIMML](https://github.com/mbakker7/timml) |  A Multi-Layer, Analytic Element Model. |
 | [TTim](https://github.com/mbakker7/ttim) | A Multi-Layer, Transient, Analytic Element Model.  |
+| [PyHELP](https://github.com/cgq-qgc/pyhelp) | A Python library for the assessment of spatially distributed groundwater recharge and hydrological components with HELP. |
 
 GIS Related
 -----------
