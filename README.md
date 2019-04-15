@@ -38,6 +38,7 @@ Time Series (Analysis)
 | [Hydropy](https://github.com/stijnvanhoey/hydropy) | Analysis of hydrological oriented time series. |
 | [Pastas](https://github.com/pastas/pastas) | Analysis of hydrological time series using time series models. |
 | [Hydrostats](https://github.com/BYU-Hydroinformatics/Hydrostats) | Tools for use in comparison studies, specifically for use in the field of hydrology. |
+|[htimeseries](https://github.com/openmeteo/htimeseries)| This module provides the HTimeseries class, which is a layer on top of pandas, offering a little more functionality.|
 
 Groundwater 
 -----------
