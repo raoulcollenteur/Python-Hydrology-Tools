@@ -36,6 +36,7 @@ Meteorological tools
 | [MELODIST](https://github.com/kristianfoerster/melodist)| MELODIST is an open-source toolbox written in Python for disaggregating daily meteorological time series to hourly time steps. |
 | [PyCat](https://github.com/wegener-center/pyCAT) | Climate Analysis Tool written in python |
 | [PySteps](https://github.com/pySTEPS/pysteps) | pySTEPS is a community-driven initiative for developing and maintaining an easy to use, modular, free and open source Python framework for short-term ensemble prediction systems. | 
+| [Evaporation](https://github.com/openmeteo/evaporation) | Calculation of evaporation and transpiration. |
 
 Time Series (Analysis)
 ----------------------
