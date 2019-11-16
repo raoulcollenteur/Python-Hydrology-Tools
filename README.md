@@ -24,6 +24,7 @@ Hydrological Models
 | [Catchmod](https://pypi.org/project/pycatchmod/) | CATCHMOD is widely used rainfall runoff model in the United Kingdom. It was introduced by Wilby (1994).|
 | [wflow](https://github.com/openstreams/wflow) | wflow consists of a set of Python programs that can be run on the command line and perform hydrological simulations. The models are based on the PCRaster Python framework |
 |[PyTOPKAPI](https://github.com/sahg/PyTOPKAPI)|PyTOPKAPI is a BSD licensed Python library implementing the TOPKAPI Hydrological model (Liu and Todini, 2002).|
+|[mhmpy](https://github.com/MuellerSeb/mhmpy)|A Python-API for the mesoscale Hydrological Model.|
 
 
 Meteorological tools
@@ -81,6 +82,7 @@ Optimization, Uncertainty, Statistics
 | [HPGL](http://hpgl.github.io/hpgl/) |  High Performance Geostatistics Library. |
 | [HydroErr](https://github.com/BYU-Hydroinformatics/HydroErr)| Goodness of Fit metrics for use in comparison studies, specifically in the field of hydrology. |
 | [Climate-indices](https://github.com/monocongo/climate_indices) | Climate indices for drought monitoring, community reference implementations in Python. |
+|[HydroLM](https://github.com/mullenkamp/HydroLM)|The HydroLM package contains a class and functions for automating linear regressions OLS for hydrologists.|
 
 Data Collection
 ---------------
@@ -110,5 +112,7 @@ Miscellaneous
 | [Hydrofunctions](https://github.com/mroberge/hydrofunctions) | A suite of convenience functions for working with hydrology data in an interactive Python session.|
 | [Shyft](https://gitlab.com/shyft-os) | Shyft is the open-source toolbox for the energy-market domain, funded and supported by Statkraft. |
 |[Hydroshare](https://github.com/hydroshare/hydroshare) | HydroShare is a collaborative website for better access to data and models in the hydrologic sciences.|
+|[Hydrobox](https://github.com/mmaelicke/hydrobox)|hydrological preprocessing and analysis toolbox build upon pandas and numpy|
+|[Wetland](https://github.com/giswqs/wetland)|wetland is a toolset for mapping surface water and wetland hydrological dynamics using fine-resolution aerial imagery within Google Earth Engine (GEE).|
 
 
