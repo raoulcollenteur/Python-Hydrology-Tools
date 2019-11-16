@@ -23,6 +23,7 @@ Hydrological Models
 | [HydrPy](https://github.com/hydpy-dev/hydpy) | A framework for the development and application of hydrological models based on Python. |
 | [Catchmod](https://pypi.org/project/pycatchmod/) | CATCHMOD is widely used rainfall runoff model in the United Kingdom. It was introduced by Wilby (1994).|
 | [wflow](https://github.com/openstreams/wflow) | wflow consists of a set of Python programs that can be run on the command line and perform hydrological simulations. The models are based on the PCRaster Python framework |
+|[PyTOPKAPI](https://github.com/sahg/PyTOPKAPI)|PyTOPKAPI is a BSD licensed Python library implementing the TOPKAPI Hydrological model (Liu and Todini, 2002).|
 
 
 Meteorological tools
@@ -108,5 +109,6 @@ Miscellaneous
 | [EFlowCalc](https://github.com/ThibHlln/eflowcalc) | EFlowCalc is an open-source calculator of ecological streamflow characteristics in Python. |
 | [Hydrofunctions](https://github.com/mroberge/hydrofunctions) | A suite of convenience functions for working with hydrology data in an interactive Python session.|
 | [Shyft](https://gitlab.com/shyft-os) | Shyft is the open-source toolbox for the energy-market domain, funded and supported by Statkraft. |
+|[Hydroshare](https://github.com/hydroshare/hydroshare) | HydroShare is a collaborative website for better access to data and models in the hydrologic sciences.|
 
 
