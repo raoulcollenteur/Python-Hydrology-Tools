@@ -41,14 +41,11 @@ Meteorological tools
 | [Evaporation](https://github.com/openmeteo/evaporation) | Calculation of evaporation and transpiration. |
 | [rainymotion](https://github.com/hydrogo/rainymotion) | Python library for radar-based precipitation nowcasting based on optical flow techniques.|
 
-Time Series (Analysis)
-----------------------
+Unsaturated Zone
+----------------
 | Project Name | Description |
 | ------- | ------ |
-| [Hydropy](https://github.com/stijnvanhoey/hydropy) | Analysis of hydrological oriented time series. |
-| [Pastas](https://github.com/pastas/pastas) | Analysis of hydrological time series using time series models. |
-| [Hydrostats](https://github.com/BYU-Hydroinformatics/Hydrostats) | Tools for use in comparison studies, specifically for use in the field of hydrology. |
-|[htimeseries](https://github.com/openmeteo/htimeseries)| This module provides the HTimeseries class, which is a layer on top of pandas, offering a little more functionality.|
+|[Pytesmo](https://github.com/TUW-GEO/pytesmo)|python Toolbox for the Evaluation of Soil Moisture Observations.|
 
 Groundwater 
 -----------
@@ -60,6 +57,15 @@ Groundwater
 | [TIMML](https://github.com/mbakker7/timml) |  A Multi-Layer, Analytic Element Model. |
 | [TTim](https://github.com/mbakker7/ttim) | A Multi-Layer, Transient, Analytic Element Model.  |
 | [PyHELP](https://github.com/cgq-qgc/pyhelp) | A Python library for the assessment of spatially distributed groundwater recharge and hydrological components with HELP. |
+
+Time Series (Analysis)
+----------------------
+| Project Name | Description |
+| ------- | ------ |
+| [Hydropy](https://github.com/stijnvanhoey/hydropy) | Analysis of hydrological oriented time series. |
+| [Pastas](https://github.com/pastas/pastas) | Analysis of hydrological time series using time series models. |
+| [Hydrostats](https://github.com/BYU-Hydroinformatics/Hydrostats) | Tools for use in comparison studies, specifically for use in the field of hydrology. |
+|[htimeseries](https://github.com/openmeteo/htimeseries)| This module provides the HTimeseries class, which is a layer on top of pandas, offering a little more functionality.|
 
 GIS Related
 -----------
