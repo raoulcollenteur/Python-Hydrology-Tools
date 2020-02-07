@@ -52,6 +52,7 @@ Groundwater
 | Project Name | Description |
 | ------- | ------ |
 | [Flopy](https://github.com/modflowpy/flopy) | The Python interface to MODFLOW. |
+| [imod-python](https://imod.xyz/) | Make massive MODFLOW models. |
 | [Idfpy](https://github.com/tomvansteijn/idfpy) | A simple module for reading and writing iMOD IDF files. IDF is a simple binary format used by the iMOD groundwater modelling software. |
 | [WellApplication](https://github.com/utah-geological-survey/WellApplication) | Set of tools for groundwater level and water chemistry analysis. |
 | [TIMML](https://github.com/mbakker7/timml) |  A Multi-Layer, Analytic Element Model. |
@@ -110,7 +111,7 @@ Miscellaneous
 | [SPHY](https://github.com/WilcoTerink/SPHY) |  Spatial Processes in HYdrology (SPHY) model |
 | [xsboringen](https://github.com/tomvansteijn/xsboringen) | (In Dutch) A python library for processing and plotting borehole and CPT data, developed for open data formats in the Netherlands. |
 | [PyMT](https://github.com/csdms/pymt/) | PyMT is an Open Source Python package that provides the necessary tools used for the coupling of models that expose the Basic Model Interface (BMI).|
-| [Ladlab](https://github.com/landlab/landlab) | The Landlab project creates an environment in which scientists can build a numerical landscape model without having to code all of the individual components. |
+| [Landlab](https://github.com/landlab/landlab) | The Landlab project creates an environment in which scientists can build a numerical landscape model without having to code all of the individual components. |
 | [EFlowCalc](https://github.com/ThibHlln/eflowcalc)| Calculator of Streamflow Characteristics. |
 | [IRIS](https://github.com/SciTools/iris) | A powerful, format-agnostic, and community-driven Python library for analysing and visualising Earth science data. |
 | [Hydrointerp](https://github.com/mullenkamp/hydrointerp) | A Python package for interpolating hydrologic data. |
