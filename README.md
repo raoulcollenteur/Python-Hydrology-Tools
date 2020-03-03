@@ -46,6 +46,7 @@ Unsaturated Zone
 | Project Name | Description |
 | ------- | ------ |
 |[Pytesmo](https://github.com/TUW-GEO/pytesmo)|python Toolbox for the Evaluation of Soil Moisture Observations.|
+|[Phydrus](https://github.com/phydrus/phydrus)|Python implementation of the HYDRUS-1D unsaturated zone model|
 
 Groundwater 
 -----------
