@@ -61,6 +61,7 @@ Groundwater
 | [PyHELP](https://github.com/cgq-qgc/pyhelp) | A Python library for the assessment of spatially distributed groundwater recharge and hydrological components with HELP. |
 | [PyRecharge](https://github.com/abdikaiym/pyrecharge)| Spatially distributed groundwater recharge and depletion modeling framework in Python|
 | [Anaflow](https://github.com/GeoStat-Framework/AnaFlow)| A python-package containing analytical solutions for the groundwater flow equation|
+|[WellTestPy](https://github.com/GeoStat-Framework/welltestpy)| A python-package for handling well based field campaigns.|
 
 Time Series (Analysis)
 ----------------------
