@@ -60,6 +60,7 @@ Groundwater
 | [TTim](https://github.com/mbakker7/ttim) | A Multi-Layer, Transient, Analytic Element Model.  |
 | [PyHELP](https://github.com/cgq-qgc/pyhelp) | A Python library for the assessment of spatially distributed groundwater recharge and hydrological components with HELP. |
 | [PyRecharge](https://github.com/abdikaiym/pyrecharge)| Spatially distributed groundwater recharge and depletion modeling framework in Python|
+| [Anaflow](https://github.com/GeoStat-Framework/AnaFlow)| A python-package containing analytical solutions for the groundwater flow equation|
 
 Time Series (Analysis)
 ----------------------
