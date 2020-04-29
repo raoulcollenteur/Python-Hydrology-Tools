@@ -25,6 +25,7 @@ Hydrological Models
 | [wflow](https://github.com/openstreams/wflow) | wflow consists of a set of Python programs that can be run on the command line and perform hydrological simulations. The models are based on the PCRaster Python framework |
 |[PyTOPKAPI](https://github.com/sahg/PyTOPKAPI)|PyTOPKAPI is a BSD licensed Python library implementing the TOPKAPI Hydrological model (Liu and Todini, 2002).|
 |[mhmpy](https://github.com/MuellerSeb/mhmpy)|A Python-API for the mesoscale Hydrological Model.|
+|[SuperflexPy](https://github.com/dalmo1991/superflexPy)|SuperflexPy: A new open source framework for building conceptual hydrological models |
 
 
 Meteorological tools
