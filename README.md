@@ -124,7 +124,7 @@ Miscellaneous
 | [Hydrofunctions](https://github.com/mroberge/hydrofunctions) | A suite of convenience functions for working with hydrology data in an interactive Python session.|
 | [Shyft](https://gitlab.com/shyft-os) | Shyft is the open-source toolbox for the energy-market domain, funded and supported by Statkraft. |
 |[Hydroshare](https://github.com/hydroshare/hydroshare) | HydroShare is a collaborative website for better access to data and models in the hydrologic sciences.|
-|[Hydrobox](https://github.com/mmaelicke/hydrobox)|hydrological preprocessing and analysis toolbox build upon pandas and numpy|
+|[Hydrobox](https://github.com/VForWaTer/hydrobox)|hydrological preprocessing and analysis toolbox build upon pandas and numpy|
 |[Wetland](https://github.com/giswqs/wetland)|wetland is a toolset for mapping surface water and wetland hydrological dynamics using fine-resolution aerial imagery within Google Earth Engine (GEE).|
 
 
