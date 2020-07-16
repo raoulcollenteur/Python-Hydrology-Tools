@@ -105,6 +105,7 @@ Data Collection
 | [Ecohydrolib](https://github.com/selimnairb/EcohydroLib)| Libraries and command-line scripts for performing ecohydrology data preparation workflows. |
 | [Ulmo](https://github.com/ulmo-dev/ulmo/) | clean, simple and fast access to public hydrology and climatology data.|
 | [PyHIS](https://pypi.org/project/pyhis/)| PyHIS is a python library for querying CUAHSI*-HIS** web services|
+| [Wetterdienst](https://github.com/earthobservations/wetterdienst)|Python Toolset For Accessing Weather Data From German Weather Service|
 
 Miscellaneous
 -------------
