@@ -26,7 +26,7 @@ Hydrological Models
 |[PyTOPKAPI](https://github.com/sahg/PyTOPKAPI)|PyTOPKAPI is a BSD licensed Python library implementing the TOPKAPI Hydrological model (Liu and Todini, 2002).|
 |[mhmpy](https://github.com/MuellerSeb/mhmpy)|A Python-API for the mesoscale Hydrological Model.|
 |[SuperflexPy](https://github.com/dalmo1991/superflexPy)|SuperflexPy: A new open source framework for building conceptual hydrological models |
-
+|[NeuralHydrology](https://github.com/neuralhydrology/neuralhydrology)|Python library to train neural networks with a strong focus on hydrological applications.|
 
 Meteorological tools
 --------------------
