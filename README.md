@@ -63,6 +63,7 @@ Groundwater
 | [PyRecharge](https://github.com/abdikaiym/pyrecharge)| Spatially distributed groundwater recharge and depletion modeling framework in Python|
 | [Anaflow](https://github.com/GeoStat-Framework/AnaFlow)| A python-package containing analytical solutions for the groundwater flow equation|
 |[WellTestPy](https://github.com/GeoStat-Framework/welltestpy)| A python-package for handling well based field campaigns.|
+|[HydroGeoSines](https://github.com/HydroGeoSines/HydroGeoSines) |Signal In the Noise Exploration Software for Hydrogeological Datasets.|
 
 Time Series (Analysis)
 ----------------------
