@@ -108,6 +108,7 @@ Data Collection
 | [Ulmo](https://github.com/ulmo-dev/ulmo/) | clean, simple and fast access to public hydrology and climatology data.|
 | [PyHIS](https://pypi.org/project/pyhis/)| PyHIS is a python library for querying CUAHSI*-HIS** web services|
 | [Wetterdienst](https://github.com/earthobservations/wetterdienst)|Python Toolset For Accessing Weather Data From German Weather Service|
+| [Dataretrieval](https://github.com/USGS-python/dataretrieval) | dataretrieval is a Python package for obtaining USGS or EPA water quality data, streamflow data, and metadata directly from web services.|
 
 Miscellaneous
 -------------
