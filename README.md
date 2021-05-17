@@ -97,6 +97,7 @@ Optimization, Uncertainty, Statistics
 | [Climate-indices](https://github.com/monocongo/climate_indices) | Climate indices for drought monitoring, community reference implementations in Python. |
 |[HydroLM](https://github.com/mullenkamp/HydroLM)|The HydroLM package contains a class and functions for automating linear regressions OLS for hydrologists.|
 |[PySDI](https://bitbucket.org/pysdi/pysdi/src/master/)|pysdi is a set of open source scripts that compute non-parametric standardized drought indices (SDI) using raster data sets as input data.|
+|[xskillscore](https://github.com/xarray-contrib/xskillscore)| Metrics for verifying forecasts.|
 
 Data Collection
 ---------------
