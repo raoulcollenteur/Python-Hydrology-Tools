@@ -41,6 +41,7 @@ Meteorological tools
 | [PySteps](https://github.com/pySTEPS/pysteps) | pySTEPS is a community-driven initiative for developing and maintaining an easy to use, modular, free and open source Python framework for short-term ensemble prediction systems. | 
 | [Evaporation](https://github.com/openmeteo/evaporation) | Calculation of evaporation and transpiration. |
 | [rainymotion](https://github.com/hydrogo/rainymotion) | Python library for radar-based precipitation nowcasting based on optical flow techniques.|
+| [pyet](https://github.com/phydrus/pyet) | A python-package for calculating reference and potential evaporation. |
 
 Unsaturated Zone
 ----------------
