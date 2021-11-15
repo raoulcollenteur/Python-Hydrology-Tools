@@ -27,6 +27,7 @@ Hydrological Models
 |[mhmpy](https://github.com/MuellerSeb/mhmpy)|A Python-API for the mesoscale Hydrological Model.|
 |[SuperflexPy](https://github.com/dalmo1991/superflexPy)|SuperflexPy: A new open source framework for building conceptual hydrological models |
 |[NeuralHydrology](https://github.com/neuralhydrology/neuralhydrology)|Python library to train neural networks with a strong focus on hydrological applications.|
+|[DRYP](https://github.com/AndresQuichimbo/DRYP)|Dryland Water Partition model.|
 
 Meteorological tools
 --------------------
