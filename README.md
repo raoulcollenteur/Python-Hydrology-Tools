@@ -28,6 +28,7 @@ Hydrological Models
 |[SuperflexPy](https://github.com/dalmo1991/superflexPy)|SuperflexPy: A new open source framework for building conceptual hydrological models |
 |[NeuralHydrology](https://github.com/neuralhydrology/neuralhydrology)|Python library to train neural networks with a strong focus on hydrological applications.|
 |[DRYP](https://github.com/AndresQuichimbo/DRYP)|Dryland Water Partition model.|
+|[LuKars](https://github.com/dbittner87/LuKARS)|The LuKARS model is a lumped karst hydrological model to perform studies in karstic environments.|
 
 Meteorological tools
 --------------------
