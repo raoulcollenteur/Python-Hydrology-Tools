@@ -57,7 +57,7 @@ Groundwater
 | Project Name | Description |
 | ------- | ------ |
 | [Flopy](https://github.com/modflowpy/flopy) | The Python interface to MODFLOW. |
-| [imod-python](https://imod.xyz/) | Make massive MODFLOW models. |
+| [imod-python](https://deltares.gitlab.io/imod/imod-python/) | Make massive MODFLOW models. |
 | [Idfpy](https://github.com/tomvansteijn/idfpy) | A simple module for reading and writing iMOD IDF files. IDF is a simple binary format used by the iMOD groundwater modelling software. |
 | [WellApplication](https://github.com/utah-geological-survey/WellApplication) | Set of tools for groundwater level and water chemistry analysis. |
 | [TIMML](https://github.com/mbakker7/timml) |  A Multi-Layer, Analytic Element Model. |
