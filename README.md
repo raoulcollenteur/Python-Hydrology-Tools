@@ -137,4 +137,5 @@ Miscellaneous
 |[Wetland](https://github.com/giswqs/wetland)|wetland is a toolset for mapping surface water and wetland hydrological dynamics using fine-resolution aerial imagery within Google Earth Engine (GEE).|
 |[iRONS](https://github.com/AndresPenuela/iRONS)|iRONS (interactive Reservoir Operation Notebooks and Software) is a python package that enables the simulation, forecasting and optimisation of reservoir systems.|
 |[Mesas](https://github.com/charman2/mesas)|Multiresolution Estimation of StorAge Selection functions.|
+|[eWaterCycle](https://doi.org/10.5194/gmd-15-5371-2022)|Platform to do computational hydrology using many of the above mentioned models|
 
