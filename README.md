@@ -53,6 +53,7 @@ Unsaturated Zone
 |[Pytesmo](https://github.com/TUW-GEO/pytesmo)|python Toolbox for the Evaluation of Soil Moisture Observations.|
 |[Phydrus](https://github.com/phydrus/phydrus)|Python implementation of the HYDRUS-1D unsaturated zone model|
 |[VS2DPY](https://github.com/martinvonk/VS2DPY)|Python implementation of the VS2D unsaturated zone model.|
+|[pedon](https://github.com/martinvonk/pedon)|Python package for (unsaturated) soil properties including pedotransfer functions.|
 
 Groundwater
 -----------
