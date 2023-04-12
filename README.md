@@ -45,6 +45,7 @@ Meteorological tools
 | [Evaporation](https://github.com/openmeteo/evaporation) | Calculation of evaporation and transpiration. |
 | [rainymotion](https://github.com/hydrogo/rainymotion) | Python library for radar-based precipitation nowcasting based on optical flow techniques.|
 | [pyet](https://github.com/phydrus/pyet) | A python-package for calculating reference and potential evaporation. |
+| [SPEI](https://github.com/martinvonk/SPEI) | A simple Python package to calculate and visualize some popular drought indices such as the SPI, SPEI and SGI. |
 
 Unsaturated Zone
 ----------------
