@@ -41,7 +41,7 @@ Meteorological tools
 | [MetSim](https://github.com/UW-Hydro/MetSim) | MetSim is a meteorological simulator and forcing disaggregator for hydrologic modeling and climate applications. |
 | [MELODIST](https://github.com/kristianfoerster/melodist)| MELODIST is an open-source toolbox written in Python for disaggregating daily meteorological time series to hourly time steps. |
 | [PyCat](https://github.com/wegener-center/pyCAT) | Climate Analysis Tool written in python |
-| [PySteps](https://github.com/pySTEPS/pysteps) | pySTEPS is a community-driven initiative for developing and maintaining an easy to use, modular, free and open source Python framework for short-term ensemble prediction systems. | 
+| [PySteps](https://github.com/pySTEPS/pysteps) | pySTEPS is a community-driven initiative for developing and maintaining an easy to use, modular, free and open source Python framework for short-term ensemble prediction systems. |
 | [Evaporation](https://github.com/openmeteo/evaporation) | Calculation of evaporation and transpiration. |
 | [rainymotion](https://github.com/hydrogo/rainymotion) | Python library for radar-based precipitation nowcasting based on optical flow techniques.|
 | [pyet](https://github.com/phydrus/pyet) | A python-package for calculating reference and potential evaporation. |
@@ -53,7 +53,7 @@ Unsaturated Zone
 |[Pytesmo](https://github.com/TUW-GEO/pytesmo)|python Toolbox for the Evaluation of Soil Moisture Observations.|
 |[Phydrus](https://github.com/phydrus/phydrus)|Python implementation of the HYDRUS-1D unsaturated zone model|
 
-Groundwater 
+Groundwater
 -----------
 | Project Name | Description |
 | ------- | ------ |
@@ -77,7 +77,7 @@ Time Series (Analysis)
 | [Pastas](https://github.com/pastas/pastas) | Analysis of hydrological time series using time series models. |
 | [Hydrostats](https://github.com/BYU-Hydroinformatics/Hydrostats) | Tools for use in comparison studies, specifically for use in the field of hydrology. |
 |[htimeseries](https://github.com/openmeteo/htimeseries)| This module provides the HTimeseries class, which is a layer on top of pandas, offering a little more functionality.|
-|[HidroAnalysis](https://github.com/dalmo1991/HydroAnalysis)| Python package to calculate indices and metrics useful in the everyday job of a hydrologist. |
+|[HydroAnalysis](https://github.com/dalmo1991/HydroAnalysis)| Python package to calculate indices and metrics useful in the everyday job of a hydrologist. |
 
 GIS Related
 -----------
