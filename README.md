@@ -68,6 +68,7 @@ Groundwater
 | [Anaflow](https://github.com/GeoStat-Framework/AnaFlow)| A python-package containing analytical solutions for the groundwater flow equation|
 |[WellTestPy](https://github.com/GeoStat-Framework/welltestpy)| A python-package for handling well based field campaigns.|
 |[HydroGeoSines](https://github.com/HydroGeoSines/HydroGeoSines) |Signal In the Noise Exploration Software for Hydrogeological Datasets.|
+| [nlmod](https://github.com/ArtesiaWater/nlmod) | Python code to process, build and visualize MODFLOW models in the Netherlands. Model data is stored in a xarray Datasets and geopandas GeoDataFrames. |
 
 Time Series (Analysis)
 ----------------------
