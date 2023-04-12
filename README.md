@@ -79,6 +79,7 @@ Time Series (Analysis)
 | [Hydrostats](https://github.com/BYU-Hydroinformatics/Hydrostats) | Tools for use in comparison studies, specifically for use in the field of hydrology. |
 |[htimeseries](https://github.com/openmeteo/htimeseries)| This module provides the HTimeseries class, which is a layer on top of pandas, offering a little more functionality.|
 |[HydroAnalysis](https://github.com/dalmo1991/HydroAnalysis)| Python package to calculate indices and metrics useful in the everyday job of a hydrologist. |
+| [HydroPandas](https://github.com/ArtesiaWater/hydropandas) | Module for loading time series data into custom DataFrames |
 
 GIS Related
 -----------
