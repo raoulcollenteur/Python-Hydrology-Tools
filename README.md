@@ -41,10 +41,11 @@ Meteorological tools
 | [MetSim](https://github.com/UW-Hydro/MetSim) | MetSim is a meteorological simulator and forcing disaggregator for hydrologic modeling and climate applications. |
 | [MELODIST](https://github.com/kristianfoerster/melodist)| MELODIST is an open-source toolbox written in Python for disaggregating daily meteorological time series to hourly time steps. |
 | [PyCat](https://github.com/wegener-center/pyCAT) | Climate Analysis Tool written in python |
-| [PySteps](https://github.com/pySTEPS/pysteps) | pySTEPS is a community-driven initiative for developing and maintaining an easy to use, modular, free and open source Python framework for short-term ensemble prediction systems. | 
+| [PySteps](https://github.com/pySTEPS/pysteps) | pySTEPS is a community-driven initiative for developing and maintaining an easy to use, modular, free and open source Python framework for short-term ensemble prediction systems. |
 | [Evaporation](https://github.com/openmeteo/evaporation) | Calculation of evaporation and transpiration. |
 | [rainymotion](https://github.com/hydrogo/rainymotion) | Python library for radar-based precipitation nowcasting based on optical flow techniques.|
 | [pyet](https://github.com/phydrus/pyet) | A python-package for calculating reference and potential evaporation. |
+| [SPEI](https://github.com/martinvonk/SPEI) | A simple Python package to calculate and visualize some popular drought indices such as the SPI, SPEI and SGI. |
 
 Unsaturated Zone
 ----------------
@@ -52,12 +53,14 @@ Unsaturated Zone
 | ------- | ------ |
 |[Pytesmo](https://github.com/TUW-GEO/pytesmo)|python Toolbox for the Evaluation of Soil Moisture Observations.|
 |[Phydrus](https://github.com/phydrus/phydrus)|Python implementation of the HYDRUS-1D unsaturated zone model|
+|[VS2DPY](https://github.com/martinvonk/VS2DPY)|Python implementation of the VS2D unsaturated zone model.|
+|[pedon](https://github.com/martinvonk/pedon)|Python package for (unsaturated) soil properties including pedotransfer functions.|
 
-Groundwater 
+Groundwater
 -----------
 | Project Name | Description |
 | ------- | ------ |
-| [Flopy](https://github.com/modflowpy/flopy) | The Python interface to MODFLOW. |
+| [FloPy](https://github.com/modflowpy/flopy) | The Python interface to MODFLOW. |
 | [imod-python](https://deltares.gitlab.io/imod/imod-python/) | Make massive MODFLOW models. |
 | [Idfpy](https://github.com/tomvansteijn/idfpy) | A simple module for reading and writing iMOD IDF files. IDF is a simple binary format used by the iMOD groundwater modelling software. |
 | [WellApplication](https://github.com/utah-geological-survey/WellApplication) | Set of tools for groundwater level and water chemistry analysis. |
@@ -68,6 +71,7 @@ Groundwater
 | [Anaflow](https://github.com/GeoStat-Framework/AnaFlow)| A python-package containing analytical solutions for the groundwater flow equation|
 |[WellTestPy](https://github.com/GeoStat-Framework/welltestpy)| A python-package for handling well based field campaigns.|
 |[HydroGeoSines](https://github.com/HydroGeoSines/HydroGeoSines) |Signal In the Noise Exploration Software for Hydrogeological Datasets.|
+| [nlmod](https://github.com/ArtesiaWater/nlmod) | Python code to process, build and visualize MODFLOW models in the Netherlands. Model data is stored in a xarray Datasets and geopandas GeoDataFrames. |
 
 Time Series (Analysis)
 ----------------------
@@ -77,7 +81,9 @@ Time Series (Analysis)
 | [Pastas](https://github.com/pastas/pastas) | Analysis of hydrological time series using time series models. |
 | [Hydrostats](https://github.com/BYU-Hydroinformatics/Hydrostats) | Tools for use in comparison studies, specifically for use in the field of hydrology. |
 |[htimeseries](https://github.com/openmeteo/htimeseries)| This module provides the HTimeseries class, which is a layer on top of pandas, offering a little more functionality.|
-|[HidroAnalysis](https://github.com/dalmo1991/HydroAnalysis)| Python package to calculate indices and metrics useful in the everyday job of a hydrologist. |
+|[HydroAnalysis](https://github.com/dalmo1991/HydroAnalysis)| Python package to calculate indices and metrics useful in the everyday job of a hydrologist. |
+| [HydroPandas](https://github.com/ArtesiaWater/hydropandas) | Module for loading time series data into custom DataFrames |
+| [traval](https://github.com/ArtesiaWater/traval) | Tools for applying automatic error detection schemes to timeseries |
 
 GIS Related
 -----------
