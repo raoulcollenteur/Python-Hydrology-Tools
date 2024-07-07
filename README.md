@@ -37,6 +37,7 @@ Meteorological tools
 | ------- | ------ |
 | [MetPy](https://github.com/Unidata/MetPy) | MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data. |
 | [PyEto](https://github.com/woodcrafty/PyETo) | PyETo is a Python library for calculating reference crop evapotranspiration (ETo), sometimes referred to as potential evapotranspiration (PET). The library provides numerous functions for estimating missing meteorological data. |
+| [pyfao56](https://github.com/kthorp/pyfao56) | A Python implementation of the FAO-56 dual crop coefficient approach for crop water use estimation and irrigation scheduling. |
 | [Improver](https://github.com/metoppv/improver) | IMPROVER is a library of algorithms for meteorological post-processing and verification. |
 | [MetSim](https://github.com/UW-Hydro/MetSim) | MetSim is a meteorological simulator and forcing disaggregator for hydrologic modeling and climate applications. |
 | [MELODIST](https://github.com/kristianfoerster/melodist)| MELODIST is an open-source toolbox written in Python for disaggregating daily meteorological time series to hourly time steps. |
