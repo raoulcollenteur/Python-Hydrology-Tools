@@ -29,7 +29,8 @@ Hydrological Models
 |[NeuralHydrology](https://github.com/neuralhydrology/neuralhydrology)|Python library to train neural networks with a strong focus on hydrological applications.|
 |[DRYP](https://github.com/AndresQuichimbo/DRYP)|Dryland Water Partition model.|
 |[LuKars](https://github.com/dbittner87/LuKARS)|The LuKARS model is a lumped karst hydrological model to perform studies in karstic environments.|
-|[SUMMA](https://github.com/CH-Earth/summa)|A hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques
+|[SUMMA](https://github.com/CH-Earth/summa)|A hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques.|
+|[HydPy](https://github.com/hydpy-dev/hydpy)|A framework for the development and application of hydrological models based on Python|
 
 Meteorological tools
 --------------------
