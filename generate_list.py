@@ -24,13 +24,23 @@ def generate_list():
 
         for category, packages in categories.items():
             file.write(f"## {category}\n")
-            file.write("| Project Name | Description | PyPI | Conda |\n")
-            file.write("| ------------ | ----------- | ---- | ----- |\n")
+            file.write(
+                "| Project Name | Description | PyPI | Conda | Docs | CI | Version | Last Update | DOI Paper |\n"
+            )
+            file.write(
+                "| ------------ | ----------- | ---- | ----- | ---- | -- | ------- | ----------- | --------- |\n"
+            )
             for package_name, package in packages:
                 description = package["description"]
                 url = package["url"]
                 pypi_url = package.get("pypi", "")
                 conda_url = package.get("conda", "")
+                docs_url = package.get("docs", "")
+                ci_status = package.get("CI", 0)
+                version = package.get("version", "")
+                last_update = package.get("last_update", "")
+                doi_paper = package.get("doi_paper", "")
+
                 pypi_logo = (
                     f"[![PyPI](https://img.shields.io/badge/PyPI-3776AB?logo=python&logoColor=white)]({pypi_url})"
                     if pypi_url
@@ -41,8 +51,24 @@ def generate_list():
                     if conda_url
                     else ""
                 )
+                docs_logo = (
+                    f"[![Docs](https://img.shields.io/badge/Docs-217346?logo=readthedocs&logoColor=white)]({docs_url})"
+                    if docs_url
+                    else ""
+                )
+                ci_logo = (
+                    "[![CI](https://img.shields.io/badge/CI-passing-brightgreen)]"
+                    if ci_status
+                    else ""
+                )
+                doi_paper_logo = (
+                    f"[![DOI](https://img.shields.io/badge/DOI-10.1000/xyz123-blue)]({doi_paper})"
+                    if doi_paper
+                    else ""
+                )
+
                 file.write(
-                    f"| [{package_name}]({url}) | {description} | {pypi_logo} | {conda_logo} |\n"
+                    f"| [{package_name}]({url}) | {description} | {pypi_logo} | {conda_logo} | {docs_logo} | {ci_logo} | {version} | {last_update} | {doi_paper_logo} |\n"
                 )
             file.write("\n")
 

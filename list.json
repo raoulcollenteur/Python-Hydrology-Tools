@@ -9,7 +9,8 @@
         "pypi": "https://pypi.org/project/CMF/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "TopoFlow": {
         "description": "A spatial hydrologic model (D8-based, fully BMI-compliant).",
@@ -21,7 +22,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "VIC": {
         "description": "The Variable Infiltration Capacity (VIC) Macroscale Hydrologic Model.",
@@ -33,7 +35,8 @@
         "pypi": "https://pypi.org/project/VIC/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/VIC"
+        "conda": "https://anaconda.org/conda-forge/VIC",
+        "version": ""
     },
     "Xanthos": {
         "description": "Xanthos is an open-source hydrologic model, written in Python, designed to quantify and analyze global water availability.",
@@ -45,7 +48,8 @@
         "pypi": "https://pypi.org/project/Xanthos/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "WRF-Hydro": {
         "description": "wrfhydrpy is a Python API for the WRF-Hydro modelling system.",
@@ -57,7 +61,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "EXP-HYDRO": {
         "description": "EXP-HYDRO is a catchment scale hydrological model that operates at a daily time-step. It takes as inputs the daily values of precipitation, air temperature, and potential evapotranspiration, and simulates daily streamflow at the catchment outlet.",
@@ -69,7 +74,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "RRMPG": {
         "description": "Rainfall-Runoff modelling playground.",
@@ -81,7 +87,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "LHMP": {
         "description": "Lumped Hydrological Models Playground.",
@@ -93,7 +100,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "SMARTPy": {
         "description": "Python implementation of the rainfall-runoff model SMART",
@@ -105,7 +113,8 @@
         "pypi": "https://pypi.org/project/SMARTPy/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "PyStream": {
         "description": "Python implementation of the STREAM hydrological rainfall-runoff model.",
@@ -117,7 +126,8 @@
         "pypi": "https://pypi.org/project/PyStream/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "HydPy": {
         "description": "A framework for the development and application of hydrological models based on Python.",
@@ -129,7 +139,8 @@
         "pypi": "https://pypi.org/project/HydPy/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "Catchmod": {
         "description": "CATCHMOD is widely used rainfall runoff model in the United Kingdom. It was introduced by Wilby (1994).",
@@ -141,7 +152,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "wflow": {
         "description": "wflow consists of a set of Python programs that can be run on the command line and perform hydrological simulations. The models are based on the PCRaster Python framework",
@@ -153,7 +165,8 @@
         "pypi": "https://pypi.org/project/wflow/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/wflow"
+        "conda": "https://anaconda.org/conda-forge/wflow",
+        "version": ""
     },
     "PyTOPKAPI": {
         "description": "PyTOPKAPI is a BSD licensed Python library implementing the TOPKAPI Hydrological model (Liu and Todini, 2002).",
@@ -165,7 +178,8 @@
         "pypi": "https://pypi.org/project/PyTOPKAPI/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "mhmpy": {
         "description": "A Python-API for the mesoscale Hydrological Model.",
@@ -177,7 +191,8 @@
         "pypi": "https://pypi.org/project/mhmpy/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "SuperflexPy": {
         "description": "SuperflexPy: A new open source framework for building conceptual hydrological models",
@@ -189,7 +204,8 @@
         "pypi": "https://pypi.org/project/SuperflexPy/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "NeuralHydrology": {
         "description": "Python library to train neural networks with a strong focus on hydrological applications.",
@@ -201,7 +217,8 @@
         "pypi": "https://pypi.org/project/NeuralHydrology/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "DRYP": {
         "description": "Dryland Water Partition model.",
@@ -213,7 +230,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "LuKars": {
         "description": "The LuKARS model is a lumped karst hydrological model to perform studies in karstic environments.",
@@ -225,7 +243,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "SUMMA": {
         "description": "A hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques.",
@@ -237,7 +256,8 @@
         "pypi": "https://pypi.org/project/SUMMA/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/SUMMA"
+        "conda": "https://anaconda.org/conda-forge/SUMMA",
+        "version": ""
     },
     "MetPy": {
         "description": "MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data.",
@@ -249,7 +269,8 @@
         "pypi": "https://pypi.org/project/MetPy/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/MetPy"
+        "conda": "https://anaconda.org/conda-forge/MetPy",
+        "version": ""
     },
     "PyEto": {
         "description": "PyETo is a Python library for calculating reference crop evapotranspiration (ETo), sometimes referred to as potential evapotranspiration (PET). The library provides numerous functions for estimating missing meteorological data.",
@@ -261,7 +282,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "pyfao56": {
         "description": "A Python implementation of the FAO-56 dual crop coefficient approach for crop water use estimation and irrigation scheduling.",
@@ -273,7 +295,8 @@
         "pypi": "https://pypi.org/project/pyfao56/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/pyfao56"
+        "conda": "https://anaconda.org/conda-forge/pyfao56",
+        "version": ""
     },
     "Improver": {
         "description": "IMPROVER is a library of algorithms for meteorological post-processing and verification.",
@@ -285,7 +308,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/Improver"
+        "conda": "https://anaconda.org/conda-forge/Improver",
+        "version": ""
     },
     "MetSim": {
         "description": "MetSim is a meteorological simulator and forcing disaggregator for hydrologic modeling and climate applications.",
@@ -297,7 +321,8 @@
         "pypi": "https://pypi.org/project/MetSim/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/MetSim"
+        "conda": "https://anaconda.org/conda-forge/MetSim",
+        "version": ""
     },
     "MELODIST": {
         "description": "MELODIST is an open-source toolbox written in Python for disaggregating daily meteorological time series to hourly time steps.",
@@ -309,7 +334,8 @@
         "pypi": "https://pypi.org/project/MELODIST/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "PyCat": {
         "description": "Climate Analysis Tool written in python",
@@ -321,7 +347,8 @@
         "pypi": "https://pypi.org/project/PyCat/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "PySteps": {
         "description": "pySTEPS is a community-driven initiative for developing and maintaining an easy to use, modular, free and open source Python framework for short-term ensemble prediction systems.",
@@ -333,7 +360,8 @@
         "pypi": "https://pypi.org/project/PySteps/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/PySteps"
+        "conda": "https://anaconda.org/conda-forge/PySteps",
+        "version": ""
     },
     "Evaporation": {
         "description": "Calculation of evaporation and transpiration.",
@@ -345,7 +373,8 @@
         "pypi": "https://pypi.org/project/Evaporation/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "rainymotion": {
         "description": "Python library for radar-based precipitation nowcasting based on optical flow techniques.",
@@ -357,7 +386,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "pyet": {
         "description": "A python-package for calculating reference and potential evaporation.",
@@ -369,7 +399,8 @@
         "pypi": "https://pypi.org/project/pyet/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/pyet"
+        "conda": "https://anaconda.org/conda-forge/pyet",
+        "version": ""
     },
     "SPEI": {
         "description": "A simple Python package to calculate and visualize some popular drought indices such as the SPI, SPEI and SGI.",
@@ -381,7 +412,8 @@
         "pypi": "https://pypi.org/project/SPEI/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "Pytesmo": {
         "description": "python Toolbox for the Evaluation of Soil Moisture Observations.",
@@ -393,7 +425,8 @@
         "pypi": "https://pypi.org/project/Pytesmo/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "Phydrus": {
         "description": "Python implementation of the HYDRUS-1D unsaturated zone model",
@@ -405,7 +438,8 @@
         "pypi": "https://pypi.org/project/Phydrus/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "VS2DPY": {
         "description": "Python implementation of the VS2D unsaturated zone model.",
@@ -417,7 +451,8 @@
         "pypi": "https://pypi.org/project/VS2DPY/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "pedon": {
         "description": "Python package for (unsaturated) soil properties including pedotransfer functions.",
@@ -429,7 +464,8 @@
         "pypi": "https://pypi.org/project/pedon/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "FloPy": {
         "description": "The Python interface to MODFLOW.",
@@ -441,7 +477,8 @@
         "pypi": "https://pypi.org/project/FloPy/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/FloPy"
+        "conda": "https://anaconda.org/conda-forge/FloPy",
+        "version": ""
     },
     "imod-python": {
         "description": "Make massive MODFLOW models.",
@@ -453,7 +490,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "Idfpy": {
         "description": "A simple module for reading and writing iMOD IDF files. IDF is a simple binary format used by the iMOD groundwater modelling software.",
@@ -465,7 +503,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "WellApplication": {
         "description": "Set of tools for groundwater level and water chemistry analysis.",
@@ -477,7 +516,8 @@
         "pypi": "https://pypi.org/project/WellApplication/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/WellApplication"
+        "conda": "https://anaconda.org/conda-forge/WellApplication",
+        "version": ""
     },
     "TIMML": {
         "description": "A Multi-Layer, Analytic Element Model.",
@@ -489,7 +529,8 @@
         "pypi": "https://pypi.org/project/TIMML/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/TIMML"
+        "conda": "https://anaconda.org/conda-forge/TIMML",
+        "version": ""
     },
     "TTim": {
         "description": "A Multi-Layer, Transient, Analytic Element Model.",
@@ -501,7 +542,8 @@
         "pypi": "https://pypi.org/project/TTim/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/TTim"
+        "conda": "https://anaconda.org/conda-forge/TTim",
+        "version": ""
     },
     "PyHELP": {
         "description": "A Python library for the assessment of spatially distributed groundwater recharge and hydrological components with HELP.",
@@ -513,7 +555,8 @@
         "pypi": "https://pypi.org/project/PyHELP/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "Anaflow": {
         "description": "A python-package containing analytical solutions for the groundwater flow equation",
@@ -525,7 +568,8 @@
         "pypi": "https://pypi.org/project/Anaflow/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/Anaflow"
+        "conda": "https://anaconda.org/conda-forge/Anaflow",
+        "version": ""
     },
     "WellTestPy": {
         "description": "A python-package for handling well based field campaigns.",
@@ -537,7 +581,8 @@
         "pypi": "https://pypi.org/project/WellTestPy/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/WellTestPy"
+        "conda": "https://anaconda.org/conda-forge/WellTestPy",
+        "version": ""
     },
     "HydroGeoSines": {
         "description": "Signal In the Noise Exploration Software for Hydrogeological Datasets.",
@@ -549,7 +594,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "nlmod": {
         "description": "Python code to process, build and visualize MODFLOW models in the Netherlands. Model data is stored in a xarray Datasets and geopandas GeoDataFrames.",
@@ -561,7 +607,8 @@
         "pypi": "https://pypi.org/project/nlmod/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "Hydropy": {
         "description": "Analysis of hydrological oriented time series.",
@@ -573,7 +620,8 @@
         "pypi": "https://pypi.org/project/Hydropy/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "Pastas": {
         "description": "Analysis of hydrological time series using time series models.",
@@ -585,7 +633,8 @@
         "pypi": "https://pypi.org/project/Pastas/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/Pastas"
+        "conda": "https://anaconda.org/conda-forge/Pastas",
+        "version": ""
     },
     "Hydrostats": {
         "description": "Tools for use in comparison studies, specifically for use in the field of hydrology.",
@@ -597,7 +646,8 @@
         "pypi": "https://pypi.org/project/Hydrostats/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/Hydrostats"
+        "conda": "https://anaconda.org/conda-forge/Hydrostats",
+        "version": ""
     },
     "htimeseries": {
         "description": "This module provides the HTimeseries class, which is a layer on top of pandas, offering a little more functionality.",
@@ -609,7 +659,8 @@
         "pypi": "https://pypi.org/project/htimeseries/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "HydroAnalysis": {
         "description": "Python package to calculate indices and metrics useful in the everyday job of a hydrologist.",
@@ -621,7 +672,8 @@
         "pypi": "https://pypi.org/project/HydroAnalysis/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "HydroPandas": {
         "description": "Module for loading time series data into custom DataFrames",
@@ -633,7 +685,8 @@
         "pypi": "https://pypi.org/project/HydroPandas/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "traval": {
         "description": "Tools for applying automatic error detection schemes to timeseries",
@@ -645,7 +698,8 @@
         "pypi": "https://pypi.org/project/traval/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "PcRaster": {
         "description": "Is a collection of software targeted at the development and deployment of spatio-temporal environmental models.",
@@ -657,7 +711,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/PcRaster"
+        "conda": "https://anaconda.org/conda-forge/PcRaster",
+        "version": ""
     },
     "PyGeoprocessing": {
         "description": "A Python/Cython based library that provides a set of commonly used raster, vector, and hydrological operations for GIS processing.",
@@ -669,7 +724,8 @@
         "pypi": "https://pypi.org/project/PyGeoprocessing/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/PyGeoprocessing"
+        "conda": "https://anaconda.org/conda-forge/PyGeoprocessing",
+        "version": ""
     },
     "Pysheds": {
         "description": "Simple and fast watershed delineation in python.",
@@ -681,7 +737,8 @@
         "pypi": "https://pypi.org/project/Pysheds/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/Pysheds"
+        "conda": "https://anaconda.org/conda-forge/Pysheds",
+        "version": ""
     },
     "Lidar": {
         "description": "Terrain and hydrological analysis based on LiDAR-derived digital elevation models (DEM).",
@@ -693,7 +750,8 @@
         "pypi": "https://pypi.org/project/Lidar/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/Lidar"
+        "conda": "https://anaconda.org/conda-forge/Lidar",
+        "version": ""
     },
     "LMFIT": {
         "description": "Non-Linear Least Squares Minimization, with flexible Parameter settings, based on scipy.optimize.leastsq, and with many additional classes and methods for curve fitting.",
@@ -705,7 +763,8 @@
         "pypi": "https://pypi.org/project/LMFIT/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/LMFIT"
+        "conda": "https://anaconda.org/conda-forge/LMFIT",
+        "version": ""
     },
     "SPOTpy": {
         "description": "A Statistical Parameter Optimization Tool for Python.",
@@ -717,7 +776,8 @@
         "pypi": "https://pypi.org/project/SPOTpy/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/SPOTpy"
+        "conda": "https://anaconda.org/conda-forge/SPOTpy",
+        "version": ""
     },
     "PyGLUE": {
         "description": "Generalised Likelihood Uncertainty Estimation (GLUE) Framework.",
@@ -729,7 +789,8 @@
         "pypi": "https://pypi.org/project/PyGLUE/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "Pyemu": {
         "description": "Python modules for model-independent uncertainty analyses, data-worth analyses, and interfacing with PEST(++).",
@@ -741,7 +802,8 @@
         "pypi": "https://pypi.org/project/Pyemu/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/Pyemu"
+        "conda": "https://anaconda.org/conda-forge/Pyemu",
+        "version": ""
     },
     "HPGL": {
         "description": "High Performance Geostatistics Library.",
@@ -753,7 +815,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "HydroErr": {
         "description": "Goodness of Fit metrics for use in comparison studies, specifically in the field of hydrology.",
@@ -765,7 +828,8 @@
         "pypi": "https://pypi.org/project/HydroErr/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/HydroErr"
+        "conda": "https://anaconda.org/conda-forge/HydroErr",
+        "version": ""
     },
     "Climate-indices": {
         "description": "Climate indices for drought monitoring, community reference implementations in Python.",
@@ -777,7 +841,8 @@
         "pypi": "https://pypi.org/project/Climate-indices/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "HydroLM": {
         "description": "The HydroLM package contains a class and functions for automating linear regressions OLS for hydrologists.",
@@ -789,7 +854,8 @@
         "pypi": "https://pypi.org/project/HydroLM/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "PySDI": {
         "description": "Pysdi is a set of open source scripts that compute non-parametric standardized drought indices (SDI) using raster data sets as input data.",
@@ -801,7 +867,8 @@
         "pypi": "https://pypi.org/project/PySDI/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "xskillscore": {
         "description": "Metrics for verifying forecasts.",
@@ -813,7 +880,8 @@
         "pypi": "https://pypi.org/project/xskillscore/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/xskillscore"
+        "conda": "https://anaconda.org/conda-forge/xskillscore",
+        "version": ""
     },
     "HKVFEWSPY": {
         "description": "Connection to the Delft FEWS servers.",
@@ -825,7 +893,8 @@
         "pypi": "https://pypi.org/project/HKVFEWSPY/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "Openradar": {
         "description": "Library for processing a set of dutch, german and belgian precipitation radars into calibrated composites.",
@@ -837,7 +906,8 @@
         "pypi": "https://pypi.org/project/Openradar/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "Ecohydrolib": {
         "description": "Libraries and command-line scripts for performing ecohydrology data preparation workflows.",
@@ -849,7 +919,8 @@
         "pypi": "https://pypi.org/project/Ecohydrolib/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "Ulmo": {
         "description": "Clean, simple and fast access to public hydrology and climatology data.",
@@ -861,7 +932,8 @@
         "pypi": "https://pypi.org/project/Ulmo/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/Ulmo"
+        "conda": "https://anaconda.org/conda-forge/Ulmo",
+        "version": ""
     },
     "PyHIS": {
         "description": "PyHIS is a python library for querying CUAHSI*-HIS** web services.",
@@ -873,7 +945,8 @@
         "pypi": "https://pypi.org/project/PyHIS/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "Wetterdienst": {
         "description": "Python Toolset For Accessing Weather Data From German Weather Service.",
@@ -885,7 +958,8 @@
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/Wetterdienst"
+        "conda": "https://anaconda.org/conda-forge/Wetterdienst",
+        "version": ""
     },
     "Dataretrieval": {
         "description": "Dataretrieval is a Python package for obtaining USGS or EPA water quality data, streamflow data, and metadata directly from web services.",
@@ -897,7 +971,8 @@
         "pypi": "https://pypi.org/project/Dataretrieval/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/Dataretrieval"
+        "conda": "https://anaconda.org/conda-forge/Dataretrieval",
+        "version": ""
     },
     "ESMPY": {
         "description": "Earth System Modeling Framework (ESMF) Python interface.",
@@ -909,7 +984,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/ESMPY"
+        "conda": "https://anaconda.org/conda-forge/ESMPY",
+        "version": ""
     },
     "PyHSPF": {
         "description": "Python extensions to the Hydrological Simulation Program in Fortran (HSPF).",
@@ -921,7 +997,8 @@
         "pypi": "https://pypi.org/project/PyHSPF/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "PYWR": {
         "description": "Spatial allocation tool.",
@@ -933,7 +1010,8 @@
         "pypi": "https://pypi.org/project/PYWR/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/PYWR"
+        "conda": "https://anaconda.org/conda-forge/PYWR",
+        "version": ""
     },
     "SPHY": {
         "description": "Spatial Processes in HYdrology (SPHY) model.",
@@ -945,7 +1023,8 @@
         "pypi": "https://pypi.org/project/SPHY/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "xsboringen": {
         "description": "(In Dutch) A python library for processing and plotting borehole and CPT data, developed for open data formats in the Netherlands.",
@@ -957,7 +1036,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "PyMT": {
         "description": "PyMT is an Open Source Python package that provides the necessary tools used for the coupling of models that expose the Basic Model Interface (BMI).",
@@ -969,7 +1049,8 @@
         "pypi": "https://pypi.org/project/PyMT/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/PyMT"
+        "conda": "https://anaconda.org/conda-forge/PyMT",
+        "version": ""
     },
     "Landlab": {
         "description": "The Landlab project creates an environment in which scientists can build a numerical landscape model without having to code all of the individual components.",
@@ -981,7 +1062,8 @@
         "pypi": "https://pypi.org/project/Landlab/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/Landlab"
+        "conda": "https://anaconda.org/conda-forge/Landlab",
+        "version": ""
     },
     "EFlowCalc": {
         "description": "Calculator of Streamflow Characteristics.",
@@ -993,7 +1075,8 @@
         "pypi": "https://pypi.org/project/EFlowCalc/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "IRIS": {
         "description": "A powerful, format-agnostic, and community-driven Python library for analysing and visualising Earth science data.",
@@ -1005,7 +1088,8 @@
         "pypi": "https://pypi.org/project/IRIS/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/IRIS"
+        "conda": "https://anaconda.org/conda-forge/IRIS",
+        "version": ""
     },
     "Hydrointerp": {
         "description": "A Python package for interpolating hydrologic data.",
@@ -1017,7 +1101,8 @@
         "pypi": "https://pypi.org/project/Hydrointerp/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "Hydrofunctions": {
         "description": "A suite of convenience functions for working with hydrology data in an interactive Python session.",
@@ -1029,7 +1114,8 @@
         "pypi": "https://pypi.org/project/Hydrofunctions/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/Hydrofunctions"
+        "conda": "https://anaconda.org/conda-forge/Hydrofunctions",
+        "version": ""
     },
     "Shyft": {
         "description": "Shyft is the open-source toolbox for the energy-market domain, funded and supported by Statkraft.",
@@ -1041,7 +1127,8 @@
         "pypi": "https://pypi.org/project/Shyft/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "Hydroshare": {
         "description": "HydroShare is a collaborative website for better access to data and models in the hydrologic sciences.",
@@ -1053,7 +1140,8 @@
         "pypi": "https://pypi.org/project/Hydroshare/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "Hydrobox": {
         "description": "Hydrological preprocessing and analysis toolbox build upon pandas and numpy.",
@@ -1065,7 +1153,8 @@
         "pypi": "https://pypi.org/project/Hydrobox/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "Wetland": {
         "description": "Wetland is a toolset for mapping surface water and wetland hydrological dynamics using fine-resolution aerial imagery within Google Earth Engine (GEE).",
@@ -1077,7 +1166,8 @@
         "pypi": "https://pypi.org/project/Wetland/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "iRONS": {
         "description": "iRONS (interactive Reservoir Operation Notebooks and Software) is a python package that enables the simulation, forecasting and optimisation of reservoir systems.",
@@ -1089,7 +1179,8 @@
         "pypi": "https://pypi.org/project/iRONS/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "Mesas": {
         "description": "Multiresolution Estimation of StorAge Selection functions.",
@@ -1101,7 +1192,8 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
-        "conda": "https://anaconda.org/conda-forge/Mesas"
+        "conda": "https://anaconda.org/conda-forge/Mesas",
+        "version": ""
     },
     "pydsstools": {
         "description": "Python library for simple [HEC-DSS](https://www.hec.usace.army.mil/software/hec-dss/) functions.",
@@ -1113,7 +1205,8 @@
         "pypi": "https://pypi.org/project/pydsstools/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     },
     "eWaterCycle": {
         "description": "Platform to do computational hydrology using many of the above mentioned models.",
@@ -1125,6 +1218,7 @@
         "pypi": "https://pypi.org/project/eWaterCycle/",
         "doi_software": "",
         "doi_paper": "",
-        "conda": ""
+        "conda": "",
+        "version": ""
     }
 }
