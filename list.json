@@ -1,0 +1,762 @@
+{
+    "CMF": {
+        "description": "Catchment Modelling Framework, a hydrologic modelling toolbox.",
+        "url": "https://github.com/philippkraft/cmf",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "TopoFlow": {
+        "description": "A spatial hydrologic model (D8-based, fully BMI-compliant).",
+        "url": "https://github.com/peckhams/topoflow",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "VIC": {
+        "description": "The Variable Infiltration Capacity (VIC) Macroscale Hydrologic Model.",
+        "url": "https://github.com/UW-Hydro/VIC",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Xanthos": {
+        "description": "Xanthos is an open-source hydrologic model, written in Python, designed to quantify and analyze global water availability.",
+        "url": "https://github.com/JGCRI/xanthos",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "WRF-Hydro": {
+        "description": "wrfhydrpy is a Python API for the WRF-Hydro modelling system.",
+        "url": "https://github.com/NCAR/wrf_hydro_py",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "EXP-HYDRO": {
+        "description": "EXP-HYDRO is a catchment scale hydrological model that operates at a daily time-step. It takes as inputs the daily values of precipitation, air temperature, and potential evapotranspiration, and simulates daily streamflow at the catchment outlet.",
+        "url": "https://github.com/sopanpatil/exp-hydro",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "RRMPG": {
+        "description": "Rainfall-Runoff modelling playground.",
+        "url": "https://github.com/kratzert/RRMPG",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "LHMP": {
+        "description": "Lumped Hydrological Models Playground.",
+        "url": "https://github.com/hydrogo/LHMP",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "SMARTPy": {
+        "description": "Python implementation of the rainfall-runoff model SMART",
+        "url": "https://github.com/ThibHlln/smartpy",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "PyStream": {
+        "description": "Python implementation of the STREAM hydrological rainfall-runoff model.",
+        "url": "https://github.com/martibosch/pystream",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "HydPy": {
+        "description": "A framework for the development and application of hydrological models based on Python.",
+        "url": "https://github.com/hydpy-dev/hydpy",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Catchmod": {
+        "description": "CATCHMOD is widely used rainfall runoff model in the United Kingdom. It was introduced by Wilby (1994).",
+        "url": "https://pypi.org/project/pycatchmod/",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "wflow": {
+        "description": "wflow consists of a set of Python programs that can be run on the command line and perform hydrological simulations. The models are based on the PCRaster Python framework",
+        "url": "https://github.com/openstreams/wflow",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "PyTOPKAPI": {
+        "description": "PyTOPKAPI is a BSD licensed Python library implementing the TOPKAPI Hydrological model (Liu and Todini, 2002).",
+        "url": "https://github.com/sahg/PyTOPKAPI",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "mhmpy": {
+        "description": "A Python-API for the mesoscale Hydrological Model.",
+        "url": "https://github.com/MuellerSeb/mhmpy",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "SuperflexPy": {
+        "description": "SuperflexPy: A new open source framework for building conceptual hydrological models",
+        "url": "https://github.com/dalmo1991/superflexPy",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "NeuralHydrology": {
+        "description": "Python library to train neural networks with a strong focus on hydrological applications.",
+        "url": "https://github.com/neuralhydrology/neuralhydrology",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "DRYP": {
+        "description": "Dryland Water Partition model.",
+        "url": "https://github.com/AndresQuichimbo/DRYP",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "LuKars": {
+        "description": "The LuKARS model is a lumped karst hydrological model to perform studies in karstic environments.",
+        "url": "https://github.com/dbittner87/LuKARS",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "SUMMA": {
+        "description": "A hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques.",
+        "url": "https://github.com/CH-Earth/summa",
+        "category": "Hydrological Models",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "MetPy": {
+        "description": "MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data.",
+        "url": "https://github.com/Unidata/MetPy",
+        "category": "Meteorological tools",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "PyEto": {
+        "description": "PyETo is a Python library for calculating reference crop evapotranspiration (ETo), sometimes referred to as potential evapotranspiration (PET). The library provides numerous functions for estimating missing meteorological data.",
+        "url": "https://github.com/woodcrafty/PyETo",
+        "category": "Meteorological tools",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "pyfao56": {
+        "description": "A Python implementation of the FAO-56 dual crop coefficient approach for crop water use estimation and irrigation scheduling.",
+        "url": "https://github.com/kthorp/pyfao56",
+        "category": "Meteorological tools",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Improver": {
+        "description": "IMPROVER is a library of algorithms for meteorological post-processing and verification.",
+        "url": "https://github.com/metoppv/improver",
+        "category": "Meteorological tools",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "MetSim": {
+        "description": "MetSim is a meteorological simulator and forcing disaggregator for hydrologic modeling and climate applications.",
+        "url": "https://github.com/UW-Hydro/MetSim",
+        "category": "Meteorological tools",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "MELODIST": {
+        "description": "MELODIST is an open-source toolbox written in Python for disaggregating daily meteorological time series to hourly time steps.",
+        "url": "https://github.com/kristianfoerster/melodist",
+        "category": "Meteorological tools",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "PyCat": {
+        "description": "Climate Analysis Tool written in python",
+        "url": "https://github.com/wegener-center/pyCAT",
+        "category": "Meteorological tools",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "PySteps": {
+        "description": "pySTEPS is a community-driven initiative for developing and maintaining an easy to use, modular, free and open source Python framework for short-term ensemble prediction systems.",
+        "url": "https://github.com/pySTEPS/pysteps",
+        "category": "Meteorological tools",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Evaporation": {
+        "description": "Calculation of evaporation and transpiration.",
+        "url": "https://github.com/openmeteo/evaporation",
+        "category": "Meteorological tools",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "rainymotion": {
+        "description": "Python library for radar-based precipitation nowcasting based on optical flow techniques.",
+        "url": "https://github.com/hydrogo/rainymotion",
+        "category": "Meteorological tools",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "pyet": {
+        "description": "A python-package for calculating reference and potential evaporation.",
+        "url": "https://github.com/phydrus/pyet",
+        "category": "Meteorological tools",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "SPEI": {
+        "description": "A simple Python package to calculate and visualize some popular drought indices such as the SPI, SPEI and SGI.",
+        "url": "https://github.com/martinvonk/SPEI",
+        "category": "Meteorological tools",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Pytesmo": {
+        "description": "python Toolbox for the Evaluation of Soil Moisture Observations.",
+        "url": "https://github.com/TUW-GEO/pytesmo",
+        "category": "Unsaturated Zone",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Phydrus": {
+        "description": "Python implementation of the HYDRUS-1D unsaturated zone model",
+        "url": "https://github.com/phydrus/phydrus",
+        "category": "Unsaturated Zone",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "VS2DPY": {
+        "description": "Python implementation of the VS2D unsaturated zone model.",
+        "url": "https://github.com/martinvonk/VS2DPY",
+        "category": "Unsaturated Zone",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "pedon": {
+        "description": "Python package for (unsaturated) soil properties including pedotransfer functions.",
+        "url": "https://github.com/martinvonk/pedon",
+        "category": "Unsaturated Zone",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "FloPy": {
+        "description": "The Python interface to MODFLOW.",
+        "url": "https://github.com/modflowpy/flopy",
+        "category": "Groundwater",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "imod-python": {
+        "description": "Make massive MODFLOW models.",
+        "url": "https://deltares.gitlab.io/imod/imod-python/",
+        "category": "Groundwater",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Idfpy": {
+        "description": "A simple module for reading and writing iMOD IDF files. IDF is a simple binary format used by the iMOD groundwater modelling software.",
+        "url": "https://github.com/tomvansteijn/idfpy",
+        "category": "Groundwater",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "WellApplication": {
+        "description": "Set of tools for groundwater level and water chemistry analysis.",
+        "url": "https://github.com/utah-geological-survey/WellApplication",
+        "category": "Groundwater",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "TIMML": {
+        "description": "A Multi-Layer, Analytic Element Model.",
+        "url": "https://github.com/mbakker7/timml",
+        "category": "Groundwater",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "TTim": {
+        "description": "A Multi-Layer, Transient, Analytic Element Model.",
+        "url": "https://github.com/mbakker7/ttim",
+        "category": "Groundwater",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "PyHELP": {
+        "description": "A Python library for the assessment of spatially distributed groundwater recharge and hydrological components with HELP.",
+        "url": "https://github.com/cgq-qgc/pyhelp",
+        "category": "Groundwater",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "PyRecharge": {
+        "description": "Spatially distributed groundwater recharge and depletion modeling framework in Python",
+        "url": "https://github.com/abdikaiym/pyrecharge",
+        "category": "Groundwater",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Anaflow": {
+        "description": "A python-package containing analytical solutions for the groundwater flow equation",
+        "url": "https://github.com/GeoStat-Framework/AnaFlow",
+        "category": "Groundwater",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "WellTestPy": {
+        "description": "A python-package for handling well based field campaigns.",
+        "url": "https://github.com/GeoStat-Framework/welltestpy",
+        "category": "Groundwater",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "HydroGeoSines": {
+        "description": "Signal In the Noise Exploration Software for Hydrogeological Datasets.",
+        "url": "https://github.com/HydroGeoSines/HydroGeoSines",
+        "category": "Groundwater",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "nlmod": {
+        "description": "Python code to process, build and visualize MODFLOW models in the Netherlands. Model data is stored in a xarray Datasets and geopandas GeoDataFrames.",
+        "url": "https://github.com/ArtesiaWater/nlmod",
+        "category": "Groundwater",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Hydropy": {
+        "description": "Analysis of hydrological oriented time series.",
+        "url": "https://github.com/stijnvanhoey/hydropy",
+        "category": "Time Series (Analysis)",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Pastas": {
+        "description": "Analysis of hydrological time series using time series models.",
+        "url": "https://github.com/pastas/pastas",
+        "category": "Time Series (Analysis)",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Hydrostats": {
+        "description": "Tools for use in comparison studies, specifically for use in the field of hydrology.",
+        "url": "https://github.com/BYU-Hydroinformatics/Hydrostats",
+        "category": "Time Series (Analysis)",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "htimeseries": {
+        "description": "This module provides the HTimeseries class, which is a layer on top of pandas, offering a little more functionality.",
+        "url": "https://github.com/openmeteo/htimeseries",
+        "category": "Time Series (Analysis)",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "HydroAnalysis": {
+        "description": "Python package to calculate indices and metrics useful in the everyday job of a hydrologist.",
+        "url": "https://github.com/dalmo1991/HydroAnalysis",
+        "category": "Time Series (Analysis)",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "HydroPandas": {
+        "description": "Module for loading time series data into custom DataFrames",
+        "url": "https://github.com/ArtesiaWater/hydropandas",
+        "category": "Time Series (Analysis)",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "traval": {
+        "description": "Tools for applying automatic error detection schemes to timeseries",
+        "url": "https://github.com/ArtesiaWater/traval",
+        "category": "Time Series (Analysis)",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "PcRaster": {
+        "description": "Is a collection of software targeted at the development and deployment of spatio-temporal environmental models.",
+        "url": "http://pcraster.geo.uu.nl/",
+        "category": "GIS Related",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "PyGeoprocessing": {
+        "description": "A Python/Cython based library that provides a set of commonly used raster, vector, and hydrological operations for GIS processing.",
+        "url": "https://pypi.org/project/pygeoprocessing/",
+        "category": "GIS Related",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Pysheds": {
+        "description": "Simple and fast watershed delineation in python.",
+        "url": "https://github.com/mdbartos/pysheds",
+        "category": "GIS Related",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Lidar": {
+        "description": "Terrain and hydrological analysis based on LiDAR-derived digital elevation models (DEM).",
+        "url": "https://github.com/giswqs/lidar",
+        "category": "GIS Related",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "LMFIT": {
+        "description": "Non-Linear Least Squares Minimization, with flexible Parameter settings, based on scipy.optimize.leastsq, and with many additional classes and methods for curve fitting.",
+        "url": "https://github.com/lmfit/lmfit-py",
+        "category": "Optimization, Uncertainty, Statistics",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "SPOTpy": {
+        "description": "A Statistical Parameter Optimization Tool for Python.",
+        "url": "https://github.com/thouska/spotpy",
+        "category": "Optimization, Uncertainty, Statistics",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "PyGLUE": {
+        "description": "Generalised Likelihood Uncertainty Estimation (GLUE) Framework.",
+        "url": "http://code.activestate.com/pypm/pyglue/",
+        "category": "Optimization, Uncertainty, Statistics",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Pyemu": {
+        "description": "Python modules for model-independent uncertainty analyses, data-worth analyses, and interfacing with PEST(++).",
+        "url": "https://github.com/jtwhite79/pyemu",
+        "category": "Optimization, Uncertainty, Statistics",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "HPGL": {
+        "description": "High Performance Geostatistics Library.",
+        "url": "http://hpgl.github.io/hpgl/",
+        "category": "Optimization, Uncertainty, Statistics",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "HydroErr": {
+        "description": "Goodness of Fit metrics for use in comparison studies, specifically in the field of hydrology.",
+        "url": "https://github.com/BYU-Hydroinformatics/HydroErr",
+        "category": "Optimization, Uncertainty, Statistics",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Climate-indices": {
+        "description": "Climate indices for drought monitoring, community reference implementations in Python.",
+        "url": "https://github.com/monocongo/climate_indices",
+        "category": "Optimization, Uncertainty, Statistics",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "HydroLM": {
+        "description": "The HydroLM package contains a class and functions for automating linear regressions OLS for hydrologists.",
+        "url": "https://github.com/mullenkamp/HydroLM",
+        "category": "Optimization, Uncertainty, Statistics",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "PySDI": {
+        "description": "Pysdi is a set of open source scripts that compute non-parametric standardized drought indices (SDI) using raster data sets as input data.",
+        "url": "https://bitbucket.org/pysdi/pysdi/src/master/",
+        "category": "Optimization, Uncertainty, Statistics",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "xskillscore": {
+        "description": "Metrics for verifying forecasts.",
+        "url": "https://github.com/xarray-contrib/xskillscore",
+        "category": "Optimization, Uncertainty, Statistics",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "HKVFEWSPY": {
+        "description": "Connection to the Delft FEWS servers.",
+        "url": "https://github.com/HKV-products-services/hkvfewspy",
+        "category": "Data Collection",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Openradar": {
+        "description": "Library for processing a set of dutch, german and belgian precipitation radars into calibrated composites.",
+        "url": "https://github.com/nens/openradar",
+        "category": "Data Collection",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Ecohydrolib": {
+        "description": "Libraries and command-line scripts for performing ecohydrology data preparation workflows.",
+        "url": "https://github.com/selimnairb/EcohydroLib",
+        "category": "Data Collection",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Ulmo": {
+        "description": "Clean, simple and fast access to public hydrology and climatology data.",
+        "url": "https://github.com/ulmo-dev/ulmo/",
+        "category": "Data Collection",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "PyHIS": {
+        "description": "PyHIS is a python library for querying CUAHSI*-HIS** web services.",
+        "url": "https://pypi.org/project/pyhis/",
+        "category": "Data Collection",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Wetterdienst": {
+        "description": "Python Toolset For Accessing Weather Data From German Weather Service.",
+        "url": "https://github.com/earthobservations/wetterdienst",
+        "category": "Data Collection",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Dataretrieval": {
+        "description": "Dataretrieval is a Python package for obtaining USGS or EPA water quality data, streamflow data, and metadata directly from web services.",
+        "url": "https://github.com/USGS-python/dataretrieval",
+        "category": "Data Collection",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "ESMPY": {
+        "description": "Earth System Modeling Framework (ESMF) Python interface.",
+        "url": "https://www.earthsystemcog.org/projects/esmpy/",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "PyHSPF": {
+        "description": "Python extensions to the Hydrological Simulation Program in Fortran (HSPF).",
+        "url": "https://github.com/djlampert/PyHSPF",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "PYWR": {
+        "description": "Spatial allocation tool.",
+        "url": "https://github.com/pywr/pywr",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "SPHY": {
+        "description": "Spatial Processes in HYdrology (SPHY) model.",
+        "url": "https://github.com/WilcoTerink/SPHY",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "xsboringen": {
+        "description": "(In Dutch) A python library for processing and plotting borehole and CPT data, developed for open data formats in the Netherlands.",
+        "url": "https://github.com/tomvansteijn/xsboringen",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "PyMT": {
+        "description": "PyMT is an Open Source Python package that provides the necessary tools used for the coupling of models that expose the Basic Model Interface (BMI).",
+        "url": "https://github.com/csdms/pymt/",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Landlab": {
+        "description": "The Landlab project creates an environment in which scientists can build a numerical landscape model without having to code all of the individual components.",
+        "url": "https://github.com/landlab/landlab",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "EFlowCalc": {
+        "description": "Calculator of Streamflow Characteristics.",
+        "url": "https://github.com/ThibHlln/eflowcalc",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "IRIS": {
+        "description": "A powerful, format-agnostic, and community-driven Python library for analysing and visualising Earth science data.",
+        "url": "https://github.com/SciTools/iris",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Hydrointerp": {
+        "description": "A Python package for interpolating hydrologic data.",
+        "url": "https://github.com/mullenkamp/hydrointerp",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Hydrofunctions": {
+        "description": "A suite of convenience functions for working with hydrology data in an interactive Python session.",
+        "url": "https://github.com/mroberge/hydrofunctions",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Shyft": {
+        "description": "Shyft is the open-source toolbox for the energy-market domain, funded and supported by Statkraft.",
+        "url": "https://gitlab.com/shyft-os",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Hydroshare": {
+        "description": "HydroShare is a collaborative website for better access to data and models in the hydrologic sciences.",
+        "url": "https://github.com/hydroshare/hydroshare",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Hydrobox": {
+        "description": "Hydrological preprocessing and analysis toolbox build upon pandas and numpy.",
+        "url": "https://github.com/VForWaTer/hydrobox",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Wetland": {
+        "description": "Wetland is a toolset for mapping surface water and wetland hydrological dynamics using fine-resolution aerial imagery within Google Earth Engine (GEE).",
+        "url": "https://github.com/giswqs/wetland",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "iRONS": {
+        "description": "iRONS (interactive Reservoir Operation Notebooks and Software) is a python package that enables the simulation, forecasting and optimisation of reservoir systems.",
+        "url": "https://github.com/AndresPenuela/iRONS",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "Mesas": {
+        "description": "Multiresolution Estimation of StorAge Selection functions.",
+        "url": "https://github.com/charman2/mesas",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "pydsstools": {
+        "description": "Python library for simple [HEC-DSS](https://www.hec.usace.army.mil/software/hec-dss/) functions.",
+        "url": "https://github.com/gyanz/pydsstools",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    },
+    "eWaterCycle": {
+        "description": "Platform to do computational hydrology using many of the above mentioned models.",
+        "url": "https://doi.org/10.5194/gmd-15-5371-2022",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": ""
+    }
+}
