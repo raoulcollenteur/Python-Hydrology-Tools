@@ -125,7 +125,7 @@ def generate_list():
             )  # Sort legacy packages alphabetically by name
             file.write("\n## Legacy Packages\n")
             file.write(
-                "These packages are not maintained anymore, but might still be useful for some users.\n"
+                "These packages are not maintained anymore, or might not meet a minimum set of requirements, but might still be useful for some users.\n"
             )
             file.write(
                 "| Name | Description                                | PyPI Conda | Docs | CI | Paper |\n"

@@ -67,7 +67,7 @@
         "doi_paper": "https://doi.org/10.1002/hyp.11199",
         "conda": "",
         "version": "",
-        "legacy": ""
+        "legacy": 1
     },
     "RRMPG": {
         "description": "Rainfall-Runoff modelling playground.",
@@ -305,7 +305,7 @@
         "doi_paper": "",
         "conda": "",
         "version": "",
-        "legacy": ""
+        "legacy": 1
     },
     "pyfao56": {
         "description": "A Python implementation of the FAO-56 dual crop coefficient approach for crop water use estimation and irrigation scheduling.",
@@ -706,7 +706,7 @@
         "docs": "https://archpy.readthedocs.io/en/latest/",
         "CI": 0,
         "last_update": "",
-        "pypi": "",
+        "pypi": "https://pypi.org/project/pykasso/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1007/s10040-022-02464-x",
         "conda": "",
@@ -1075,7 +1075,7 @@
         "doi_paper": "",
         "conda": "",
         "version": "",
-        "legacy": ""
+        "legacy": 1
     },
     "PyMT": {
         "description": "PyMT is an Open Source Python package that provides the necessary tools used for the coupling of models that expose the Basic Model Interface (BMI).",
