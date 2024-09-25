@@ -3,7 +3,7 @@ My attempt to list interesting open source python projects that can be used in t
 
 Raoul A. Collenteur, Eawag.
 
-## Hydrological Models
+## Catchment Hydrology
 | Name | Description                                | PyPI Conda | Docs | CI | Paper |
 | ---- | ------------------------------------------ | ---------- | ---- | -- | ----- |
 | [CMF](https://github.com/philippkraft/cmf) | Catchment Modelling Framework, a hydrologic modelling toolbox. (Version: 2.0.0, Last Update: 🟢 24-01-19) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/CMF/)  | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://philippkraft.github.io/cmf/) |  | [![DOI](https://img.shields.io/badge/DOI-10.1000/xyz123-blue)](https://doi.org/10.1016/j.envsoft.2010.12.009) |
@@ -35,7 +35,7 @@ Raoul A. Collenteur, Eawag.
 | [Evaporation](https://github.com/openmeteo/evaporation) | Calculation of evaporation and transpiration. (Version: 2.0.1, Last Update: 🟢 24-04-16) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/Evaporation/)  | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://evaporation.readthedocs.io) |  |  |
 | [rainymotion](https://github.com/hydrogo/rainymotion) | Python library for radar-based precipitation nowcasting based on optical flow techniques. |   | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](http://rainymotion.readthedocs.io) |  |  |
 | [pyet](https://github.com/phydrus/pyet) | A python-package for calculating reference and potential evaporation. (Version: 1.3.1, Last Update: 🟢 24-03-15) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/pyet/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/pyet) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://pyet.readthedocs.io/) |  | [![DOI](https://img.shields.io/badge/DOI-10.1000/xyz123-blue)](https://doi.org/10.5194/gmd-17-7083-2024) |
-| [SPEI](https://github.com/martinvonk/SPEI) | A simple Python package to calculate and visualize some popular drought indices such as the SPI, SPEI and SGI. (Version: 0.5.0, Last Update: 🟢 24-09-18) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/SPEI/)  |  |  |  |
+| [SPEI](https://github.com/martinvonk/SPEI) | Calculate and visualize some popular drought indices such as the SPI, SPEI and SGI. (Version: 0.5.0, Last Update: 🟢 24-09-18) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/SPEI/)  |  |  |  |
 ## Unsaturated Zone
 | Name | Description                                | PyPI Conda | Docs | CI | Paper |
 | ---- | ------------------------------------------ | ---------- | ---- | -- | ----- |
@@ -57,6 +57,7 @@ Raoul A. Collenteur, Eawag.
 | [NLmod](https://github.com/ArtesiaWater/nlmod) | Python code to process, build and visualize MODFLOW models in the Netherlands. Model data is stored in a xarray Datasets and geopandas GeoDataFrames. (Version: 0.8.1, Last Update: 🟢 24-07-25) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/nlmod/)  | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://nlmod.readthedocs.io) | 🟢 |  |
 | [Pastas](https://github.com/pastas/pastas) | Analysis of hydrological time series using time series models. (Version: 1.7.0, Last Update: 🟢 24-09-06) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/Pastas/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/Pastas) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://pastas.readthedocs.io) | 🟢 | [![DOI](https://img.shields.io/badge/DOI-10.1000/xyz123-blue)](http://doi.org/10.5281/zenodo.1465866) |
 | [GeoArchPy](https://github.com/randlab/ArchPy) | Stochastic geological modeling (Version: 1.0.7, Last Update: 🟢 24-09-02) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/Geoarchpy/)  | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://archpy.readthedocs.io/en/latest/) |  | [![DOI](https://img.shields.io/badge/DOI-10.1000/xyz123-blue)](https://doi.org/10.3389/fams.2024.1441596) |
+| [PyKasso](https://github.com/randlab/pyKasso) | Simulate stochastic karst conduit networks |   | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://archpy.readthedocs.io/en/latest/) |  | [![DOI](https://img.shields.io/badge/DOI-10.1000/xyz123-blue)](https://doi.org/10.1007/s10040-022-02464-x) |
 ## Evaluation
 | Name | Description                                | PyPI Conda | Docs | CI | Paper |
 | ---- | ------------------------------------------ | ---------- | ---- | -- | ----- |
