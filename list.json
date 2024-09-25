@@ -101,11 +101,11 @@
         "description": "Python implementation of the rainfall-runoff model SMART",
         "url": "https://github.com/ThibHlln/smartpy",
         "category": "Catchment Hydrology",
-        "docs": "",
+        "docs": "https://thibhlln.github.io/smartpy",
         "CI": 0,
         "last_update": "2022-02-14T16:18:21",
         "pypi": "https://pypi.org/project/SMARTPy/",
-        "doi_software": "",
+        "doi_software": "https://zenodo.org/badge/latestdoi/118467753",
         "doi_paper": "",
         "conda": "",
         "version": "0.2.2",
@@ -123,7 +123,7 @@
         "doi_paper": "",
         "conda": "",
         "version": "0.1",
-        "legacy": ""
+        "legacy": 1
     },
     "HydPy": {
         "description": "A framework for the development and application of hydrological models based on Python.",
@@ -171,12 +171,12 @@
         "description": "PyTOPKAPI is a BSD licensed Python library implementing the TOPKAPI Hydrological model (Liu and Todini, 2002).",
         "url": "https://github.com/sahg/PyTOPKAPI",
         "category": "Catchment Hydrology",
-        "docs": "",
+        "docs": "http://sahg.github.io/PyTOPKAPI/",
         "CI": 0,
         "last_update": "",
         "pypi": "https://pypi.org/project/PyTOPKAPI/",
-        "doi_software": "",
-        "doi_paper": "",
+        "doi_software": "https://zenodo.org/badge/latestdoi/689231",
+        "doi_paper": "http://dx.doi.org/10.5194/hess-14-613-2010",
         "conda": "",
         "version": "",
         "legacy": ""
