@@ -44,12 +44,12 @@
         "category": "Hydrological Models",
         "docs": "https://wrfhydropy.readthedocs.io/",
         "CI": 0,
-        "last_update": "",
+        "last_update": "2024-02-16T21:26:27",
         "pypi": "https://pypi.org/project/wrfhydropy/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": ""
+        "version": "0.0.21"
     },
     "EXP-HYDRO": {
         "description": "EXP-HYDRO is a catchment scale hydrological model that operates at a daily time-step. It takes as inputs the daily values of precipitation, air temperature, and potential evapotranspiration, and simulates daily streamflow at the catchment outlet.",
