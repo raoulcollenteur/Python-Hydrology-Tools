@@ -1286,5 +1286,47 @@
         "conda": "",
         "version": "2.3.1",
         "legacy": 0
+    },
+    "pyopenrivercam": {
+        "description": "Surface velocity, object tracking, and river flow measurements",
+        "url": "https://github.com/localdevices/pyorc",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": "",
+        "pypi": "https://pypi.org/project/pyopenrivercam/",
+        "doi_software": "",
+        "doi_paper": "",
+        "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
+        "version": "",
+        "legacy": ""
+    },
+    "river-route": {
+        "description": "Hydrologic river routing of gridded runoff depths or catchment volumes on vector stream networks",
+        "url": "https://github.com/rileyhales/river-route",
+        "category": "Miscellaneous",
+        "docs": "https://river-route.hales.app/en/latest/",
+        "CI": 0,
+        "last_update": "",
+        "pypi": "https://pypi.org/project/river-route/",
+        "doi_software": "",
+        "doi_paper": "",
+        "conda": "",
+        "version": "",
+        "legacy": ""
+    },
+    "": {
+        "description": "",
+        "url": "",
+        "category": "Miscellaneous",
+        "docs": "",
+        "CI": 0,
+        "last_update": "",
+        "pypi": "",
+        "doi_software": "",
+        "doi_paper": "",
+        "conda": "",
+        "version": "",
+        "legacy": ""
     }
 }
