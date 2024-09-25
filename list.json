@@ -660,7 +660,7 @@
     "htimeseries": {
         "description": "This module provides the HTimeseries class, which is a layer on top of pandas, offering a little more functionality.",
         "url": "https://github.com/openmeteo/htimeseries",
-        "category": "Time Series (Analysis)",
+        "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
         "last_update": "2024-04-14T08:49:20",
@@ -674,7 +674,7 @@
     "HydroAnalysis": {
         "description": "Python package to calculate indices and metrics useful in the everyday job of a hydrologist.",
         "url": "https://github.com/dalmo1991/HydroAnalysis",
-        "category": "Time Series (Analysis)",
+        "category": "Miscellaneous",
         "docs": "https://hydroanalysis.readthedocs.io/en/latest/",
         "CI": 0,
         "last_update": "2021-11-20T11:50:24",
@@ -683,12 +683,12 @@
         "doi_paper": "",
         "conda": "",
         "version": "1.0.0",
-        "legacy": 0
+        "legacy": 1
     },
     "HydroPandas": {
         "description": "Module for loading time series data into custom DataFrames",
         "url": "https://github.com/ArtesiaWater/hydropandas",
-        "category": "Time Series (Analysis)",
+        "category": "Data Collection",
         "docs": "https://hydropandas.readthedocs.io",
         "CI": 0,
         "last_update": "2024-07-12T16:09:04",
@@ -1122,12 +1122,12 @@
     "EFlowCalc": {
         "description": "Calculator of Streamflow Characteristics.",
         "url": "https://github.com/ThibHlln/eflowcalc",
-        "category": "Miscellaneous",
+        "category": "Statistics",
         "docs": "",
         "CI": 0,
         "last_update": "2021-04-26T17:05:09",
         "pypi": "https://pypi.org/project/EFlowCalc/",
-        "doi_software": "",
+        "doi_software": "https://zenodo.org/badge/latestdoi/153001813",
         "doi_paper": "",
         "conda": "",
         "version": "0.1.0",

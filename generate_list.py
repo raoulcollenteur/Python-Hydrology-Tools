@@ -52,6 +52,9 @@ def generate_list():
             categories[category].append((package_name, package))
 
         for category, packages in categories.items():
+            packages.sort(
+                key=lambda x: x[0].lower()
+            )  # Sort packages alphabetically by name
             file.write(f"## {category}\n")
             file.write(
                 "| Name | Description                                | PyPI Conda | Docs | CI | Paper |\n"
@@ -109,7 +112,13 @@ def generate_list():
                 )
 
         if legacy_packages:
+            legacy_packages.sort(
+                key=lambda x: x[0].lower()
+            )  # Sort legacy packages alphabetically by name
             file.write("\n## Legacy Packages\n")
+            file.write(
+                "These packages are not maintained anymore, but might still be useful for some users.\n"
+            )
             file.write(
                 "| Name | Description                                | PyPI Conda | Docs | CI | Paper |\n"
             )
