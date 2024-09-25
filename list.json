@@ -509,12 +509,12 @@
         "category": "Groundwater",
         "docs": "https://deltares.github.io/imod-python/",
         "CI": 1,
-        "last_update": "",
+        "last_update": "2024-09-17T15:15:28",
         "pypi": "https://pypi.org/project/imod/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "",
+        "version": "0.17.2",
         "legacy": ""
     },
     "WellApplication": {
