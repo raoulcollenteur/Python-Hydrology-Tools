@@ -1,5 +1,5 @@
 import json
-from datetime import datetime
+from datetime import datetime, timedelta
 
 
 def format_date(date_str):
@@ -8,6 +8,14 @@ def format_date(date_str):
         return date_obj.strftime("%y-%m-%d")
     except ValueError:
         return date_str
+
+
+def is_date_old(date_str):
+    try:
+        date_obj = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+        return datetime.now() - date_obj > timedelta(days=365)
+    except ValueError:
+        return False
 
 
 def generate_list():
@@ -51,7 +59,13 @@ def generate_list():
 
                 if version or last_update:
                     formatted_date = format_date(last_update)
-                    description += f" (V.: {version}, Last Update: {formatted_date})"
+                    if is_date_old(last_update):
+                        formatted_date = (
+                            f"<span style='color:red'>{formatted_date}</span>"
+                        )
+                    description += (
+                        f" (Version: {version}, Last Update: {formatted_date})"
+                    )
 
                 pypi_logo = (
                     f"[![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)]({pypi_url})"
