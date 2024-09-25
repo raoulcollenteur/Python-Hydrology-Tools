@@ -51,6 +51,14 @@ def generate_list():
                 categories[category] = []
             categories[category].append((package_name, package))
 
+        # Write the menu with links to categories
+        file.write("## Categories\n")
+        for category in sorted(categories.keys()):
+            file.write(f"- [{category}](#{category.lower().replace(' ', '-')})\n")
+        if legacy_packages:
+            file.write("- [Legacy Packages](#legacy-packages)\n")
+        file.write("\n")
+
         for category, packages in categories.items():
             packages.sort(
                 key=lambda x: x[0].lower()
