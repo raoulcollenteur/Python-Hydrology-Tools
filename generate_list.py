@@ -33,11 +33,9 @@ def generate_list():
     with open("README.md", "w") as file:
         file.write("# Open Source Python Packages in Hydrology\n")
         file.write(
-            "My attempt to list interesting open source python projects that can be used in the field of Hydrology. Suggestions as issues or pull requests are welcome!\n\n"
+            "My attempt to list interesting open source python projects that can be used in the field of Hydrology.In a 2024 update I have automated various tasks to maintain the quality of this list, and added more information about the packages thatcan serve as potential quality indicators. In the description it is now listed when the last update on Pypi/Conda was, to highlight whether or not a package is probably active (🟢) or inactive (🔴). Also information about the FAIR data repository, description paper, and Continuous Integration testing (CI) is included. All this in the hope that more and more packages develop according to common research software developement best practices. Suggestions as issues or pull requests are welcome! \n\n"
         )
-        file.write(
-            'UPDATE: The Pypa package authority has now added ["Hydrology" as a classifier](https://github.com/pypa/warehouse/issues/5728) so we can start [collecting python packages](https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Hydrology) used by the hydrological community! If you are maintaining a python package, please add `Topic :: Scientific/Engineering :: Hydrology` to your setup.py so people can find your package.\n\n'
-        )
+
         file.write("Raoul A. Collenteur, Eawag.\n\n")
 
         categories = {}
@@ -103,6 +101,11 @@ def generate_list():
                 file.write(
                     f"| [{package_name}]({url}) | {description} | {pypi_logo} {conda_logo} | {docs_logo} | {ci_logo} | {doi_paper_logo} |\n"
                 )
+
+            file.write("# Background Info\n")
+            file.write(
+                'UPDATE: The Pypa package authority has now added ["Hydrology" as a classifier](https://github.com/pypa/warehouse/issues/5728) so we can start [collecting python packages](https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Hydrology) used by the hydrological community! If you are maintaining a python package, please add `Topic :: Scientific/Engineering :: Hydrology` to your setup.py so people can find your package.\n\n'
+            )
             file.write("\n")
 
 
