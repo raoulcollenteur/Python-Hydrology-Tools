@@ -51,9 +51,7 @@ def generate_list():
 
                 if version or last_update:
                     formatted_date = format_date(last_update)
-                    description += (
-                        f" (Version: {version}, Last Update: {formatted_date})"
-                    )
+                    description += f" (V.: {version}, Last Update: {formatted_date})"
 
                 pypi_logo = (
                     f"[![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)]({pypi_url})"
