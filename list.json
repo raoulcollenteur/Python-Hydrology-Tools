@@ -145,12 +145,12 @@
         "category": "Catchment Hydrology",
         "docs": "",
         "CI": 0,
-        "last_update": "",
+        "last_update": "2019-01-08T20:58:42",
         "pypi": "https://pypi.org/project/pycatchmod/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "",
+        "version": "1.1.0",
         "legacy": 1
     },
     "wflow": {
@@ -252,7 +252,7 @@
         "legacy": 1
     },
     "Gravi4GW": {
-        "description": "A tool for conversion between Δg and groundwater storage changes.",
+        "description": "A tool for conversion between \u0394g and groundwater storage changes.",
         "url": "https://github.com/lhalloran/Gravi4GW",
         "category": "Groundwater",
         "docs": "",
