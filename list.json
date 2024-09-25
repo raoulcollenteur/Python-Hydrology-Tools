@@ -35,7 +35,7 @@
         "CI": 0,
         "last_update": "2021-08-10T20:55:25",
         "pypi": "https://pypi.org/project/Xanthos/",
-        "doi_software": "",
+        "doi_software": "https://zenodo.org/badge/latestdoi/88797535",
         "doi_paper": "",
         "conda": "",
         "version": "2.4.1",
@@ -81,7 +81,7 @@
         "doi_paper": "",
         "conda": "",
         "version": "",
-        "legacy": ""
+        "legacy": 1
     },
     "LHMP": {
         "description": "Lumped Hydrological Models Playground.",
@@ -218,7 +218,7 @@
         "last_update": "2024-08-02T13:13:35",
         "pypi": "https://pypi.org/project/NeuralHydrology/",
         "doi_software": "",
-        "doi_paper": "",
+        "doi_paper": "https://doi.org/10.21105/joss.04050",
         "conda": "",
         "version": "1.11.0",
         "legacy": ""
@@ -249,7 +249,7 @@
         "doi_paper": "",
         "conda": "",
         "version": "",
-        "legacy": ""
+        "legacy": 1
     },
     "SUMMA": {
         "description": "A hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques.",
@@ -269,21 +269,21 @@
         "description": "MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data.",
         "url": "https://github.com/Unidata/MetPy",
         "category": "Meteorological tools",
-        "docs": "",
-        "CI": 0,
+        "docs": "https://unidata.github.io/MetPy/",
+        "CI": 1,
         "last_update": "2024-08-26T23:14:35",
         "pypi": "https://pypi.org/project/MetPy/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/MetPy",
         "version": "1.6.3",
-        "legacy": ""
+        "legacy": 0
     },
     "PyEto": {
         "description": "PyETo is a Python library for calculating reference crop evapotranspiration (ETo), sometimes referred to as potential evapotranspiration (PET). The library provides numerous functions for estimating missing meteorological data.",
         "url": "https://github.com/woodcrafty/PyETo",
         "category": "Meteorological tools",
-        "docs": "https://pyeto.readthedocs.io/en/latest/index.html",
+        "docs": "https://pyeto.readthedocs.io",
         "CI": 0,
         "last_update": "",
         "pypi": "",
@@ -427,7 +427,7 @@
         "CI": 0,
         "last_update": "2024-09-18T08:40:34",
         "pypi": "https://pypi.org/project/SPEI/",
-        "doi_software": "",
+        "doi_software": "https://doi.org/10.5281/zenodo.10816741",
         "doi_paper": "",
         "conda": "",
         "version": "0.5.0",
