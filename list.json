@@ -12,19 +12,6 @@
         "conda": "",
         "version": "2.0.0"
     },
-    "TopoFlow": {
-        "description": "A spatial hydrologic model (D8-based, fully BMI-compliant).",
-        "url": "https://github.com/peckhams/topoflow",
-        "category": "Hydrological Models",
-        "docs": "",
-        "CI": 0,
-        "last_update": "",
-        "pypi": "",
-        "doi_software": "",
-        "doi_paper": "",
-        "conda": "",
-        "version": ""
-    },
     "VIC": {
         "description": "The Variable Infiltration Capacity (VIC) Macroscale Hydrologic Model.",
         "url": "https://github.com/UW-Hydro/VIC",
