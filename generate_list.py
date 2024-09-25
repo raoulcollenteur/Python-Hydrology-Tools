@@ -7,7 +7,7 @@ def format_date(date_str):
         date_obj = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
         return date_obj.strftime("%y-%m-%d")
     except ValueError:
-        return date_str
+        return "no date"
 
 
 def is_date_old(date_str):
@@ -50,10 +50,10 @@ def generate_list():
         for category, packages in categories.items():
             file.write(f"## {category}\n")
             file.write(
-                "| Project Name | Description (Longer Header to Widen Column) | PyPI Conda | Docs | CI | Paper |\n"
+                "| Name | Description                                | PyPI Conda | Docs | CI | Paper |\n"
             )
             file.write(
-                "| ------------ | ------------------------------------------ | ---------- | ---- | -- | --------- |\n"
+                "| ---- | ------------------------------------------ | ---------- | ---- | -- | ----- |\n"
             )
             for package_name, package in packages:
                 description = package["description"]
@@ -66,11 +66,14 @@ def generate_list():
                 last_update = package.get("last_update", "")
 
                 if version or last_update:
-                    formatted_date = format_date(last_update)
-                    if is_date_old(last_update):
-                        formatted_date = f"🔴 {formatted_date}"
-                    elif is_date_recent(last_update):
-                        formatted_date = f"🟢 {formatted_date}"
+                    if last_update:
+                        formatted_date = format_date(last_update)
+                        if is_date_old(last_update):
+                            formatted_date = f"🔴 {formatted_date}"
+                        elif is_date_recent(last_update):
+                            formatted_date = f"🟢 {formatted_date}"
+                    else:
+                        formatted_date = "🔴 No date"
                     description += (
                         f" (Version: {version}, Last Update: {formatted_date})"
                     )
