@@ -515,7 +515,7 @@
         "doi_paper": "",
         "conda": "",
         "version": "",
-        "legacy": ""
+        "legacy": 0
     },
     "WellApplication": {
         "description": "Set of tools for groundwater level and water chemistry analysis.",
@@ -529,7 +529,7 @@
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/WellApplication",
         "version": "0.5.6",
-        "legacy": ""
+        "legacy": 0
     },
     "TimML": {
         "description": "A Multi-Layer, Analytic Element Model.",
@@ -543,7 +543,7 @@
         "doi_paper": "https://doi.org/10.1016/j.advwatres.2005.11.005",
         "conda": "https://anaconda.org/conda-forge/TIMML",
         "version": "6.4.1",
-        "legacy": ""
+        "legacy": 0
     },
     "TTim": {
         "description": "A Multi-Layer, Transient, Analytic Element Model.",
@@ -557,7 +557,7 @@
         "doi_paper": "https://doi.org/10.1007/s10040-013-0975-2",
         "conda": "https://anaconda.org/conda-forge/TTim",
         "version": "0.6.6",
-        "legacy": ""
+        "legacy": 0
     },
     "PyHELP": {
         "description": "A Python library for the assessment of spatially distributed groundwater recharge and hydrological components with HELP.",
@@ -571,7 +571,7 @@
         "doi_paper": "",
         "conda": "",
         "version": "0.4.0",
-        "legacy": ""
+        "legacy": 0
     },
     "Anaflow": {
         "description": "A python-package containing analytical solutions for the groundwater flow equation",
@@ -585,7 +585,7 @@
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Anaflow",
         "version": "1.1.0",
-        "legacy": ""
+        "legacy": 0
     },
     "WellTestPy": {
         "description": "A python-package for handling well based field campaigns.",
@@ -599,7 +599,7 @@
         "doi_paper": "https://doi.org/10.1111/gwat.13121",
         "conda": "https://anaconda.org/conda-forge/WellTestPy",
         "version": "1.2.0",
-        "legacy": ""
+        "legacy": 0
     },
     "NLmod": {
         "description": "Python code to process, build and visualize MODFLOW models in the Netherlands. Model data is stored in a xarray Datasets and geopandas GeoDataFrames.",
@@ -613,7 +613,7 @@
         "doi_paper": "",
         "conda": "",
         "version": "0.8.1",
-        "legacy": ""
+        "legacy": 0
     },
     "Hydropy": {
         "description": "Analysis of hydrological oriented time series.",
@@ -627,12 +627,12 @@
         "doi_paper": "",
         "conda": "",
         "version": "0.1.2",
-        "legacy": ""
+        "legacy": 1
     },
     "Pastas": {
         "description": "Analysis of hydrological time series using time series models.",
         "url": "https://github.com/pastas/pastas",
-        "category": "Time Series (Analysis)",
+        "category": "Groundwater",
         "docs": "https://pastas.readthedocs.io",
         "CI": 1,
         "last_update": "2024-09-06T14:16:41",
@@ -646,13 +646,13 @@
     "Hydrostats": {
         "description": "Tools for use in comparison studies, specifically for use in the field of hydrology.",
         "url": "https://github.com/BYU-Hydroinformatics/Hydrostats",
-        "category": "Time Series (Analysis)",
+        "category": "Optimization, Uncertainty, Statistics",
         "docs": "https://hydrostats.readthedocs.io/en/stable/",
         "CI": 0,
         "last_update": "2019-04-24T20:56:21",
         "pypi": "https://pypi.org/project/Hydrostats/",
         "doi_software": "",
-        "doi_paper": "",
+        "doi_paper": "https://doi.org/10.3390/hydrology5040066",
         "conda": "https://anaconda.org/conda-forge/Hydrostats",
         "version": "0.78",
         "legacy": ""
@@ -679,11 +679,11 @@
         "CI": 0,
         "last_update": "2021-11-20T11:50:24",
         "pypi": "https://pypi.org/project/HydroAnalysis/",
-        "doi_software": "",
+        "doi_software": "https://zenodo.org/badge/latestdoi/406317261",
         "doi_paper": "",
         "conda": "",
         "version": "1.0.0",
-        "legacy": ""
+        "legacy": 0
     },
     "HydroPandas": {
         "description": "Module for loading time series data into custom DataFrames",
@@ -702,7 +702,7 @@
     "traval": {
         "description": "Tools for applying automatic error detection schemes to timeseries",
         "url": "https://github.com/ArtesiaWater/traval",
-        "category": "Time Series (Analysis)",
+        "category": "Optimization, Uncertainty, Statistics",
         "docs": "https://traval.readthedocs.io/",
         "CI": 0,
         "last_update": "2024-08-15T13:00:41",
