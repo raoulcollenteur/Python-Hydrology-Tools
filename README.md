@@ -3,6 +3,19 @@ My attempt to list interesting open source python projects that can be used in t
 
 Raoul A. Collenteur, Eawag.
 
+## Categories
+- [Catchment Hydrology](#catchment-hydrology)
+- [Data Collection](#data-collection)
+- [Evaluation](#evaluation)
+- [Geospatial](#geospatial)
+- [Groundwater](#groundwater)
+- [Meteorological tools](#meteorological-tools)
+- [Miscellaneous](#miscellaneous)
+- [Optimization and Uncertainty](#optimization-and-uncertainty)
+- [Statistics](#statistics)
+- [Unsaturated Zone](#unsaturated-zone)
+- [Legacy Packages](#legacy-packages)
+
 ## Catchment Hydrology
 | Name | Description                                | PyPI Conda | Docs | CI | Paper |
 | ---- | ------------------------------------------ | ---------- | ---- | -- | ----- |
@@ -26,10 +39,10 @@ Raoul A. Collenteur, Eawag.
 | [MetPy](https://github.com/Unidata/MetPy) | MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data. (Version: 1.6.3, Last Update: 🟢 24-08-26) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/MetPy/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/MetPy) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://unidata.github.io/MetPy/) | 🟢 |  |
 | [MetSim](https://github.com/UW-Hydro/MetSim) | MetSim is a meteorological simulator and forcing disaggregator for hydrologic modeling and climate applications. (Version: 2.4.4, Last Update: 🟢 23-11-06) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/MetSim/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/MetSim) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](http://metsim.readthedocs.io/) |  |  |
 | [PyCat](https://github.com/wegener-center/pyCAT) | Climate Analysis Tool written in python (Version: 0.1.1, Last Update: 🔴 15-04-13) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/PyCat/)  | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](http://pycat.readthedocs.io/en/latest/?badge=latest) |  |  |
-| [pyet](https://github.com/phydrus/pyet) | A python-package for calculating reference and potential evaporation. (Version: 1.3.1, Last Update: 🟢 24-03-15) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/pyet/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/pyet) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://pyet.readthedocs.io/) |  | [![DOI](https://img.shields.io/badge/DOI-10.1000/xyz123-blue)](https://doi.org/10.5194/gmd-17-7083-2024) |
+| [pyet](https://github.com/phydrus/pyet) | A python-package for calculating reference and potential evaporation. (Version: 1.3.1, Last Update: 🟢 24-03-15) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/pyet/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/pyet) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://pyet.readthedocs.io/) | 🟢 | [![DOI](https://img.shields.io/badge/DOI-10.1000/xyz123-blue)](https://doi.org/10.5194/gmd-17-7083-2024) |
 | [PyEto](https://github.com/woodcrafty/PyETo) | PyETo is a Python library for calculating reference crop evapotranspiration (ETo), sometimes referred to as potential evapotranspiration (PET). The library provides numerous functions for estimating missing meteorological data. |   | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://pyeto.readthedocs.io) |  |  |
 | [pyfao56](https://github.com/kthorp/pyfao56) | A Python implementation of the FAO-56 dual crop coefficient approach for crop water use estimation and irrigation scheduling. (Version: 1.3.0, Last Update: 🟢 24-03-21) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/pyfao56/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/pyfao56) |  |  |  |
-| [PySteps](https://github.com/pySTEPS/pysteps) | pySTEPS is a community-driven initiative for developing and maintaining an easy to use, modular, free and open source Python framework for short-term ensemble prediction systems. (Version: 1.11.0, Last Update: 🟢 24-08-27) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/PySteps/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/PySteps) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://pysteps.readthedocs.io/en/stable/) |  |  |
+| [PySteps](https://github.com/pySTEPS/pysteps) | pySTEPS is a community-driven initiative for developing and maintaining an easy to use, modular, free and open source Python framework for short-term ensemble prediction systems. (Version: 1.11.0, Last Update: 🟢 24-08-27) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/PySteps/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/PySteps) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://pysteps.readthedocs.io/en/stable/) | 🟢 | [![DOI](https://img.shields.io/badge/DOI-10.1000/xyz123-blue)](https://doi.org/10.5194/gmd-12-4185-2019) |
 | [rainymotion](https://github.com/hydrogo/rainymotion) | Python library for radar-based precipitation nowcasting based on optical flow techniques. |   | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](http://rainymotion.readthedocs.io) |  |  |
 | [SPEI](https://github.com/martinvonk/SPEI) | Calculate and visualize some popular drought indices such as the SPI, SPEI and SGI. (Version: 0.5.0, Last Update: 🟢 24-09-18) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/SPEI/)  |  |  |  |
 ## Unsaturated Zone
