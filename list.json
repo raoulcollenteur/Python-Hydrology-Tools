@@ -95,7 +95,7 @@
         "doi_paper": "",
         "conda": "",
         "version": "",
-        "legacy": ""
+        "legacy": 1
     },
     "SMARTPy": {
         "description": "Python implementation of the rainfall-runoff model SMART",
@@ -129,8 +129,8 @@
         "description": "A framework for the development and application of hydrological models based on Python.",
         "url": "https://github.com/hydpy-dev/hydpy",
         "category": "Catchment Hydrology",
-        "docs": "https://coverage.readthedocs.io",
-        "CI": 0,
+        "docs": "https://hydpy-dev.github.io/hydpy",
+        "CI": 1,
         "last_update": "2024-09-23T21:02:25",
         "pypi": "https://pypi.org/project/HydPy/",
         "doi_software": "",
@@ -146,12 +146,12 @@
         "docs": "",
         "CI": 0,
         "last_update": "",
-        "pypi": "",
+        "pypi": "https://pypi.org/project/pycatchmod/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
         "version": "",
-        "legacy": ""
+        "legacy": 1
     },
     "wflow": {
         "description": "wflow consists of a set of Python programs that can be run on the command line and perform hydrological simulations. The models are based on the PCRaster Python framework",
@@ -193,7 +193,7 @@
         "doi_paper": "",
         "conda": "",
         "version": "0.0.0",
-        "legacy": ""
+        "legacy": 1
     },
     "SuperflexPy": {
         "description": "SuperflexPy: A new open source framework for building conceptual hydrological models",
@@ -203,8 +203,8 @@
         "CI": 0,
         "last_update": "2023-11-25T09:33:47",
         "pypi": "https://pypi.org/project/SuperflexPy/",
-        "doi_software": "",
-        "doi_paper": "",
+        "doi_software": "https://zenodo.org/badge/latestdoi/208847505",
+        "doi_paper": "https://doi.org/10.5194/gmd-14-7047-2021",
         "conda": "",
         "version": "1.3.2",
         "legacy": ""
@@ -214,14 +214,14 @@
         "url": "https://github.com/neuralhydrology/neuralhydrology",
         "category": "Catchment Hydrology",
         "docs": "https://neuralhydrology.readthedocs.io/",
-        "CI": 0,
+        "CI": 1,
         "last_update": "2024-08-02T13:13:35",
         "pypi": "https://pypi.org/project/NeuralHydrology/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.21105/joss.04050",
         "conda": "",
         "version": "1.11.0",
-        "legacy": ""
+        "legacy": 0
     },
     "DRYP": {
         "description": "Dryland Water Partition model.",
@@ -239,7 +239,7 @@
     },
     "LuKars": {
         "description": "The LuKARS model is a lumped karst hydrological model to perform studies in karstic environments.",
-        "url": "https://github.com/dbittner87/LuKARS",
+        "url": "https://github.com/lhalloran/Gravi4GW",
         "category": "Catchment Hydrology",
         "docs": "",
         "CI": 0,
@@ -247,6 +247,20 @@
         "pypi": "",
         "doi_software": "",
         "doi_paper": "",
+        "conda": "",
+        "version": "",
+        "legacy": 1
+    },
+    "Gravi4GW": {
+        "description": "A tool for conversion between Δg and groundwater storage changes.",
+        "url": "https://github.com/lhalloran/Gravi4GW",
+        "category": "Groundwater",
+        "docs": "",
+        "CI": 0,
+        "last_update": "",
+        "pypi": "",
+        "doi_software": "",
+        "doi_paper": "https://doi.org/10.1016/j.envsoft.2022.105340",
         "conda": "",
         "version": "",
         "legacy": 1
@@ -259,8 +273,8 @@
         "CI": 0,
         "last_update": "2019-01-16T22:12:13",
         "pypi": "https://pypi.org/project/SUMMA/",
-        "doi_software": "",
-        "doi_paper": "",
+        "doi_software": "https://doi.org/10.5281/zenodo.800772",
+        "doi_paper": "http://dx.doi.org/10.1002/2015WR017198",
         "conda": "https://anaconda.org/conda-forge/SUMMA",
         "version": "1.2.0",
         "legacy": ""
