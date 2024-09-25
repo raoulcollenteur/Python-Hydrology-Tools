@@ -1,7 +1,5 @@
 # Open Source Python Packages in Hydrology
-My attempt to list interesting open source python projects that can be used in the field of Hydrology. Suggestions as issues or pull requests are welcome!
-
-UPDATE: The Pypa package authority has now added ["Hydrology" as a classifier](https://github.com/pypa/warehouse/issues/5728) so we can start [collecting python packages](https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Hydrology) used by the hydrological community! If you are maintaining a python package, please add `Topic :: Scientific/Engineering :: Hydrology` to your setup.py so people can find your package.
+My attempt to list interesting open source python projects that can be used in the field of Hydrology.In a 2024 update I have automated various tasks to maintain the quality of this list, and added more information about the packages thatcan serve as potential quality indicators. In the description it is now listed when the last update on Pypi/Conda was, to highlight whether or not a package is probably active (🟢) or inactive (🔴). Also information about the FAIR data repository, description paper, and Continuous Integration testing (CI) is included. All this in the hope that more and more packages develop according to common research software developement best practices. Suggestions as issues or pull requests are welcome! 
 
 Raoul A. Collenteur, Eawag.
 
@@ -27,6 +25,9 @@ Raoul A. Collenteur, Eawag.
 | [DRYP](https://github.com/AndresQuichimbo/DRYP) | Dryland Water Partition model. |   |  |  |  |
 | [LuKars](https://github.com/dbittner87/LuKARS) | The LuKARS model is a lumped karst hydrological model to perform studies in karstic environments. |   |  |  |  |
 | [SUMMA](https://github.com/CH-Earth/summa) | A hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques. (Version: 1.2.0, Last Update: 🔴 19-01-16) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/SUMMA/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/SUMMA) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](http://summa.readthedocs.io/) |  |  |
+# Background Info
+UPDATE: The Pypa package authority has now added ["Hydrology" as a classifier](https://github.com/pypa/warehouse/issues/5728) so we can start [collecting python packages](https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Hydrology) used by the hydrological community! If you are maintaining a python package, please add `Topic :: Scientific/Engineering :: Hydrology` to your setup.py so people can find your package.
+
 
 ## Meteorological tools
 | Name | Description                                | PyPI Conda | Docs | CI | Paper |
@@ -43,6 +44,9 @@ Raoul A. Collenteur, Eawag.
 | [rainymotion](https://github.com/hydrogo/rainymotion) | Python library for radar-based precipitation nowcasting based on optical flow techniques. |   | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](http://rainymotion.readthedocs.io) |  |  |
 | [pyet](https://github.com/phydrus/pyet) | A python-package for calculating reference and potential evaporation. (Version: 1.3.1, Last Update: 🟢 24-03-15) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/pyet/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/pyet) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://pyet.readthedocs.io/) |  | [![DOI](https://img.shields.io/badge/DOI-10.1000/xyz123-blue)](https://doi.org/10.5194/gmd-17-7083-2024) |
 | [SPEI](https://github.com/martinvonk/SPEI) | A simple Python package to calculate and visualize some popular drought indices such as the SPI, SPEI and SGI. (Version: 0.5.0, Last Update: 🟢 24-09-18) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/SPEI/)  |  |  |  |
+# Background Info
+UPDATE: The Pypa package authority has now added ["Hydrology" as a classifier](https://github.com/pypa/warehouse/issues/5728) so we can start [collecting python packages](https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Hydrology) used by the hydrological community! If you are maintaining a python package, please add `Topic :: Scientific/Engineering :: Hydrology` to your setup.py so people can find your package.
+
 
 ## Unsaturated Zone
 | Name | Description                                | PyPI Conda | Docs | CI | Paper |
@@ -51,6 +55,9 @@ Raoul A. Collenteur, Eawag.
 | [Phydrus](https://github.com/phydrus/phydrus) | Python implementation of the HYDRUS-1D unsaturated zone model (Version: 0.2.0, Last Update: 🔴 21-03-30) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/Phydrus/)  | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://phydrus.readthedocs.io/) |  |  |
 | [VS2DPY](https://github.com/martinvonk/VS2DPY) | Python implementation of the VS2D unsaturated zone model. (Version: 0.3.0, Last Update: 🔴 22-12-07) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/VS2DPY/)  |  |  |  |
 | [pedon](https://github.com/martinvonk/pedon) | Python package for (unsaturated) soil properties including pedotransfer functions. (Version: 0.0.6, Last Update: 🟢 24-01-22) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/pedon/)  |  |  |  |
+# Background Info
+UPDATE: The Pypa package authority has now added ["Hydrology" as a classifier](https://github.com/pypa/warehouse/issues/5728) so we can start [collecting python packages](https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Hydrology) used by the hydrological community! If you are maintaining a python package, please add `Topic :: Scientific/Engineering :: Hydrology` to your setup.py so people can find your package.
+
 
 ## Groundwater
 | Name | Description                                | PyPI Conda | Docs | CI | Paper |
@@ -66,6 +73,9 @@ Raoul A. Collenteur, Eawag.
 | [WellTestPy](https://github.com/GeoStat-Framework/welltestpy) | A python-package for handling well based field campaigns. (Version: 1.2.0, Last Update: 🔴 23-04-18) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/WellTestPy/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/WellTestPy) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://welltestpy.readthedocs.io) |  |  |
 | [HydroGeoSines](https://github.com/HydroGeoSines/HydroGeoSines) | Signal In the Noise Exploration Software for Hydrogeological Datasets. |   |  |  |  |
 | [nlmod](https://github.com/ArtesiaWater/nlmod) | Python code to process, build and visualize MODFLOW models in the Netherlands. Model data is stored in a xarray Datasets and geopandas GeoDataFrames. (Version: 0.8.1, Last Update: 🟢 24-07-25) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/nlmod/)  | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://nlmod.readthedocs.io) |  |  |
+# Background Info
+UPDATE: The Pypa package authority has now added ["Hydrology" as a classifier](https://github.com/pypa/warehouse/issues/5728) so we can start [collecting python packages](https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Hydrology) used by the hydrological community! If you are maintaining a python package, please add `Topic :: Scientific/Engineering :: Hydrology` to your setup.py so people can find your package.
+
 
 ## Time Series (Analysis)
 | Name | Description                                | PyPI Conda | Docs | CI | Paper |
@@ -77,6 +87,9 @@ Raoul A. Collenteur, Eawag.
 | [HydroAnalysis](https://github.com/dalmo1991/HydroAnalysis) | Python package to calculate indices and metrics useful in the everyday job of a hydrologist. (Version: 1.0.0, Last Update: 🔴 21-11-20) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/HydroAnalysis/)  | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://hydroanalysis.readthedocs.io/en/latest/) |  |  |
 | [HydroPandas](https://github.com/ArtesiaWater/hydropandas) | Module for loading time series data into custom DataFrames (Version: 0.12.2, Last Update: 🟢 24-07-12) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/HydroPandas/)  | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://hydropandas.readthedocs.io) |  |  |
 | [traval](https://github.com/ArtesiaWater/traval) | Tools for applying automatic error detection schemes to timeseries (Version: 0.5.0, Last Update: 🟢 24-08-15) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/traval/)  | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://traval.readthedocs.io/) |  |  |
+# Background Info
+UPDATE: The Pypa package authority has now added ["Hydrology" as a classifier](https://github.com/pypa/warehouse/issues/5728) so we can start [collecting python packages](https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Hydrology) used by the hydrological community! If you are maintaining a python package, please add `Topic :: Scientific/Engineering :: Hydrology` to your setup.py so people can find your package.
+
 
 ## GIS Related
 | Name | Description                                | PyPI Conda | Docs | CI | Paper |
@@ -85,6 +98,9 @@ Raoul A. Collenteur, Eawag.
 | [PyGeoprocessing](https://pypi.org/project/pygeoprocessing/) | A Python/Cython based library that provides a set of commonly used raster, vector, and hydrological operations for GIS processing. (Version: 2.4.4, Last Update: 🟢 24-05-21) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/PyGeoprocessing/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/PyGeoprocessing) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://pygeoprocessing.readthedocs.io/en/latest/) |  |  |
 | [Pysheds](https://github.com/mdbartos/pysheds) | Simple and fast watershed delineation in python. (Version: 0.4, Last Update: 🟢 24-05-09) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/Pysheds/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/Pysheds) |  |  |  |
 | [Lidar](https://github.com/giswqs/lidar) | Terrain and hydrological analysis based on LiDAR-derived digital elevation models (DEM). (Version: 0.8.3, Last Update: 🟢 24-06-06) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/Lidar/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/Lidar) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://richdem.readthedocs.io/) |  |  |
+# Background Info
+UPDATE: The Pypa package authority has now added ["Hydrology" as a classifier](https://github.com/pypa/warehouse/issues/5728) so we can start [collecting python packages](https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Hydrology) used by the hydrological community! If you are maintaining a python package, please add `Topic :: Scientific/Engineering :: Hydrology` to your setup.py so people can find your package.
+
 
 ## Optimization, Uncertainty, Statistics
 | Name | Description                                | PyPI Conda | Docs | CI | Paper |
@@ -99,6 +115,9 @@ Raoul A. Collenteur, Eawag.
 | [HydroLM](https://github.com/mullenkamp/HydroLM) | The HydroLM package contains a class and functions for automating linear regressions OLS for hydrologists. (Version: 1.0.7, Last Update: 🔴 19-01-15) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/HydroLM/)  |  |  |  |
 | [PySDI](https://bitbucket.org/pysdi/pysdi/src/master/) | Pysdi is a set of open source scripts that compute non-parametric standardized drought indices (SDI) using raster data sets as input data. (Version: 0.2.6.3.1, Last Update: 🔴 20-02-25) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/PySDI/)  |  |  |  |
 | [xskillscore](https://github.com/xarray-contrib/xskillscore) | Metrics for verifying forecasts. (Version: 0.0.26, Last Update: 🟢 24-03-10) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/xskillscore/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/xskillscore) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://xskillscore.readthedocs.io/en/stable/) |  |  |
+# Background Info
+UPDATE: The Pypa package authority has now added ["Hydrology" as a classifier](https://github.com/pypa/warehouse/issues/5728) so we can start [collecting python packages](https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Hydrology) used by the hydrological community! If you are maintaining a python package, please add `Topic :: Scientific/Engineering :: Hydrology` to your setup.py so people can find your package.
+
 
 ## Data Collection
 | Name | Description                                | PyPI Conda | Docs | CI | Paper |
@@ -110,6 +129,9 @@ Raoul A. Collenteur, Eawag.
 | [PyHIS](https://pypi.org/project/pyhis/) | PyHIS is a python library for querying CUAHSI*-HIS** web services. (Version: 0.1.1-alpha, Last Update: 🔴 11-11-15) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/PyHIS/)  |  |  |  |
 | [Wetterdienst](https://github.com/earthobservations/wetterdienst) | Python Toolset For Accessing Weather Data From German Weather Service. (Version: 0.95.1, Last Update: 🟢 24-09-04) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/Wetterdienst/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/Wetterdienst) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://wetterdienst.readthedocs.io/) |  |  |
 | [Dataretrieval](https://github.com/USGS-python/dataretrieval) | Dataretrieval is a Python package for obtaining USGS or EPA water quality data, streamflow data, and metadata directly from web services. (Version: 1.0.10, Last Update: 🟢 24-08-05) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/Dataretrieval/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/Dataretrieval) |  |  |  |
+# Background Info
+UPDATE: The Pypa package authority has now added ["Hydrology" as a classifier](https://github.com/pypa/warehouse/issues/5728) so we can start [collecting python packages](https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Hydrology) used by the hydrological community! If you are maintaining a python package, please add `Topic :: Scientific/Engineering :: Hydrology` to your setup.py so people can find your package.
+
 
 ## Miscellaneous
 | Name | Description                                | PyPI Conda | Docs | CI | Paper |
@@ -133,4 +155,7 @@ Raoul A. Collenteur, Eawag.
 | [Mesas](https://github.com/charman2/mesas) | Multiresolution Estimation of StorAge Selection functions. (Version: 1.20240418, Last Update: 🔴 No date) |  [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/Mesas) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://mesas.readthedocs.io/en/latest/installation.html) |  |  |
 | [pydsstools](https://github.com/gyanz/pydsstools) | Python library for simple [HEC-DSS](https://www.hec.usace.army.mil/software/hec-dss/) functions. (Version: 2.3.2, Last Update: 🟢 24-01-13) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/pydsstools/)  |  |  |  |
 | [eWaterCycle](https://doi.org/10.5194/gmd-15-5371-2022) | Platform to do computational hydrology using many of the above mentioned models. (Version: 2.3.1, Last Update: 🟢 24-09-17) | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/eWaterCycle/)  |  |  |  |
+# Background Info
+UPDATE: The Pypa package authority has now added ["Hydrology" as a classifier](https://github.com/pypa/warehouse/issues/5728) so we can start [collecting python packages](https://pypi.org/search/?q=&o=&c=Topic+%3A%3A+Scientific%2FEngineering+%3A%3A+Hydrology) used by the hydrological community! If you are maintaining a python package, please add `Topic :: Scientific/Engineering :: Hydrology` to your setup.py so people can find your package.
+
 
