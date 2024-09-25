@@ -309,7 +309,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Improver",
-        "version": ""
+        "version": "1.9.0"
     },
     "MetSim": {
         "description": "MetSim is a meteorological simulator and forcing disaggregator for hydrologic modeling and climate applications.",
@@ -712,7 +712,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PcRaster",
-        "version": ""
+        "version": "4.4.1"
     },
     "PyGeoprocessing": {
         "description": "A Python/Cython based library that provides a set of commonly used raster, vector, and hydrological operations for GIS processing.",
@@ -985,7 +985,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/ESMPY",
-        "version": ""
+        "version": "8.6.1"
     },
     "PyHSPF": {
         "description": "Python extensions to the Hydrological Simulation Program in Fortran (HSPF).",
@@ -1193,7 +1193,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Mesas",
-        "version": ""
+        "version": "1.20240418"
     },
     "pydsstools": {
         "description": "Python library for simple [HEC-DSS](https://www.hec.usace.army.mil/software/hec-dss/) functions.",

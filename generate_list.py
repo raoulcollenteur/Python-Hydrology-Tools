@@ -1,4 +1,13 @@
 import json
+from datetime import datetime
+
+
+def format_date(date_str):
+    try:
+        date_obj = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+        return date_obj.strftime("%y-%m-%d")
+    except ValueError:
+        return date_str
 
 
 def generate_list():
@@ -39,10 +48,12 @@ def generate_list():
                 ci_status = package.get("CI", 0)
                 version = package.get("version", "")
                 last_update = package.get("last_update", "")
-                doi_paper = package.get("doi_paper", "")
 
                 if version or last_update:
-                    description += f" (Version: {version}, Last Update: {last_update})"
+                    formatted_date = format_date(last_update)
+                    description += (
+                        f" (Version: {version}, Last Update: {formatted_date})"
+                    )
 
                 pypi_logo = (
                     f"[![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)]({pypi_url})"
@@ -65,8 +76,8 @@ def generate_list():
                     else ""
                 )
                 doi_paper_logo = (
-                    f"[![DOI](https://img.shields.io/badge/DOI-10.1000/xyz123-blue)]({doi_paper})"
-                    if doi_paper
+                    f"[![DOI](https://img.shields.io/badge/DOI-10.1000/xyz123-blue)]({package.get('doi_paper', '')})"
+                    if package.get("doi_paper", "")
                     else ""
                 )
 
