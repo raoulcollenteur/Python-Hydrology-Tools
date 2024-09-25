@@ -60,9 +60,7 @@ def generate_list():
                 if version or last_update:
                     formatted_date = format_date(last_update)
                     if is_date_old(last_update):
-                        formatted_date = (
-                            f"<span style='color:red'>{formatted_date}</span>"
-                        )
+                        formatted_date = f"🔴 {formatted_date}"
                     description += (
                         f" (Version: {version}, Last Update: {formatted_date})"
                     )
