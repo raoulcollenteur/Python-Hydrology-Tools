@@ -18,6 +18,14 @@ def is_date_old(date_str):
         return False
 
 
+def is_date_recent(date_str):
+    try:
+        date_obj = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+        return datetime.now() - date_obj <= timedelta(days=365)
+    except ValueError:
+        return False
+
+
 def generate_list():
     with open("list.json", "r") as file:
         data = json.load(file)
@@ -61,6 +69,8 @@ def generate_list():
                     formatted_date = format_date(last_update)
                     if is_date_old(last_update):
                         formatted_date = f"🔴 {formatted_date}"
+                    elif is_date_recent(last_update):
+                        formatted_date = f"🟢 {formatted_date}"
                     description += (
                         f" (Version: {version}, Last Update: {formatted_date})"
                     )
@@ -80,11 +90,7 @@ def generate_list():
                     if docs_url
                     else ""
                 )
-                ci_logo = (
-                    "[![CI](https://img.shields.io/badge/CI-passing-brightgreen)]"
-                    if ci_status
-                    else ""
-                )
+                ci_logo = "🟢" if ci_status else ""
                 doi_paper_logo = (
                     f"[![DOI](https://img.shields.io/badge/DOI-10.1000/xyz123-blue)]({package.get('doi_paper', '')})"
                     if package.get("doi_paper", "")
