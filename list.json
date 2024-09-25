@@ -699,6 +699,20 @@
         "version": "0.12.2",
         "legacy": ""
     },
+    "GeoArchPy": {
+        "description": "Stochastic geological modeling",
+        "url": "https: //github.com/randlab/ArchPy",
+        "category": "Groundwater",
+        "docs": "https://archpy.readthedocs.io/en/latest/",
+        "CI": 0,
+        "last_update": "",
+        "pypi": "https://pypi.org/project/Geoarchpy/",
+        "doi_software": "",
+        "doi_paper": "https://doi.org/10.3389/fams.2024.1441596",
+        "conda": "",
+        "version": "",
+        "legacy": ""
+    },
     "traval": {
         "description": "Tools for applying automatic error detection schemes to timeseries",
         "url": "https://github.com/ArtesiaWater/traval",
