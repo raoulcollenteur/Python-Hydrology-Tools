@@ -514,7 +514,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "",
+        "version": "0.17.2",
         "legacy": ""
     },
     "WellApplication": {
