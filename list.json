@@ -239,7 +239,7 @@
     },
     "LuKars": {
         "description": "The LuKARS model is a lumped karst hydrological model to perform studies in karstic environments.",
-        "url": "https://github.com/lhalloran/Gravi4GW",
+        "url": "https://github.com/dbittner87/LuKARS",
         "category": "Catchment Hydrology",
         "docs": "",
         "CI": 0,
@@ -263,7 +263,7 @@
         "doi_paper": "https://doi.org/10.1016/j.envsoft.2022.105340",
         "conda": "",
         "version": "",
-        "legacy": 1
+        "legacy": 0
     },
     "SUMMA": {
         "description": "A hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques.",
@@ -361,20 +361,6 @@
         "doi_paper": "https://doi.org/10.5194/gmd-9-2315-2016",
         "conda": "",
         "version": "0.1.6",
-        "legacy": ""
-    },
-    "PyCat": {
-        "description": "Climate Analysis Tool written in python",
-        "url": "https://github.com/wegener-center/pyCAT",
-        "category": "Meteorological tools",
-        "docs": "http://pycat.readthedocs.io/en/latest/?badge=latest",
-        "CI": 0,
-        "last_update": "2015-04-13T22:50:53",
-        "pypi": "https://pypi.org/project/PyCat/",
-        "doi_software": "",
-        "doi_paper": "",
-        "conda": "",
-        "version": "0.1.1",
         "legacy": ""
     },
     "PySteps": {
