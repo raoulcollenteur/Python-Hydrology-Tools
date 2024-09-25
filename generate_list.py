@@ -24,19 +24,25 @@ def generate_list():
 
         for category, packages in categories.items():
             file.write(f"## {category}\n")
-            file.write("| Project Name | Description | PyPI |\n")
-            file.write("| ------------ | ----------- | ---- |\n")
+            file.write("| Project Name | Description | PyPI | Conda |\n")
+            file.write("| ------------ | ----------- | ---- | ----- |\n")
             for package_name, package in packages:
                 description = package["description"]
                 url = package["url"]
                 pypi_url = package.get("pypi", "")
+                conda_url = package.get("conda", "")
                 pypi_logo = (
                     f"[![PyPI](https://img.shields.io/badge/PyPI-3776AB?logo=python&logoColor=white)]({pypi_url})"
                     if pypi_url
                     else ""
                 )
+                conda_logo = (
+                    f"[![Conda](https://img.shields.io/badge/Conda-44A833?logo=anaconda&logoColor=white)]({conda_url})"
+                    if conda_url
+                    else ""
+                )
                 file.write(
-                    f"| [{package_name}]({url}) | {description} | {pypi_logo} |\n"
+                    f"| [{package_name}]({url}) | {description} | {pypi_logo} | {conda_logo} |\n"
                 )
             file.write("\n")
 
