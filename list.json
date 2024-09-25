@@ -705,12 +705,12 @@
         "category": "Groundwater",
         "docs": "https://archpy.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "",
+        "last_update": "2024-09-02T13:22:18",
         "pypi": "https://pypi.org/project/Geoarchpy/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.3389/fams.2024.1441596",
         "conda": "",
-        "version": "",
+        "version": "1.0.7",
         "legacy": ""
     },
     "traval": {
