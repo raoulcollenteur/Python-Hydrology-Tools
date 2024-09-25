@@ -25,10 +25,10 @@ def generate_list():
         for category, packages in categories.items():
             file.write(f"## {category}\n")
             file.write(
-                "| Project Name | Description | PyPI | Conda | Docs | CI | Version | Last Update | DOI Paper |\n"
+                "| Project Name | Description (Longer Header to Widen Column) | PyPI | Conda | Docs | CI | Version | Last Update | DOI Paper |\n"
             )
             file.write(
-                "| ------------ | ----------- | ---- | ----- | ---- | -- | ------- | ----------- | --------- |\n"
+                "| ------------ | ------------------------------------------ | ---- | ----- | ---- | -- | ------- | ----------- | --------- |\n"
             )
             for package_name, package in packages:
                 description = package["description"]
@@ -42,12 +42,12 @@ def generate_list():
                 doi_paper = package.get("doi_paper", "")
 
                 pypi_logo = (
-                    f"[![PyPI](https://img.shields.io/badge/PyPI-3776AB?logo=python&logoColor=white)]({pypi_url})"
+                    f"[![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)]({pypi_url})"
                     if pypi_url
                     else ""
                 )
                 conda_logo = (
-                    f"[![Conda](https://img.shields.io/badge/Conda-44A833?logo=anaconda&logoColor=white)]({conda_url})"
+                    f"[![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)]({conda_url})"
                     if conda_url
                     else ""
                 )
