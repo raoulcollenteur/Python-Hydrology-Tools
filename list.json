@@ -2,7 +2,7 @@
     "CMF": {
         "description": "Catchment Modelling Framework, a hydrologic modelling toolbox.",
         "url": "https://github.com/philippkraft/cmf",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "https://philippkraft.github.io/cmf/",
         "CI": 0,
         "last_update": "2024-01-19T16:42:28",
@@ -16,7 +16,7 @@
     "VIC": {
         "description": "The Variable Infiltration Capacity (VIC) Macroscale Hydrologic Model.",
         "url": "https://github.com/UW-Hydro/VIC",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "http://vic.readthedocs.io",
         "CI": 0,
         "last_update": "2016-06-18T22:49:24",
@@ -30,7 +30,7 @@
     "Xanthos": {
         "description": "Xanthos is an open-source hydrologic model, written in Python, designed to quantify and analyze global water availability.",
         "url": "https://github.com/JGCRI/xanthos",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "",
         "CI": 0,
         "last_update": "2021-08-10T20:55:25",
@@ -44,7 +44,7 @@
     "wrfhydropy": {
         "description": "wrfhydrpy is a Python API for the WRF-Hydro modelling system.",
         "url": "https://github.com/NCAR/wrf_hydro_py",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "https://wrfhydropy.readthedocs.io/",
         "CI": 0,
         "last_update": "2024-02-16T21:26:27",
@@ -58,7 +58,7 @@
     "EXP-HYDRO": {
         "description": "EXP-HYDRO is a catchment scale hydrological model that operates at a daily time-step. It takes as inputs the daily values of precipitation, air temperature, and potential evapotranspiration, and simulates daily streamflow at the catchment outlet.",
         "url": "https://github.com/sopanpatil/exp-hydro",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "https://sopanpatil.github.io/exp-hydro/",
         "CI": 0,
         "last_update": "",
@@ -72,7 +72,7 @@
     "RRMPG": {
         "description": "Rainfall-Runoff modelling playground.",
         "url": "https://github.com/kratzert/RRMPG",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "http://rrmpg.readthedocs.io/en/latest/index.html",
         "CI": 0,
         "last_update": "",
@@ -86,7 +86,7 @@
     "LHMP": {
         "description": "Lumped Hydrological Models Playground.",
         "url": "https://github.com/hydrogo/LHMP",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "",
         "CI": 0,
         "last_update": "",
@@ -100,7 +100,7 @@
     "SMARTPy": {
         "description": "Python implementation of the rainfall-runoff model SMART",
         "url": "https://github.com/ThibHlln/smartpy",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "",
         "CI": 0,
         "last_update": "2022-02-14T16:18:21",
@@ -114,7 +114,7 @@
     "PyStream": {
         "description": "Python implementation of the STREAM hydrological rainfall-runoff model.",
         "url": "https://github.com/martibosch/pystream",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "",
         "CI": 0,
         "last_update": "2015-06-18T14:58:50",
@@ -128,7 +128,7 @@
     "HydPy": {
         "description": "A framework for the development and application of hydrological models based on Python.",
         "url": "https://github.com/hydpy-dev/hydpy",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "https://coverage.readthedocs.io",
         "CI": 0,
         "last_update": "2024-09-23T21:02:25",
@@ -142,7 +142,7 @@
     "Catchmod": {
         "description": "CATCHMOD is widely used rainfall runoff model in the United Kingdom. It was introduced by Wilby (1994).",
         "url": "https://pypi.org/project/pycatchmod/",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "",
         "CI": 0,
         "last_update": "",
@@ -156,7 +156,7 @@
     "wflow": {
         "description": "wflow consists of a set of Python programs that can be run on the command line and perform hydrological simulations. The models are based on the PCRaster Python framework",
         "url": "https://github.com/openstreams/wflow",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "https://wflow.readthedocs.io",
         "CI": 0,
         "last_update": "2020-11-26T09:32:03",
@@ -170,7 +170,7 @@
     "PyTOPKAPI": {
         "description": "PyTOPKAPI is a BSD licensed Python library implementing the TOPKAPI Hydrological model (Liu and Todini, 2002).",
         "url": "https://github.com/sahg/PyTOPKAPI",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "",
         "CI": 0,
         "last_update": "",
@@ -184,7 +184,7 @@
     "mhmpy": {
         "description": "A Python-API for the mesoscale Hydrological Model.",
         "url": "https://github.com/MuellerSeb/mhmpy",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "",
         "CI": 0,
         "last_update": "2019-08-26T13:08:06",
@@ -198,7 +198,7 @@
     "SuperflexPy": {
         "description": "SuperflexPy: A new open source framework for building conceptual hydrological models",
         "url": "https://github.com/dalmo1991/superflexPy",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "https://superflexpy.readthedocs.io",
         "CI": 0,
         "last_update": "2023-11-25T09:33:47",
@@ -212,7 +212,7 @@
     "NeuralHydrology": {
         "description": "Python library to train neural networks with a strong focus on hydrological applications.",
         "url": "https://github.com/neuralhydrology/neuralhydrology",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "https://neuralhydrology.readthedocs.io/",
         "CI": 0,
         "last_update": "2024-08-02T13:13:35",
@@ -226,7 +226,7 @@
     "DRYP": {
         "description": "Dryland Water Partition model.",
         "url": "https://github.com/AndresQuichimbo/DRYP",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "",
         "CI": 0,
         "last_update": "",
@@ -240,7 +240,7 @@
     "LuKars": {
         "description": "The LuKARS model is a lumped karst hydrological model to perform studies in karstic environments.",
         "url": "https://github.com/dbittner87/LuKARS",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "",
         "CI": 0,
         "last_update": "",
@@ -254,7 +254,7 @@
     "SUMMA": {
         "description": "A hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques.",
         "url": "https://github.com/CH-Earth/summa",
-        "category": "Hydrological Models",
+        "category": "Catchment Hydrology",
         "docs": "http://summa.readthedocs.io/",
         "CI": 0,
         "last_update": "2019-01-16T22:12:13",
@@ -420,7 +420,7 @@
         "legacy": ""
     },
     "SPEI": {
-        "description": "A simple Python package to calculate and visualize some popular drought indices such as the SPI, SPEI and SGI.",
+        "description": "Calculate and visualize some popular drought indices such as the SPI, SPEI and SGI.",
         "url": "https://github.com/martinvonk/SPEI",
         "category": "Meteorological tools",
         "docs": "",
@@ -711,6 +711,20 @@
         "doi_paper": "https://doi.org/10.3389/fams.2024.1441596",
         "conda": "",
         "version": "1.0.7",
+        "legacy": ""
+    },
+    "PyKasso": {
+        "description": "Simulate stochastic karst conduit networks",
+        "url": "https://github.com/randlab/pyKasso",
+        "category": "Groundwater",
+        "docs": "https://archpy.readthedocs.io/en/latest/",
+        "CI": 0,
+        "last_update": "",
+        "pypi": "",
+        "doi_software": "",
+        "doi_paper": "https://doi.org/10.1007/s10040-022-02464-x",
+        "conda": "",
+        "version": "",
         "legacy": ""
     },
     "traval": {
