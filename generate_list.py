@@ -25,10 +25,10 @@ def generate_list():
         for category, packages in categories.items():
             file.write(f"## {category}\n")
             file.write(
-                "| Project Name | Description (Longer Header to Widen Column) | PyPI Conda | Docs | CI | Vers. |Update | Paper |\n"
+                "| Project Name | Description (Longer Header to Widen Column) | PyPI Conda | Docs | CI | Paper |\n"
             )
             file.write(
-                "| ------------ | ------------------------------------------ | ---------- | ---- | -- | ------- | ----------- | --------- |\n"
+                "| ------------ | ------------------------------------------ | ---------- | ---- | -- | --------- |\n"
             )
             for package_name, package in packages:
                 description = package["description"]
@@ -40,6 +40,9 @@ def generate_list():
                 version = package.get("version", "")
                 last_update = package.get("last_update", "")
                 doi_paper = package.get("doi_paper", "")
+
+                if version or last_update:
+                    description += f" (Version: {version}, Last Update: {last_update})"
 
                 pypi_logo = (
                     f"[![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)]({pypi_url})"
@@ -68,7 +71,7 @@ def generate_list():
                 )
 
                 file.write(
-                    f"| [{package_name}]({url}) | {description} | {pypi_logo} {conda_logo} | {docs_logo} | {ci_logo} | {version} | {last_update} | {doi_paper_logo} |\n"
+                    f"| [{package_name}]({url}) | {description} | {pypi_logo} {conda_logo} | {docs_logo} | {ci_logo} | {doi_paper_logo} |\n"
                 )
             file.write("\n")
 
