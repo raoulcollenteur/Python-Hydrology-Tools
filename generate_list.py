@@ -25,7 +25,7 @@ def generate_list():
         for category, packages in categories.items():
             file.write(f"## {category}\n")
             file.write(
-                "| Project Name | Description (Longer Header to Widen Column) | PyPI/Conda | Docs | CI | Version | Last Update | DOI Paper |\n"
+                "| Project Name | Description (Longer Header to Widen Column) | PyPI Conda | Docs | CI | Vers. |Update | Paper |\n"
             )
             file.write(
                 "| ------------ | ------------------------------------------ | ---------- | ---- | -- | ------- | ----------- | --------- |\n"

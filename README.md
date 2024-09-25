@@ -6,7 +6,7 @@ UPDATE: The Pypa package authority has now added ["Hydrology" as a classifier](h
 Raoul A. Collenteur, Eawag.
 
 ## Hydrological Models
-| Project Name | Description (Longer Header to Widen Column) | PyPI/Conda | Docs | CI | Version | Last Update | DOI Paper |
+| Project Name | Description (Longer Header to Widen Column) | PyPI Conda | Docs | CI | Vers. |Update | Paper |
 | ------------ | ------------------------------------------ | ---------- | ---- | -- | ------- | ----------- | --------- |
 | [CMF](https://github.com/philippkraft/cmf) | Catchment Modelling Framework, a hydrologic modelling toolbox. | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/CMF/)  |  |  |  |  |  |
 | [TopoFlow](https://github.com/peckhams/topoflow) | A spatial hydrologic model (D8-based, fully BMI-compliant). |   |  |  |  |  |  |
@@ -30,7 +30,7 @@ Raoul A. Collenteur, Eawag.
 | [SUMMA](https://github.com/CH-Earth/summa) | A hydrologic modeling framework that can be used for the systematic analysis of alternative model conceptualizations with respect to flux parameterizations, spatial configurations, and numerical solution techniques. | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/SUMMA/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/SUMMA) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](http://summa.readthedocs.io/) |  |  |  |  |
 
 ## Meteorological tools
-| Project Name | Description (Longer Header to Widen Column) | PyPI/Conda | Docs | CI | Version | Last Update | DOI Paper |
+| Project Name | Description (Longer Header to Widen Column) | PyPI Conda | Docs | CI | Vers. |Update | Paper |
 | ------------ | ------------------------------------------ | ---------- | ---- | -- | ------- | ----------- | --------- |
 | [MetPy](https://github.com/Unidata/MetPy) | MetPy is a collection of tools in Python for reading, visualizing and performing calculations with weather data. | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/MetPy/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/MetPy) |  |  |  |  |  |
 | [PyEto](https://github.com/woodcrafty/PyETo) | PyETo is a Python library for calculating reference crop evapotranspiration (ETo), sometimes referred to as potential evapotranspiration (PET). The library provides numerous functions for estimating missing meteorological data. |   | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://pyeto.readthedocs.io/en/latest/index.html) |  |  |  |  |
@@ -46,7 +46,7 @@ Raoul A. Collenteur, Eawag.
 | [SPEI](https://github.com/martinvonk/SPEI) | A simple Python package to calculate and visualize some popular drought indices such as the SPI, SPEI and SGI. | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/SPEI/)  |  |  |  |  |  |
 
 ## Unsaturated Zone
-| Project Name | Description (Longer Header to Widen Column) | PyPI/Conda | Docs | CI | Version | Last Update | DOI Paper |
+| Project Name | Description (Longer Header to Widen Column) | PyPI Conda | Docs | CI | Vers. |Update | Paper |
 | ------------ | ------------------------------------------ | ---------- | ---- | -- | ------- | ----------- | --------- |
 | [Pytesmo](https://github.com/TUW-GEO/pytesmo) | python Toolbox for the Evaluation of Soil Moisture Observations. | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/Pytesmo/)  | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://pytesmo.readthedocs.io) |  |  |  |  |
 | [Phydrus](https://github.com/phydrus/phydrus) | Python implementation of the HYDRUS-1D unsaturated zone model | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/Phydrus/)  | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://phydrus.readthedocs.io/) |  |  |  |  |
@@ -54,7 +54,7 @@ Raoul A. Collenteur, Eawag.
 | [pedon](https://github.com/martinvonk/pedon) | Python package for (unsaturated) soil properties including pedotransfer functions. | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/pedon/)  |  |  |  |  |  |
 
 ## Groundwater
-| Project Name | Description (Longer Header to Widen Column) | PyPI/Conda | Docs | CI | Version | Last Update | DOI Paper |
+| Project Name | Description (Longer Header to Widen Column) | PyPI Conda | Docs | CI | Vers. |Update | Paper |
 | ------------ | ------------------------------------------ | ---------- | ---- | -- | ------- | ----------- | --------- |
 | [FloPy](https://github.com/modflowpy/flopy) | The Python interface to MODFLOW. | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/FloPy/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/FloPy) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://flopy.readthedocs.io) |  |  |  |  |
 | [imod-python](https://deltares.gitlab.io/imod/imod-python/) | Make massive MODFLOW models. |   | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html) |  |  |  |  |
@@ -69,7 +69,7 @@ Raoul A. Collenteur, Eawag.
 | [nlmod](https://github.com/ArtesiaWater/nlmod) | Python code to process, build and visualize MODFLOW models in the Netherlands. Model data is stored in a xarray Datasets and geopandas GeoDataFrames. | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/nlmod/)  | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://nlmod.readthedocs.io) |  |  |  |  |
 
 ## Time Series (Analysis)
-| Project Name | Description (Longer Header to Widen Column) | PyPI/Conda | Docs | CI | Version | Last Update | DOI Paper |
+| Project Name | Description (Longer Header to Widen Column) | PyPI Conda | Docs | CI | Vers. |Update | Paper |
 | ------------ | ------------------------------------------ | ---------- | ---- | -- | ------- | ----------- | --------- |
 | [Hydropy](https://github.com/stijnvanhoey/hydropy) | Analysis of hydrological oriented time series. | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/Hydropy/)  |  |  |  |  |  |
 | [Pastas](https://github.com/pastas/pastas) | Analysis of hydrological time series using time series models. | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/Pastas/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/Pastas) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://pastas.readthedocs.io) |  |  |  |  |
@@ -80,7 +80,7 @@ Raoul A. Collenteur, Eawag.
 | [traval](https://github.com/ArtesiaWater/traval) | Tools for applying automatic error detection schemes to timeseries | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/traval/)  | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://traval.readthedocs.io/) |  |  |  |  |
 
 ## GIS Related
-| Project Name | Description (Longer Header to Widen Column) | PyPI/Conda | Docs | CI | Version | Last Update | DOI Paper |
+| Project Name | Description (Longer Header to Widen Column) | PyPI Conda | Docs | CI | Vers. |Update | Paper |
 | ------------ | ------------------------------------------ | ---------- | ---- | -- | ------- | ----------- | --------- |
 | [PcRaster](http://pcraster.geo.uu.nl/) | Is a collection of software targeted at the development and deployment of spatio-temporal environmental models. |  [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/PcRaster) |  |  |  |  |  |
 | [PyGeoprocessing](https://pypi.org/project/pygeoprocessing/) | A Python/Cython based library that provides a set of commonly used raster, vector, and hydrological operations for GIS processing. | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/PyGeoprocessing/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/PyGeoprocessing) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://pygeoprocessing.readthedocs.io/en/latest/) |  |  |  |  |
@@ -88,7 +88,7 @@ Raoul A. Collenteur, Eawag.
 | [Lidar](https://github.com/giswqs/lidar) | Terrain and hydrological analysis based on LiDAR-derived digital elevation models (DEM). | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/Lidar/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/Lidar) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://richdem.readthedocs.io/) |  |  |  |  |
 
 ## Optimization, Uncertainty, Statistics
-| Project Name | Description (Longer Header to Widen Column) | PyPI/Conda | Docs | CI | Version | Last Update | DOI Paper |
+| Project Name | Description (Longer Header to Widen Column) | PyPI Conda | Docs | CI | Vers. |Update | Paper |
 | ------------ | ------------------------------------------ | ---------- | ---- | -- | ------- | ----------- | --------- |
 | [LMFIT](https://github.com/lmfit/lmfit-py) | Non-Linear Least Squares Minimization, with flexible Parameter settings, based on scipy.optimize.leastsq, and with many additional classes and methods for curve fitting. | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/LMFIT/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/LMFIT) |  |  |  |  |  |
 | [SPOTpy](https://github.com/thouska/spotpy) | A Statistical Parameter Optimization Tool for Python. | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/SPOTpy/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/SPOTpy) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://spotpy.readthedocs.io/en/latest/) |  |  |  |  |
@@ -102,7 +102,7 @@ Raoul A. Collenteur, Eawag.
 | [xskillscore](https://github.com/xarray-contrib/xskillscore) | Metrics for verifying forecasts. | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/xskillscore/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/xskillscore) | [![Docs](https://img.shields.io/badge/-217346?logo=readthedocs&logoColor=white)](https://xskillscore.readthedocs.io/en/stable/) |  |  |  |  |
 
 ## Data Collection
-| Project Name | Description (Longer Header to Widen Column) | PyPI/Conda | Docs | CI | Version | Last Update | DOI Paper |
+| Project Name | Description (Longer Header to Widen Column) | PyPI Conda | Docs | CI | Vers. |Update | Paper |
 | ------------ | ------------------------------------------ | ---------- | ---- | -- | ------- | ----------- | --------- |
 | [HKVFEWSPY](https://github.com/HKV-products-services/hkvfewspy) | Connection to the Delft FEWS servers. | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/HKVFEWSPY/)  |  |  |  |  |  |
 | [Openradar](https://github.com/nens/openradar) | Library for processing a set of dutch, german and belgian precipitation radars into calibrated composites. | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/Openradar/)  |  |  |  |  |  |
@@ -113,7 +113,7 @@ Raoul A. Collenteur, Eawag.
 | [Dataretrieval](https://github.com/USGS-python/dataretrieval) | Dataretrieval is a Python package for obtaining USGS or EPA water quality data, streamflow data, and metadata directly from web services. | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/Dataretrieval/) [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/Dataretrieval) |  |  |  |  |  |
 
 ## Miscellaneous
-| Project Name | Description (Longer Header to Widen Column) | PyPI/Conda | Docs | CI | Version | Last Update | DOI Paper |
+| Project Name | Description (Longer Header to Widen Column) | PyPI Conda | Docs | CI | Vers. |Update | Paper |
 | ------------ | ------------------------------------------ | ---------- | ---- | -- | ------- | ----------- | --------- |
 | [ESMPY](https://github.com/esmf-org/esmf) | Earth System Modeling Framework (ESMF) Python interface. |  [![Conda](https://img.shields.io/badge/-44A833?logo=anaconda&logoColor=white)](https://anaconda.org/conda-forge/ESMPY) |  |  |  |  |  |
 | [PyHSPF](https://github.com/djlampert/PyHSPF) | Python extensions to the Hydrological Simulation Program in Fortran (HSPF). | [![PyPI](https://img.shields.io/badge/-3776AB?logo=python&logoColor=white)](https://pypi.org/project/PyHSPF/)  |  |  |  |  |  |
