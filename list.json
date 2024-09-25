@@ -1293,12 +1293,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "",
+        "last_update": "2024-09-20T13:28:40",
         "pypi": "https://pypi.org/project/pyopenrivercam/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
-        "version": "",
+        "version": "0.6.0",
         "legacy": ""
     },
     "river-route": {
@@ -1307,12 +1307,12 @@
         "category": "Miscellaneous",
         "docs": "https://river-route.hales.app/en/latest/",
         "CI": 0,
-        "last_update": "",
+        "last_update": "2024-09-24T19:56:50",
         "pypi": "https://pypi.org/project/river-route/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "",
+        "version": "1.0.2",
         "legacy": ""
     },
     "": {
