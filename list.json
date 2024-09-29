@@ -411,12 +411,12 @@
         "category": "Meteorological tools",
         "docs": "",
         "CI": 0,
-        "last_update": "2024-09-18T08:40:34",
+        "last_update": "2024-09-26T08:45:36",
         "pypi": "https://pypi.org/project/SPEI/",
         "doi_software": "https://doi.org/10.5281/zenodo.10816741",
         "doi_paper": "",
         "conda": "",
-        "version": "0.5.0",
+        "version": "0.5.1",
         "legacy": ""
     },
     "Pytesmo": {
@@ -523,12 +523,12 @@
         "category": "Groundwater",
         "docs": "https://timml.readthedocs.io/",
         "CI": 1,
-        "last_update": "2024-02-13T22:56:37",
+        "last_update": "2024-09-27T07:54:08",
         "pypi": "https://pypi.org/project/TIMML/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1016/j.advwatres.2005.11.005",
         "conda": "https://anaconda.org/conda-forge/TIMML",
-        "version": "6.4.1",
+        "version": "6.5.0",
         "legacy": 0
     },
     "TTim": {
@@ -537,12 +537,12 @@
         "category": "Groundwater",
         "docs": "https://ttim.readthedocs.io",
         "CI": 1,
-        "last_update": "2024-02-14T11:54:51",
+        "last_update": "2024-09-27T07:51:58",
         "pypi": "https://pypi.org/project/TTim/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1007/s10040-013-0975-2",
         "conda": "https://anaconda.org/conda-forge/TTim",
-        "version": "0.6.6",
+        "version": "0.6.7",
         "legacy": 0
     },
     "PyHELP": {
@@ -677,12 +677,12 @@
         "category": "Data Collection",
         "docs": "https://hydropandas.readthedocs.io",
         "CI": 0,
-        "last_update": "2024-07-12T16:09:04",
+        "last_update": "2024-09-27T13:51:16",
         "pypi": "https://pypi.org/project/HydroPandas/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.12.2",
+        "version": "0.12.4",
         "legacy": ""
     },
     "GeoArchPy": {
@@ -719,12 +719,12 @@
         "category": "Evaluation",
         "docs": "https://traval.readthedocs.io/",
         "CI": 0,
-        "last_update": "2024-08-15T13:00:41",
+        "last_update": "2024-09-27T08:25:34",
         "pypi": "https://pypi.org/project/traval/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.5.0",
+        "version": "0.5.1",
         "legacy": ""
     },
     "PcRaster": {
@@ -1265,12 +1265,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2024-09-20T13:28:40",
+        "last_update": "2024-09-26T18:53:25",
         "pypi": "https://pypi.org/project/pyopenrivercam/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
-        "version": "0.6.0",
+        "version": "0.6.1",
         "legacy": ""
     },
     "river-route": {
