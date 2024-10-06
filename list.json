@@ -481,12 +481,12 @@
         "category": "Groundwater",
         "docs": "https://flopy.readthedocs.io",
         "CI": 1,
-        "last_update": "2024-09-05T18:02:34",
+        "last_update": "2024-10-03T13:26:35",
         "pypi": "https://pypi.org/project/FloPy/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1111/gwat.12413",
         "conda": "https://anaconda.org/conda-forge/FloPy",
-        "version": "3.8.1",
+        "version": "3.8.2",
         "legacy": 0
     },
     "imod-python": {
@@ -985,12 +985,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2024-09-04T22:21:23",
+        "last_update": "2024-10-04T14:04:52",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.95.1",
+        "version": "0.96.0",
         "legacy": ""
     },
     "Dataretrieval": {
