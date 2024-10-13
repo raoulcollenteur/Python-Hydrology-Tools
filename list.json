@@ -369,12 +369,12 @@
         "category": "Meteorological tools",
         "docs": "https://pysteps.readthedocs.io/en/stable/",
         "CI": 1,
-        "last_update": "2024-08-27T09:33:00",
+        "last_update": "2024-10-07T18:06:48",
         "pypi": "https://pypi.org/project/PySteps/",
         "doi_software": "https://zenodo.org/badge/latestdoi/140263418",
         "doi_paper": "https://doi.org/10.5194/gmd-12-4185-2019",
         "conda": "https://anaconda.org/conda-forge/PySteps",
-        "version": "1.11.0",
+        "version": "1.12.0",
         "legacy": 0
     },
     "Evaporation": {
@@ -677,12 +677,12 @@
         "category": "Data Collection",
         "docs": "https://hydropandas.readthedocs.io",
         "CI": 0,
-        "last_update": "2024-09-27T13:51:16",
+        "last_update": "2024-10-09T12:15:34",
         "pypi": "https://pypi.org/project/HydroPandas/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.12.4",
+        "version": "0.12.5",
         "legacy": ""
     },
     "GeoArchPy": {
@@ -747,12 +747,12 @@
         "category": "Geospatial",
         "docs": "https://pygeoprocessing.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2024-05-21T23:20:36",
+        "last_update": "2024-10-08T20:47:15",
         "pypi": "https://pypi.org/project/PyGeoprocessing/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PyGeoprocessing",
-        "version": "2.4.4",
+        "version": "2.4.5",
         "legacy": ""
     },
     "Pysheds": {
@@ -985,12 +985,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2024-10-04T14:04:52",
+        "last_update": "2024-10-06T21:20:21",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.96.0",
+        "version": "0.97.0",
         "legacy": ""
     },
     "Dataretrieval": {
@@ -1097,12 +1097,12 @@
         "category": "Miscellaneous",
         "docs": "https://landlab.readthedocs.io/",
         "CI": 0,
-        "last_update": "2024-05-13T03:50:27",
+        "last_update": "2024-10-11T05:34:38",
         "pypi": "https://pypi.org/project/Landlab/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Landlab",
-        "version": "2.8.0",
+        "version": "2.9.1",
         "legacy": ""
     },
     "EFlowCalc": {
@@ -1167,12 +1167,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2024-09-25T19:21:10",
+        "last_update": "2024-10-11T11:25:46",
         "pypi": "https://pypi.org/project/Shyft/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "19.0.1.post1",
+        "version": "20.0.0.post1",
         "legacy": ""
     },
     "Hydrobox": {
