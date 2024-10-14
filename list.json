@@ -1287,6 +1287,20 @@
         "version": "1.0.2",
         "legacy": ""
     },
+    "pywatershed": {
+        "description": "A hydrologic model in Python",
+        "url": "https://github.com/EC-USGS/pywatershed",
+        "category": "Miscellaneous",
+        "docs": "pywatershed.readthedocs.io",
+        "CI": 1,
+        "last_update": "",
+        "pypi": "https://pypi.python.org/pypi/pywatershed",
+        "doi_software": "",
+        "doi_paper": "",
+        "conda": "https://anaconda.org/conda-forge/pywatershed",
+        "version": "",
+        "legacy": ""
+    },
     "": {
         "description": "",
         "url": "",
