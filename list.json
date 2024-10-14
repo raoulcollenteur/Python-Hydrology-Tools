@@ -1293,12 +1293,12 @@
         "category": "Miscellaneous",
         "docs": "pywatershed.readthedocs.io",
         "CI": 1,
-        "last_update": "",
+        "last_update": "2018-03-24T22:31:13",
         "pypi": "https://pypi.python.org/pypi/pywatershed",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pywatershed",
-        "version": "",
+        "version": "2.1",
         "legacy": ""
     },
     "": {
