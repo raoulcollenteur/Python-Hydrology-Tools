@@ -691,12 +691,12 @@
         "category": "Groundwater",
         "docs": "https://archpy.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2024-09-02T13:22:18",
+        "last_update": "2024-10-15T10:04:33",
         "pypi": "https://pypi.org/project/Geoarchpy/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.3389/fams.2024.1441596",
         "conda": "",
-        "version": "1.0.7",
+        "version": "1.0.8",
         "legacy": ""
     },
     "PyKasso": {
@@ -747,12 +747,12 @@
         "category": "Geospatial",
         "docs": "https://pygeoprocessing.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2024-10-08T20:47:15",
+        "last_update": "2024-10-15T19:09:49",
         "pypi": "https://pypi.org/project/PyGeoprocessing/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PyGeoprocessing",
-        "version": "2.4.5",
+        "version": "2.4.6",
         "legacy": ""
     },
     "Pysheds": {
@@ -1097,12 +1097,12 @@
         "category": "Miscellaneous",
         "docs": "https://landlab.readthedocs.io/",
         "CI": 0,
-        "last_update": "2024-10-11T05:34:38",
+        "last_update": "2024-10-18T07:22:08",
         "pypi": "https://pypi.org/project/Landlab/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Landlab",
-        "version": "2.9.1",
+        "version": "2.9.2",
         "legacy": ""
     },
     "EFlowCalc": {
