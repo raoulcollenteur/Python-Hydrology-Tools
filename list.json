@@ -999,12 +999,12 @@
         "category": "Data Collection",
         "docs": "",
         "CI": 0,
-        "last_update": "2024-08-05T19:41:09",
+        "last_update": "2024-10-25T17:35:51",
         "pypi": "https://pypi.org/project/Dataretrieval/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Dataretrieval",
-        "version": "1.0.10",
+        "version": "1.0.11",
         "legacy": ""
     },
     "ESMPY": {
@@ -1041,12 +1041,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2024-06-25T10:46:42",
+        "last_update": "2024-10-20T21:50:10",
         "pypi": "https://pypi.org/project/PYWR/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PYWR",
-        "version": "1.26.0",
+        "version": "1.27.1",
         "legacy": ""
     },
     "SPHY": {
