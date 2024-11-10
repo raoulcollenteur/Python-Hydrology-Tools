@@ -691,12 +691,12 @@
         "category": "Groundwater",
         "docs": "https://archpy.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2024-10-31T09:23:10",
+        "last_update": "2024-11-03T13:23:28",
         "pypi": "https://pypi.org/project/Geoarchpy/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.3389/fams.2024.1441596",
         "conda": "",
-        "version": "1.0.9",
+        "version": "1.0.10",
         "legacy": ""
     },
     "PyKasso": {
