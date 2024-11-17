@@ -411,12 +411,12 @@
         "category": "Meteorological tools",
         "docs": "",
         "CI": 0,
-        "last_update": "2024-09-26T08:45:36",
+        "last_update": "2024-11-11T12:38:14",
         "pypi": "https://pypi.org/project/SPEI/",
         "doi_software": "https://doi.org/10.5281/zenodo.10816741",
         "doi_paper": "",
         "conda": "",
-        "version": "0.5.1",
+        "version": "0.6.0",
         "legacy": ""
     },
     "Pytesmo": {
@@ -425,12 +425,12 @@
         "category": "Unsaturated Zone",
         "docs": "https://pytesmo.readthedocs.io",
         "CI": 0,
-        "last_update": "2023-09-12T14:55:51",
+        "last_update": "2024-11-14T21:18:01",
         "pypi": "https://pypi.org/project/Pytesmo/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.16.0",
+        "version": "0.17.0",
         "legacy": ""
     },
     "Phydrus": {
@@ -495,12 +495,12 @@
         "category": "Groundwater",
         "docs": "https://deltares.github.io/imod-python/",
         "CI": 1,
-        "last_update": "2024-09-17T15:15:28",
+        "last_update": "2024-11-11T14:08:11",
         "pypi": "https://pypi.org/project/imod/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.17.2",
+        "version": "0.18.0",
         "legacy": ""
     },
     "WellApplication": {
