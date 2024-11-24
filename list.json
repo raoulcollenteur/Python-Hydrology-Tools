@@ -495,12 +495,12 @@
         "category": "Groundwater",
         "docs": "https://deltares.github.io/imod-python/",
         "CI": 1,
-        "last_update": "2024-11-11T14:08:11",
+        "last_update": "2024-11-20T12:13:07",
         "pypi": "https://pypi.org/project/imod/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.18.0",
+        "version": "0.18.1",
         "legacy": ""
     },
     "WellApplication": {
@@ -649,12 +649,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2024-04-14T08:49:20",
+        "last_update": "2024-11-23T20:17:49",
         "pypi": "https://pypi.org/project/htimeseries/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "7.0.0",
+        "version": "8.0.0",
         "legacy": ""
     },
     "HydroAnalysis": {
