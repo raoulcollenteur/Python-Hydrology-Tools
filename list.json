@@ -593,12 +593,12 @@
         "category": "Groundwater",
         "docs": "https://nlmod.readthedocs.io",
         "CI": 1,
-        "last_update": "2024-07-25T14:37:58",
+        "last_update": "2024-11-26T15:05:43",
         "pypi": "https://pypi.org/project/nlmod/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.8.1",
+        "version": "0.9.0",
         "legacy": 0
     },
     "Hydropy": {
