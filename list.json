@@ -5,12 +5,12 @@
         "category": "Catchment Hydrology",
         "docs": "https://philippkraft.github.io/cmf/",
         "CI": 0,
-        "last_update": "2024-01-19T16:42:28",
+        "last_update": "2024-12-05T14:04:49",
         "pypi": "https://pypi.org/project/CMF/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1016/j.envsoft.2010.12.009",
         "conda": "",
-        "version": "2.0.0",
+        "version": "2.0.1",
         "legacy": ""
     },
     "VIC": {
@@ -369,12 +369,12 @@
         "category": "Meteorological tools",
         "docs": "https://pysteps.readthedocs.io/en/stable/",
         "CI": 1,
-        "last_update": "2024-10-07T18:06:48",
+        "last_update": "2024-12-04T19:56:31",
         "pypi": "https://pypi.org/project/PySteps/",
         "doi_software": "https://zenodo.org/badge/latestdoi/140263418",
         "doi_paper": "https://doi.org/10.5194/gmd-12-4185-2019",
         "conda": "https://anaconda.org/conda-forge/PySteps",
-        "version": "1.12.0",
+        "version": "1.13.0",
         "legacy": 0
     },
     "Evaporation": {
@@ -1251,12 +1251,12 @@
         "category": "Miscellaneous",
         "docs": "https://ewatercycle.readthedocs.io",
         "CI": 1,
-        "last_update": "2024-09-17T09:32:04",
+        "last_update": "2024-12-04T12:18:30",
         "pypi": "https://pypi.org/project/eWaterCycle/",
         "doi_software": "https://zenodo.org/doi/10.5281/zenodo.5119389",
         "doi_paper": "https://doi.org/10.5194/gmd-15-5371-2022",
         "conda": "",
-        "version": "2.3.1",
+        "version": "2.4.0",
         "legacy": 0
     },
     "pyopenrivercam": {
