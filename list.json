@@ -332,7 +332,7 @@
         "doi_software": "https://zenodo.org/badge/latestdoi/85334761",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Improver",
-        "version": "1.9.0",
+        "version": "1.10.0",
         "legacy": ""
     },
     "MetSim": {
@@ -467,12 +467,12 @@
         "category": "Unsaturated Zone",
         "docs": "",
         "CI": 0,
-        "last_update": "2024-01-22T21:50:05",
+        "last_update": "2024-12-17T10:10:49",
         "pypi": "https://pypi.org/project/pedon/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.0.6",
+        "version": "0.0.7",
         "legacy": ""
     },
     "FloPy": {
@@ -481,12 +481,12 @@
         "category": "Groundwater",
         "docs": "https://flopy.readthedocs.io",
         "CI": 1,
-        "last_update": "2024-10-03T13:26:35",
+        "last_update": "2024-12-20T13:14:39",
         "pypi": "https://pypi.org/project/FloPy/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1111/gwat.12413",
         "conda": "https://anaconda.org/conda-forge/FloPy",
-        "version": "3.8.2",
+        "version": "3.9.1",
         "legacy": 0
     },
     "imod-python": {
@@ -523,12 +523,12 @@
         "category": "Groundwater",
         "docs": "https://timml.readthedocs.io/",
         "CI": 1,
-        "last_update": "2024-09-27T07:54:08",
+        "last_update": "2024-12-20T12:43:14",
         "pypi": "https://pypi.org/project/TIMML/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1016/j.advwatres.2005.11.005",
         "conda": "https://anaconda.org/conda-forge/TIMML",
-        "version": "6.5.0",
+        "version": "6.6.0",
         "legacy": 0
     },
     "TTim": {
@@ -537,12 +537,12 @@
         "category": "Groundwater",
         "docs": "https://ttim.readthedocs.io",
         "CI": 1,
-        "last_update": "2024-09-27T07:51:58",
+        "last_update": "2024-12-20T12:51:25",
         "pypi": "https://pypi.org/project/TTim/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1007/s10040-013-0975-2",
         "conda": "https://anaconda.org/conda-forge/TTim",
-        "version": "0.6.7",
+        "version": "0.7.0",
         "legacy": 0
     },
     "PyHELP": {
@@ -1041,12 +1041,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2024-10-20T21:50:10",
+        "last_update": "2024-12-16T13:38:39",
         "pypi": "https://pypi.org/project/PYWR/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PYWR",
-        "version": "1.27.1",
+        "version": "1.27.2",
         "legacy": ""
     },
     "SPHY": {
@@ -1265,12 +1265,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2024-12-10T19:40:15",
+        "last_update": "2024-12-16T16:25:40",
         "pypi": "https://pypi.org/project/pyopenrivercam/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
-        "version": "0.7.0",
+        "version": "0.7.1",
         "legacy": ""
     },
     "river-route": {
