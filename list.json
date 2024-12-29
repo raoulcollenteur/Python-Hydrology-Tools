@@ -332,7 +332,7 @@
         "doi_software": "https://zenodo.org/badge/latestdoi/85334761",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Improver",
-        "version": "1.10.0",
+        "version": "1.11.0",
         "legacy": ""
     },
     "MetSim": {
