@@ -985,12 +985,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2024-12-30T22:38:51",
+        "last_update": "2025-01-06T22:39:11",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.99.0",
+        "version": "0.100.0",
         "legacy": ""
     },
     "Dataretrieval": {
@@ -1018,7 +1018,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/ESMPY",
-        "version": "8.7.0",
+        "version": "8.8.0",
         "legacy": ""
     },
     "PyHSPF": {
