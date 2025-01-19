@@ -131,12 +131,12 @@
         "category": "Catchment Hydrology",
         "docs": "https://hydpy-dev.github.io/hydpy",
         "CI": 1,
-        "last_update": "2024-09-23T21:02:25",
+        "last_update": "2025-01-15T17:51:28",
         "pypi": "https://pypi.org/project/HydPy/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "6.1.1",
+        "version": "6.1.2",
         "legacy": ""
     },
     "Catchmod": {
@@ -593,12 +593,12 @@
         "category": "Groundwater",
         "docs": "https://nlmod.readthedocs.io",
         "CI": 1,
-        "last_update": "2024-11-26T15:05:43",
+        "last_update": "2025-01-16T12:41:13",
         "pypi": "https://pypi.org/project/nlmod/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.9.0",
+        "version": "0.9.1",
         "legacy": 0
     },
     "Hydropy": {
@@ -621,12 +621,12 @@
         "category": "Groundwater",
         "docs": "https://pastas.readthedocs.io",
         "CI": 1,
-        "last_update": "2024-09-06T14:16:41",
+        "last_update": "2025-01-14T13:42:14",
         "pypi": "https://pypi.org/project/Pastas/",
         "doi_software": "https://doi.org/10.5281/zenodo.1465866",
         "doi_paper": "http://doi.org/10.5281/zenodo.1465866",
         "conda": "https://anaconda.org/conda-forge/Pastas",
-        "version": "1.7.0",
+        "version": "1.8.0",
         "legacy": ""
     },
     "Hydrostats": {
@@ -677,12 +677,12 @@
         "category": "Data Collection",
         "docs": "https://hydropandas.readthedocs.io",
         "CI": 0,
-        "last_update": "2024-10-09T12:15:34",
+        "last_update": "2025-01-13T14:05:38",
         "pypi": "https://pypi.org/project/HydroPandas/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.12.5",
+        "version": "0.12.6",
         "legacy": ""
     },
     "GeoArchPy": {
@@ -691,12 +691,12 @@
         "category": "Groundwater",
         "docs": "https://archpy.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2024-11-03T13:23:28",
+        "last_update": "2025-01-16T11:01:41",
         "pypi": "https://pypi.org/project/Geoarchpy/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.3389/fams.2024.1441596",
         "conda": "",
-        "version": "1.0.10",
+        "version": "1.1.0",
         "legacy": ""
     },
     "PyKasso": {
@@ -985,12 +985,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2025-01-06T22:39:11",
+        "last_update": "2025-01-17T22:42:44",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.100.0",
+        "version": "0.102.0",
         "legacy": ""
     },
     "Dataretrieval": {
@@ -1167,12 +1167,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2024-10-11T11:25:46",
+        "last_update": "2025-01-18T16:34:19",
         "pypi": "https://pypi.org/project/Shyft/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "20.0.0.post1",
+        "version": "22.0.0.post1",
         "legacy": ""
     },
     "Hydrobox": {
@@ -1279,12 +1279,12 @@
         "category": "Miscellaneous",
         "docs": "https://river-route.hales.app/en/latest/",
         "CI": 0,
-        "last_update": "2024-09-24T19:56:50",
+        "last_update": "2025-01-18T00:50:11",
         "pypi": "https://pypi.org/project/river-route/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "legacy": ""
     },
     "pywatershed": {
