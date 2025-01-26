@@ -691,12 +691,12 @@
         "category": "Groundwater",
         "docs": "https://archpy.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2025-01-16T11:01:41",
+        "last_update": "2025-01-23T16:00:18",
         "pypi": "https://pypi.org/project/Geoarchpy/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.3389/fams.2024.1441596",
         "conda": "",
-        "version": "1.1.0",
+        "version": "1.1.2",
         "legacy": ""
     },
     "PyKasso": {
@@ -747,12 +747,12 @@
         "category": "Geospatial",
         "docs": "https://pygeoprocessing.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2024-10-15T19:09:49",
+        "last_update": "2025-01-23T21:22:30",
         "pypi": "https://pypi.org/project/PyGeoprocessing/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PyGeoprocessing",
-        "version": "2.4.6",
+        "version": "2.4.7",
         "legacy": ""
     },
     "Pysheds": {
@@ -1279,12 +1279,12 @@
         "category": "Miscellaneous",
         "docs": "https://river-route.hales.app/en/latest/",
         "CI": 0,
-        "last_update": "2025-01-18T00:50:11",
+        "last_update": "2025-01-21T17:53:07",
         "pypi": "https://pypi.org/project/river-route/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "1.0.3",
+        "version": "1.1.0",
         "legacy": ""
     },
     "pywatershed": {
