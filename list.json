@@ -775,12 +775,12 @@
         "category": "Geospatial",
         "docs": "https://richdem.readthedocs.io/",
         "CI": 0,
-        "last_update": "2024-06-06T00:57:39",
+        "last_update": "2025-01-30T05:17:23",
         "pypi": "https://pypi.org/project/Lidar/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Lidar",
-        "version": "0.8.3",
+        "version": "0.8.4",
         "legacy": ""
     },
     "SPOTpy": {
@@ -985,12 +985,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2025-01-17T22:42:44",
+        "last_update": "2025-02-01T23:23:00",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.102.0",
+        "version": "0.103.0",
         "legacy": ""
     },
     "Dataretrieval": {
