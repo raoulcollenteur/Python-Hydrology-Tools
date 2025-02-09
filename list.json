@@ -369,12 +369,12 @@
         "category": "Meteorological tools",
         "docs": "https://pysteps.readthedocs.io/en/stable/",
         "CI": 1,
-        "last_update": "2024-12-04T19:56:31",
+        "last_update": "2025-02-04T17:13:59",
         "pypi": "https://pypi.org/project/PySteps/",
         "doi_software": "https://zenodo.org/badge/latestdoi/140263418",
         "doi_paper": "https://doi.org/10.5194/gmd-12-4185-2019",
         "conda": "https://anaconda.org/conda-forge/PySteps",
-        "version": "1.13.0",
+        "version": "1.14.0",
         "legacy": 0
     },
     "Evaporation": {
@@ -621,12 +621,12 @@
         "category": "Groundwater",
         "docs": "https://pastas.readthedocs.io",
         "CI": 1,
-        "last_update": "2025-01-14T13:42:14",
+        "last_update": "2025-02-03T15:24:17",
         "pypi": "https://pypi.org/project/Pastas/",
         "doi_software": "https://doi.org/10.5281/zenodo.1465866",
         "doi_paper": "http://doi.org/10.5281/zenodo.1465866",
         "conda": "https://anaconda.org/conda-forge/Pastas",
-        "version": "1.8.0",
+        "version": "1.8.1",
         "legacy": ""
     },
     "Hydrostats": {
@@ -677,12 +677,12 @@
         "category": "Data Collection",
         "docs": "https://hydropandas.readthedocs.io",
         "CI": 0,
-        "last_update": "2025-01-13T14:05:38",
+        "last_update": "2025-02-03T15:27:33",
         "pypi": "https://pypi.org/project/HydroPandas/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.12.6",
+        "version": "0.12.7",
         "legacy": ""
     },
     "GeoArchPy": {
@@ -1041,12 +1041,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2024-12-16T13:38:39",
+        "last_update": "2025-02-07T13:02:41",
         "pypi": "https://pypi.org/project/PYWR/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PYWR",
-        "version": "1.27.2",
+        "version": "1.27.3",
         "legacy": ""
     },
     "SPHY": {
