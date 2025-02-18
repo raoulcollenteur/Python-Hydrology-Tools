@@ -1167,12 +1167,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-02-14T10:49:45",
+        "last_update": "2025-02-17T13:05:49",
         "pypi": "https://pypi.org/project/Shyft/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "23.0.0.post1",
+        "version": "24.0.0.post1",
         "legacy": ""
     },
     "Hydrobox": {
@@ -1302,20 +1302,6 @@
         "legacy": ""
     },
     "": {
-        "description": "An analytic discrete fracture network model.",
-        "url": "https://github.com/eriktoller/andfn",
-        "category": "Groundwater",
-        "docs": "https://eriktoller.github.io/andfn/",
-        "CI": 0,
-        "last_update": "",
-        "pypi": "https://pypi.org/project/andfn/",
-        "doi_software": "",
-        "doi_paper": "https://doi.org/10.1016/j.jhydrol.2024.131983",
-        "conda": "",
-        "version": "",
-        "legacy": ""
-    },
-        "": {
         "description": "",
         "url": "",
         "category": "Miscellaneous",
