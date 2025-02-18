@@ -179,7 +179,7 @@
         "doi_paper": "http://dx.doi.org/10.5194/hess-14-613-2010",
         "conda": "",
         "version": "",
-        "legacy": ""
+        "legacy": "1"
     },
     "mhmpy": {
         "description": "A Python-API for the mesoscale Hydrological Model.",
