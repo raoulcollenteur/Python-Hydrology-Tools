@@ -789,12 +789,12 @@
         "category": "Optimization and Uncertainty",
         "docs": "https://spotpy.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2025-02-12T18:44:04",
+        "last_update": "2025-02-18T09:55:45",
         "pypi": "https://pypi.org/project/SPOTpy/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/SPOTpy",
-        "version": "1.6.4",
+        "version": "1.6.6",
         "legacy": ""
     },
     "PyGLUE": {
@@ -1307,7 +1307,7 @@
         "category": "Unsaturated Zone",
         "docs": "zawadzkim.github.io/pySWAP/",
         "CI": 1,
-        "last_update": "",
+        "last_update": "2025-02-17T21:03:00",
         "pypi": "https://pypi.org/project/pyswap/",
         "doi_software": "https://doi.org/10.5281/zenodo.14884487",
         "doi_paper": "",
