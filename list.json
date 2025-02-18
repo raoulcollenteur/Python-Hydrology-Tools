@@ -1301,6 +1301,20 @@
         "version": "2.1",
         "legacy": ""
     },
+    "pySWAP": {
+        "description": "Python wraper for SWAP hydrological model",
+        "url": "https://github.com/zawadzkim/pySWAP",
+        "category": "Unsaturated Zone",
+        "docs": "zawadzkim.github.io/pySWAP/",
+        "CI": 1,
+        "last_update": "",
+        "pypi": "https://pypi.org/project/pyswap/",
+        "doi_software": "https://doi.org/10.5281/zenodo.14884487",
+        "doi_paper": "",
+        "conda": "",
+        "version": "0.2.7",
+        "legacy": ""
+    }
     "": {
         "description": "",
         "url": "",
