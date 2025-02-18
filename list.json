@@ -1302,6 +1302,20 @@
         "legacy": ""
     },
     "": {
+        "description": "An analytic discrete fracture network model.",
+        "url": "https://github.com/eriktoller/andfn",
+        "category": "Groundwater",
+        "docs": "https://eriktoller.github.io/andfn/",
+        "CI": 0,
+        "last_update": "",
+        "pypi": "https://pypi.org/project/andfn/",
+        "doi_software": "",
+        "doi_paper": "https://doi.org/10.1016/j.jhydrol.2024.131983",
+        "conda": "",
+        "version": "",
+        "legacy": ""
+    },
+        "": {
         "description": "",
         "url": "",
         "category": "Miscellaneous",
