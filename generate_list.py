@@ -24,13 +24,36 @@ def is_date_recent(date_str):
         return datetime.now() - date_obj <= timedelta(days=365)
     except ValueError:
         return False
+    
+def github_star_count(url):
+    github_stars = ""
+    # Check if URL points to GitHub at all
+    if "github.com" not in url.lower():
+        return github_stars  # Return empty
+
+    # Remove trailing slash, if any
+    clean_url = url.rstrip("/")
+
+    # Split into parts
+    parts = clean_url.split("/")
+    # We expect something like ["https:", "", "github.com", "<USERNAME>", "<REPO>"]
+
+    if len(parts) >= 5:
+        github_username = parts[-2]
+        github_repo = parts[-1]
+        github_stars = (
+            f"[![GitHub stars](https://img.shields.io/github/stars/{github_username}/{github_repo}?style=social)]"
+            f"(https://github.com/{github_username}/{github_repo}/stargazers)"
+        )
+    return github_stars
+
 
 
 def generate_list():
-    with open("list.json", "r") as file:
+    with open("list.json", "r", encoding="utf-8") as file:
         data = json.load(file)
 
-    with open("README.md", "w") as file:
+    with open("README.md", "w", encoding="utf-8") as file:
         file.write("# Open Source Python Packages in Hydrology\n")
         file.write(
             "My attempt to list interesting open source python projects that can be used in the field of Hydrology. In a 2024 update, I automated various tasks to maintain the quality of this list, and added more information about the packages that can serve as quality indicators. The description now lists when the last update on Pypi/Conda was, to highlight whether a package is probably active (🟢) or inactive (🔴). Also information about the FAIR repository, description paper, and Continuous Integration testing (CI) is included. All this in the hope that more and more packages develop according to common research software developement best practices. Suggestions as issues or pull requests are welcome! \n\n"
@@ -65,10 +88,10 @@ def generate_list():
             )  # Sort packages alphabetically by name
             file.write(f"## {category}\n")
             file.write(
-                "| Name | Description                                | PyPI Conda | Docs | CI | Paper |\n"
+                "| Name | Description                                | PyPI Conda | Docs | CI | Paper | Stars |\n"
             )
             file.write(
-                "| ---- | ------------------------------------------ | ---------- | ---- | -- | ----- |\n"
+                "| ---- | ------------------------------------------ | ---------- | ---- | -- | ----- | ----- |\n"
             )
             for package_name, package in packages:
                 description = package["description"]
@@ -115,8 +138,10 @@ def generate_list():
                     else ""
                 )
 
+                github_stars = github_star_count(url)
+
                 file.write(
-                    f"| [{package_name}]({url}) | {description} | {pypi_logo} {conda_logo} | {docs_logo} | {ci_logo} | {doi_paper_logo} |\n"
+                    f"| [{package_name}]({url}) | {description} | {pypi_logo} {conda_logo} | {docs_logo} | {ci_logo} | {doi_paper_logo} | {github_stars} |\n"
                 )
 
         if legacy_packages:
@@ -128,10 +153,10 @@ def generate_list():
                 "These packages are not maintained anymore, or might not meet a minimum set of requirements, but might still be useful for some users.\n"
             )
             file.write(
-                "| Name | Description                                | PyPI Conda | Docs | CI | Paper |\n"
+                "| Name | Description                                | PyPI Conda | Docs | CI | Paper | Stars |\n"
             )
             file.write(
-                "| ---- | ------------------------------------------ | ---------- | ---- | -- | ----- |\n"
+                "| ---- | ------------------------------------------ | ---------- | ---- | -- | ----- | ----- |\n"
             )
             for package_name, package in legacy_packages:
                 description = package["description"]
@@ -178,8 +203,10 @@ def generate_list():
                     else ""
                 )
 
+                github_stars = github_star_count(url)
+
                 file.write(
-                    f"| [{package_name}]({url}) | {description} | {pypi_logo} {conda_logo} | {docs_logo} | {ci_logo} | {doi_paper_logo} |\n"
+                    f"| [{package_name}]({url}) | {description} | {pypi_logo} {conda_logo} | {docs_logo} | {ci_logo} | {doi_paper_logo} | {github_stars} |\n"
                 )
 
         file.write("\n# Background Info\n")
