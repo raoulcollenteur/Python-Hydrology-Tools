@@ -369,12 +369,12 @@
         "category": "Meteorological tools",
         "docs": "https://pysteps.readthedocs.io/en/stable/",
         "CI": 1,
-        "last_update": "2025-02-04T17:13:59",
+        "last_update": "2025-03-03T15:49:30",
         "pypi": "https://pypi.org/project/PySteps/",
         "doi_software": "https://zenodo.org/badge/latestdoi/140263418",
         "doi_paper": "https://doi.org/10.5194/gmd-12-4185-2019",
         "conda": "https://anaconda.org/conda-forge/PySteps",
-        "version": "1.14.0",
+        "version": "1.15.0",
         "legacy": 0
     },
     "Evaporation": {
@@ -425,12 +425,12 @@
         "category": "Unsaturated Zone",
         "docs": "https://pytesmo.readthedocs.io",
         "CI": 0,
-        "last_update": "2024-11-14T21:18:01",
+        "last_update": "2025-03-05T15:59:08",
         "pypi": "https://pypi.org/project/Pytesmo/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.17.0",
+        "version": "0.18.0",
         "legacy": ""
     },
     "Phydrus": {
@@ -691,12 +691,12 @@
         "category": "Groundwater",
         "docs": "https://archpy.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2025-02-20T15:18:12",
+        "last_update": "2025-03-06T20:23:07",
         "pypi": "https://pypi.org/project/Geoarchpy/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.3389/fams.2024.1441596",
         "conda": "",
-        "version": "1.1.3",
+        "version": "1.1.4",
         "legacy": ""
     },
     "PyKasso": {
@@ -985,12 +985,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2025-03-01T07:12:07",
+        "last_update": "2025-03-05T22:28:50",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.105.0",
+        "version": "0.106.0",
         "legacy": ""
     },
     "Dataretrieval": {
