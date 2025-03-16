@@ -215,12 +215,12 @@
         "category": "Catchment Hydrology",
         "docs": "https://neuralhydrology.readthedocs.io/",
         "CI": 1,
-        "last_update": "2024-08-02T13:13:35",
+        "last_update": "2025-03-15T12:48:39",
         "pypi": "https://pypi.org/project/NeuralHydrology/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.21105/joss.04050",
         "conda": "",
-        "version": "1.11.0",
+        "version": "1.12.0",
         "legacy": 0
     },
     "DRYP": {
@@ -537,12 +537,12 @@
         "category": "Groundwater",
         "docs": "https://ttim.readthedocs.io",
         "CI": 1,
-        "last_update": "2024-12-20T12:51:25",
+        "last_update": "2025-03-13T10:24:20",
         "pypi": "https://pypi.org/project/TTim/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1007/s10040-013-0975-2",
         "conda": "https://anaconda.org/conda-forge/TTim",
-        "version": "0.7.0",
+        "version": "0.7.1",
         "legacy": 0
     },
     "PyHELP": {
@@ -621,12 +621,12 @@
         "category": "Groundwater",
         "docs": "https://pastas.readthedocs.io",
         "CI": 1,
-        "last_update": "2025-02-03T15:24:17",
+        "last_update": "2025-03-10T11:00:09",
         "pypi": "https://pypi.org/project/Pastas/",
         "doi_software": "https://doi.org/10.5281/zenodo.1465866",
         "doi_paper": "http://doi.org/10.5281/zenodo.1465866",
         "conda": "https://anaconda.org/conda-forge/Pastas",
-        "version": "1.8.1",
+        "version": "1.9.0",
         "legacy": ""
     },
     "Hydrostats": {
@@ -691,12 +691,12 @@
         "category": "Groundwater",
         "docs": "https://archpy.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2025-03-06T20:23:07",
+        "last_update": "2025-03-11T13:35:33",
         "pypi": "https://pypi.org/project/Geoarchpy/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.3389/fams.2024.1441596",
         "conda": "",
-        "version": "1.1.4",
+        "version": "1.2.0",
         "legacy": ""
     },
     "PyKasso": {
@@ -1265,12 +1265,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-02-14T14:50:13",
+        "last_update": "2025-03-14T15:26:40",
         "pypi": "https://pypi.org/project/pyopenrivercam/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
-        "version": "0.7.2",
+        "version": "0.8.1",
         "legacy": ""
     },
     "river-route": {
@@ -1279,12 +1279,12 @@
         "category": "Miscellaneous",
         "docs": "https://river-route.hales.app/en/latest/",
         "CI": 0,
-        "last_update": "2025-02-27T18:21:11",
+        "last_update": "2025-03-14T17:01:57",
         "pypi": "https://pypi.org/project/river-route/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "1.2.0",
+        "version": "1.2.1",
         "legacy": ""
     },
     "pywatershed": {
