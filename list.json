@@ -332,7 +332,7 @@
         "doi_software": "https://zenodo.org/badge/latestdoi/85334761",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Improver",
-        "version": "1.11.0",
+        "version": "1.12.0",
         "legacy": ""
     },
     "MetSim": {
@@ -593,12 +593,12 @@
         "category": "Groundwater",
         "docs": "https://nlmod.readthedocs.io",
         "CI": 1,
-        "last_update": "2025-02-25T13:22:05",
+        "last_update": "2025-03-18T19:39:04",
         "pypi": "https://pypi.org/project/nlmod/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.9.2",
+        "version": "0.9.3",
         "legacy": 0
     },
     "Hydropy": {
@@ -663,12 +663,12 @@
         "category": "Miscellaneous",
         "docs": "https://hydroanalysis.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2021-11-20T11:50:24",
+        "last_update": "2025-03-18T18:45:47",
         "pypi": "https://pypi.org/project/HydroAnalysis/",
         "doi_software": "https://zenodo.org/badge/latestdoi/406317261",
         "doi_paper": "",
         "conda": "",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "legacy": 1
     },
     "HydroPandas": {
@@ -1265,12 +1265,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-03-14T15:26:40",
+        "last_update": "2025-03-17T19:24:22",
         "pypi": "https://pypi.org/project/pyopenrivercam/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
-        "version": "0.8.1",
+        "version": "0.8.4",
         "legacy": ""
     },
     "river-route": {
