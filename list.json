@@ -369,12 +369,12 @@
         "category": "Meteorological tools",
         "docs": "https://pysteps.readthedocs.io/en/stable/",
         "CI": 1,
-        "last_update": "2025-03-03T15:49:30",
+        "last_update": "2025-03-31T16:40:39",
         "pypi": "https://pypi.org/project/PySteps/",
         "doi_software": "https://zenodo.org/badge/latestdoi/140263418",
         "doi_paper": "https://doi.org/10.5194/gmd-12-4185-2019",
         "conda": "https://anaconda.org/conda-forge/PySteps",
-        "version": "1.15.0",
+        "version": "1.16.0",
         "legacy": 0
     },
     "Evaporation": {
