@@ -719,12 +719,12 @@
         "category": "Evaluation",
         "docs": "https://traval.readthedocs.io/",
         "CI": 0,
-        "last_update": "2024-09-27T08:25:34",
+        "last_update": "2025-04-11T10:11:03",
         "pypi": "https://pypi.org/project/traval/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.5.1",
+        "version": "0.5.2",
         "legacy": ""
     },
     "PcRaster": {
