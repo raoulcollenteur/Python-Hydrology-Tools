@@ -369,12 +369,12 @@
         "category": "Meteorological tools",
         "docs": "https://pysteps.readthedocs.io/en/stable/",
         "CI": 1,
-        "last_update": "2025-03-31T16:40:39",
+        "last_update": "2025-04-23T13:05:03",
         "pypi": "https://pypi.org/project/PySteps/",
         "doi_software": "https://zenodo.org/badge/latestdoi/140263418",
         "doi_paper": "https://doi.org/10.5194/gmd-12-4185-2019",
         "conda": "https://anaconda.org/conda-forge/PySteps",
-        "version": "1.16.0",
+        "version": "1.17.0",
         "legacy": 0
     },
     "Evaporation": {
@@ -677,12 +677,12 @@
         "category": "Data Collection",
         "docs": "https://hydropandas.readthedocs.io",
         "CI": 0,
-        "last_update": "2025-04-18T12:39:33",
+        "last_update": "2025-04-23T07:23:22",
         "pypi": "https://pypi.org/project/HydroPandas/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.13.0",
+        "version": "0.13.1",
         "legacy": ""
     },
     "GeoArchPy": {
@@ -985,12 +985,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2025-03-25T07:19:14",
+        "last_update": "2025-04-25T15:10:04",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.107.0",
+        "version": "0.108.0",
         "legacy": ""
     },
     "Dataretrieval": {
@@ -1018,7 +1018,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/ESMPY",
-        "version": "8.8.0",
+        "version": "8.8.1",
         "legacy": ""
     },
     "PyHSPF": {
@@ -1279,12 +1279,12 @@
         "category": "Miscellaneous",
         "docs": "https://river-route.hales.app/en/latest/",
         "CI": 0,
-        "last_update": "2025-03-14T17:01:57",
+        "last_update": "2025-04-23T15:15:05",
         "pypi": "https://pypi.org/project/river-route/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "1.2.1",
+        "version": "1.2.2",
         "legacy": ""
     },
     "pywatershed": {
