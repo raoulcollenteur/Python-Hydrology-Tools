@@ -285,12 +285,12 @@
         "category": "Meteorological tools",
         "docs": "https://unidata.github.io/MetPy/",
         "CI": 1,
-        "last_update": "2024-08-26T23:14:35",
+        "last_update": "2025-04-30T23:47:10",
         "pypi": "https://pypi.org/project/MetPy/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/MetPy",
-        "version": "1.6.3",
+        "version": "1.7.0",
         "legacy": 0
     },
     "PyEto": {
@@ -747,12 +747,12 @@
         "category": "Geospatial",
         "docs": "https://pygeoprocessing.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2025-01-23T21:22:30",
+        "last_update": "2025-05-02T19:23:39",
         "pypi": "https://pypi.org/project/PyGeoprocessing/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PyGeoprocessing",
-        "version": "2.4.7",
+        "version": "2.4.8",
         "legacy": ""
     },
     "Pysheds": {
