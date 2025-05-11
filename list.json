@@ -131,12 +131,12 @@
         "category": "Catchment Hydrology",
         "docs": "https://hydpy-dev.github.io/hydpy",
         "CI": 1,
-        "last_update": "2025-03-27T17:50:25",
+        "last_update": "2025-05-09T17:05:03",
         "pypi": "https://pypi.org/project/HydPy/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "6.1.4",
+        "version": "6.1.5",
         "legacy": ""
     },
     "Catchmod": {
@@ -537,12 +537,12 @@
         "category": "Groundwater",
         "docs": "https://ttim.readthedocs.io",
         "CI": 1,
-        "last_update": "2025-03-13T10:24:20",
+        "last_update": "2025-05-06T14:54:38",
         "pypi": "https://pypi.org/project/TTim/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1007/s10040-013-0975-2",
         "conda": "https://anaconda.org/conda-forge/TTim",
-        "version": "0.7.1",
+        "version": "0.7.2",
         "legacy": 0
     },
     "PyHELP": {
@@ -677,12 +677,12 @@
         "category": "Data Collection",
         "docs": "https://hydropandas.readthedocs.io",
         "CI": 0,
-        "last_update": "2025-04-23T07:23:22",
+        "last_update": "2025-05-06T18:54:01",
         "pypi": "https://pypi.org/project/HydroPandas/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.13.1",
+        "version": "0.13.3",
         "legacy": ""
     },
     "GeoArchPy": {
@@ -999,12 +999,12 @@
         "category": "Data Collection",
         "docs": "",
         "CI": 0,
-        "last_update": "2024-10-25T17:35:51",
+        "last_update": "2025-05-06T22:40:37",
         "pypi": "https://pypi.org/project/Dataretrieval/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Dataretrieval",
-        "version": "1.0.11",
+        "version": "1.0.12",
         "legacy": ""
     },
     "ESMPY": {
