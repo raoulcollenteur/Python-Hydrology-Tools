@@ -411,12 +411,12 @@
         "category": "Meteorological tools",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-02-20T10:13:07",
+        "last_update": "2025-05-13T15:49:23",
         "pypi": "https://pypi.org/project/SPEI/",
         "doi_software": "https://doi.org/10.5281/zenodo.10816741",
         "doi_paper": "",
         "conda": "",
-        "version": "0.6.1",
+        "version": "0.7.0",
         "legacy": ""
     },
     "Pytesmo": {
@@ -481,12 +481,12 @@
         "category": "Groundwater",
         "docs": "https://flopy.readthedocs.io",
         "CI": 1,
-        "last_update": "2025-02-11T01:38:00",
+        "last_update": "2025-05-13T01:43:19",
         "pypi": "https://pypi.org/project/FloPy/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1111/gwat.12413",
         "conda": "https://anaconda.org/conda-forge/FloPy",
-        "version": "3.9.2",
+        "version": "3.9.3",
         "legacy": 0
     },
     "imod-python": {
@@ -1265,12 +1265,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-03-25T16:37:46",
+        "last_update": "2025-05-16T15:21:56",
         "pypi": "https://pypi.org/project/pyopenrivercam/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
-        "version": "0.8.5",
+        "version": "0.8.6",
         "legacy": ""
     },
     "river-route": {
