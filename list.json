@@ -24,7 +24,7 @@
         "doi_software": "https://zenodo.org/doi/10.5281/zenodo.593392",
         "doi_paper": "http://dx.doi.org/10.1029/94jd00483",
         "conda": "https://anaconda.org/conda-forge/VIC",
-        "version": "0.0.1",
+        "version": "5.0.1",
         "legacy": ""
     },
     "Xanthos": {
@@ -276,7 +276,7 @@
         "doi_software": "https://doi.org/10.5281/zenodo.800772",
         "doi_paper": "http://dx.doi.org/10.1002/2015WR017198",
         "conda": "https://anaconda.org/conda-forge/SUMMA",
-        "version": "1.2.0",
+        "version": "3.1.0",
         "legacy": ""
     },
     "MetPy": {
@@ -514,7 +514,7 @@
         "doi_software": "https://zenodo.org/badge/latestdoi/48931715",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/WellApplication",
-        "version": "0.5.6",
+        "version": "0.5.11",
         "legacy": 0
     },
     "TimML": {
@@ -542,7 +542,7 @@
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1007/s10040-013-0975-2",
         "conda": "https://anaconda.org/conda-forge/TTim",
-        "version": "0.7.2",
+        "version": "0.7.0",
         "legacy": 0
     },
     "PyHELP": {
@@ -626,7 +626,7 @@
         "doi_software": "https://doi.org/10.5281/zenodo.1465866",
         "doi_paper": "http://doi.org/10.5281/zenodo.1465866",
         "conda": "https://anaconda.org/conda-forge/Pastas",
-        "version": "1.9.0",
+        "version": "1.8.0",
         "legacy": ""
     },
     "Hydrostats": {
@@ -738,7 +738,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PcRaster",
-        "version": "4.4.1",
+        "version": "4.4.2",
         "legacy": ""
     },
     "PyGeoprocessing": {
@@ -794,7 +794,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/SPOTpy",
-        "version": "1.6.6",
+        "version": "1.6.2",
         "legacy": ""
     },
     "PyGLUE": {
@@ -1004,7 +1004,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Dataretrieval",
-        "version": "1.0.12",
+        "version": "1.0.11",
         "legacy": ""
     },
     "ESMPY": {
@@ -1088,7 +1088,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PyMT",
-        "version": "0.5.1",
+        "version": "1.3.2",
         "legacy": ""
     },
     "Landlab": {
@@ -1130,7 +1130,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/IRIS",
-        "version": "1.0.7",
+        "version": "3.12.2",
         "legacy": ""
     },
     "Hydrointerp": {
@@ -1270,7 +1270,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
-        "version": "0.8.6",
+        "version": "0.8.5",
         "legacy": ""
     },
     "river-route": {
@@ -1298,7 +1298,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pywatershed",
-        "version": "2.1",
+        "version": "2.0.2",
         "legacy": ""
     },
     "pySWAP": {
