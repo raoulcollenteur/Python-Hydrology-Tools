@@ -369,12 +369,12 @@
         "category": "Meteorological tools",
         "docs": "https://pysteps.readthedocs.io/en/stable/",
         "CI": 1,
-        "last_update": "2025-04-23T13:05:03",
+        "last_update": "2025-06-16T20:32:09",
         "pypi": "https://pypi.org/project/PySteps/",
         "doi_software": "https://zenodo.org/badge/latestdoi/140263418",
         "doi_paper": "https://doi.org/10.5194/gmd-12-4185-2019",
         "conda": "https://anaconda.org/conda-forge/PySteps",
-        "version": "1.17.0",
+        "version": "1.18.0",
         "legacy": 0
     },
     "Evaporation": {
@@ -621,12 +621,12 @@
         "category": "Groundwater",
         "docs": "https://pastas.readthedocs.io",
         "CI": 1,
-        "last_update": "2025-03-10T11:00:09",
+        "last_update": "2025-06-18T22:33:47",
         "pypi": "https://pypi.org/project/Pastas/",
         "doi_software": "https://doi.org/10.5281/zenodo.1465866",
         "doi_paper": "http://doi.org/10.5281/zenodo.1465866",
         "conda": "https://anaconda.org/conda-forge/Pastas",
-        "version": "1.9.0",
+        "version": "1.10.0",
         "legacy": ""
     },
     "Hydrostats": {
