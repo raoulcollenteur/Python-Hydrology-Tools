@@ -677,12 +677,12 @@
         "category": "Data Collection",
         "docs": "https://hydropandas.readthedocs.io",
         "CI": 0,
-        "last_update": "2025-05-06T18:54:01",
+        "last_update": "2025-07-01T09:32:53",
         "pypi": "https://pypi.org/project/HydroPandas/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.13.3",
+        "version": "0.14.0",
         "legacy": ""
     },
     "GeoArchPy": {
@@ -1265,12 +1265,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-05-16T15:21:56",
+        "last_update": "2025-07-02T16:17:37",
         "pypi": "https://pypi.org/project/pyopenrivercam/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
-        "version": "0.8.6",
+        "version": "0.8.7",
         "legacy": ""
     },
     "river-route": {
