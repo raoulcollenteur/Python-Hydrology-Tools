@@ -411,12 +411,12 @@
         "category": "Meteorological tools",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-05-13T15:49:23",
+        "last_update": "2025-07-26T09:01:06",
         "pypi": "https://pypi.org/project/SPEI/",
         "doi_software": "https://doi.org/10.5281/zenodo.10816741",
         "doi_paper": "",
         "conda": "",
-        "version": "0.7.0",
+        "version": "0.8.0",
         "legacy": ""
     },
     "Pytesmo": {
@@ -593,12 +593,12 @@
         "category": "Groundwater",
         "docs": "https://nlmod.readthedocs.io",
         "CI": 1,
-        "last_update": "2025-03-18T19:39:04",
+        "last_update": "2025-07-21T07:40:32",
         "pypi": "https://pypi.org/project/nlmod/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.9.3",
+        "version": "0.10.0",
         "legacy": 0
     },
     "Hydropy": {
@@ -691,12 +691,12 @@
         "category": "Groundwater",
         "docs": "https://archpy.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2025-06-09T11:09:13",
+        "last_update": "2025-07-23T14:00:59",
         "pypi": "https://pypi.org/project/Geoarchpy/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.3389/fams.2024.1441596",
         "conda": "",
-        "version": "1.2.1",
+        "version": "1.2.2",
         "legacy": ""
     },
     "PyKasso": {
@@ -985,12 +985,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2025-06-02T22:09:22",
+        "last_update": "2025-07-23T20:47:43",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.109.0",
+        "version": "0.110.0",
         "legacy": ""
     },
     "Dataretrieval": {
