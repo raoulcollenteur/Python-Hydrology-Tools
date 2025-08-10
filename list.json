@@ -859,12 +859,12 @@
         "category": "Statistics",
         "docs": "https://climate-indices.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2024-09-19T19:14:35",
+        "last_update": "2025-08-03T21:41:54",
         "pypi": "https://pypi.org/project/Climate-indices/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "2.0.1",
+        "version": "2.2.0",
         "legacy": ""
     },
     "HydroLM": {
@@ -985,12 +985,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2025-07-23T20:47:43",
+        "last_update": "2025-08-03T15:31:49",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.110.0",
+        "version": "0.111.0",
         "legacy": ""
     },
     "Dataretrieval": {
@@ -1041,12 +1041,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-07-17T23:01:37",
+        "last_update": "2025-08-07T20:04:36",
         "pypi": "https://pypi.org/project/PYWR/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PYWR",
-        "version": "1.28.0",
+        "version": "1.28.1",
         "legacy": ""
     },
     "SPHY": {
@@ -1097,12 +1097,12 @@
         "category": "Miscellaneous",
         "docs": "https://landlab.readthedocs.io/",
         "CI": 0,
-        "last_update": "2024-10-18T07:22:08",
+        "last_update": "2025-08-06T19:49:40",
         "pypi": "https://pypi.org/project/Landlab/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Landlab",
-        "version": "2.9.2",
+        "version": "2.10.0",
         "legacy": ""
     },
     "EFlowCalc": {
@@ -1279,12 +1279,12 @@
         "category": "Miscellaneous",
         "docs": "https://river-route.hales.app/en/latest/",
         "CI": 0,
-        "last_update": "2025-07-11T19:42:45",
+        "last_update": "2025-08-06T22:52:47",
         "pypi": "https://pypi.org/project/river-route/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "1.2.3",
+        "version": "1.3.0",
         "legacy": ""
     },
     "pywatershed": {
