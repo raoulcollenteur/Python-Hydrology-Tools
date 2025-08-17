@@ -467,12 +467,12 @@
         "category": "Unsaturated Zone",
         "docs": "",
         "CI": 0,
-        "last_update": "2024-12-17T10:10:49",
+        "last_update": "2025-08-12T09:33:43",
         "pypi": "https://pypi.org/project/pedon/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.0.7",
+        "version": "0.0.8",
         "legacy": ""
     },
     "FloPy": {
@@ -691,12 +691,12 @@
         "category": "Groundwater",
         "docs": "https://archpy.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2025-07-23T14:00:59",
+        "last_update": "2025-08-13T07:35:41",
         "pypi": "https://pypi.org/project/Geoarchpy/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.3389/fams.2024.1441596",
         "conda": "",
-        "version": "1.2.2",
+        "version": "1.2.3",
         "legacy": ""
     },
     "PyKasso": {
@@ -761,12 +761,12 @@
         "category": "Geospatial",
         "docs": "",
         "CI": 0,
-        "last_update": "2024-05-09T18:21:09",
+        "last_update": "2025-08-14T23:16:27",
         "pypi": "https://pypi.org/project/Pysheds/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Pysheds",
-        "version": "0.4",
+        "version": "0.5",
         "legacy": ""
     },
     "Lidar": {
@@ -1018,7 +1018,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/ESMPY",
-        "version": "8.8.1",
+        "version": "8.9.0",
         "legacy": ""
     },
     "PyHSPF": {
@@ -1097,12 +1097,12 @@
         "category": "Miscellaneous",
         "docs": "https://landlab.readthedocs.io/",
         "CI": 0,
-        "last_update": "2025-08-06T19:49:40",
+        "last_update": "2025-08-10T14:58:49",
         "pypi": "https://pypi.org/project/Landlab/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Landlab",
-        "version": "2.10.0",
+        "version": "2.10.1",
         "legacy": ""
     },
     "EFlowCalc": {
@@ -1237,12 +1237,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2024-01-13T20:17:12",
+        "last_update": "2025-08-13T22:35:35",
         "pypi": "https://pypi.org/project/pydsstools/",
         "doi_software": "https://zenodo.org/doi/10.5281/zenodo.7144730",
         "doi_paper": "",
         "conda": "",
-        "version": "2.3.2",
+        "version": "2.4.0",
         "legacy": ""
     },
     "eWaterCycle": {
