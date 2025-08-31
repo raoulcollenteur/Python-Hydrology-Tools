@@ -285,12 +285,12 @@
         "category": "Meteorological tools",
         "docs": "https://unidata.github.io/MetPy/",
         "CI": 1,
-        "last_update": "2025-04-30T23:47:10",
+        "last_update": "2025-08-29T23:19:51",
         "pypi": "https://pypi.org/project/MetPy/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/MetPy",
-        "version": "1.7.0",
+        "version": "1.7.1",
         "legacy": 0
     },
     "PyEto": {
@@ -1265,12 +1265,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-07-14T12:51:06",
+        "last_update": "2025-08-29T10:11:19",
         "pypi": "https://pypi.org/project/pyopenrivercam/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
-        "version": "0.8.8",
+        "version": "0.8.9",
         "legacy": ""
     },
     "river-route": {
