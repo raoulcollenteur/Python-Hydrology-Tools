@@ -332,7 +332,7 @@
         "doi_software": "https://zenodo.org/badge/latestdoi/85334761",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Improver",
-        "version": "1.16.0",
+        "version": "1.16.1",
         "legacy": ""
     },
     "MetSim": {
@@ -481,12 +481,12 @@
         "category": "Groundwater",
         "docs": "https://flopy.readthedocs.io",
         "CI": 1,
-        "last_update": "2025-05-13T01:43:19",
+        "last_update": "2025-10-01T15:57:14",
         "pypi": "https://pypi.org/project/FloPy/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1111/gwat.12413",
         "conda": "https://anaconda.org/conda-forge/FloPy",
-        "version": "3.9.3",
+        "version": "3.9.5",
         "legacy": 0
     },
     "imod-python": {
@@ -1265,12 +1265,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-09-22T20:34:45",
+        "last_update": "2025-10-02T09:02:57",
         "pypi": "https://pypi.org/project/pyopenrivercam/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
-        "version": "0.8.10",
+        "version": "0.8.11",
         "legacy": ""
     },
     "river-route": {
