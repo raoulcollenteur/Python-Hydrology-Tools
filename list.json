@@ -677,12 +677,12 @@
         "category": "Data Collection",
         "docs": "https://hydropandas.readthedocs.io",
         "CI": 0,
-        "last_update": "2025-09-03T10:29:42",
+        "last_update": "2025-10-07T14:33:15",
         "pypi": "https://pypi.org/project/HydroPandas/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.15.1",
+        "version": "0.16.1",
         "legacy": ""
     },
     "GeoArchPy": {
