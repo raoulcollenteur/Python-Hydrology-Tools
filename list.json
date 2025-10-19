@@ -565,12 +565,12 @@
         "category": "Groundwater",
         "docs": "https://anaflow.readthedocs.io",
         "CI": 1,
-        "last_update": "2023-04-16T11:47:20",
+        "last_update": "2025-10-17T10:33:15",
         "pypi": "https://pypi.org/project/Anaflow/",
         "doi_software": "https://doi.org/10.5281/zenodo.1135723",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Anaflow",
-        "version": "1.1.0",
+        "version": "1.2.0",
         "legacy": 0
     },
     "WellTestPy": {
@@ -1307,12 +1307,12 @@
         "category": "Unsaturated Zone",
         "docs": "zawadzkim.github.io/pySWAP/",
         "CI": 1,
-        "last_update": "2025-02-17T21:03:00",
+        "last_update": "2025-10-16T14:14:35",
         "pypi": "https://pypi.org/project/pyswap/",
         "doi_software": "https://doi.org/10.5281/zenodo.14884487",
         "doi_paper": "",
         "conda": "",
-        "version": "0.2.7",
+        "version": "0.2.8",
         "legacy": ""
     },
     "": {
