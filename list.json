@@ -677,12 +677,12 @@
         "category": "Data Collection",
         "docs": "https://hydropandas.readthedocs.io",
         "CI": 0,
-        "last_update": "2025-10-07T14:33:15",
+        "last_update": "2025-10-30T13:46:36",
         "pypi": "https://pypi.org/project/HydroPandas/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.16.1",
+        "version": "0.17.1",
         "legacy": ""
     },
     "GeoArchPy": {
@@ -985,12 +985,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2025-09-21T17:21:31",
+        "last_update": "2025-11-01T22:05:52",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.113.0",
+        "version": "0.114.1",
         "legacy": ""
     },
     "Dataretrieval": {
