@@ -369,12 +369,12 @@
         "category": "Meteorological tools",
         "docs": "https://pysteps.readthedocs.io/en/stable/",
         "CI": 1,
-        "last_update": "2025-07-11T05:56:05",
+        "last_update": "2025-11-28T20:34:02",
         "pypi": "https://pypi.org/project/PySteps/",
         "doi_software": "https://zenodo.org/badge/latestdoi/140263418",
         "doi_paper": "https://doi.org/10.5194/gmd-12-4185-2019",
         "conda": "https://anaconda.org/conda-forge/PySteps",
-        "version": "1.18.1",
+        "version": "1.19.0",
         "legacy": 0
     },
     "Evaporation": {
@@ -985,12 +985,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2025-11-07T10:22:30",
+        "last_update": "2025-11-24T11:42:49",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.114.3",
+        "version": "0.115.0",
         "legacy": ""
     },
     "Dataretrieval": {
@@ -999,12 +999,12 @@
         "category": "Data Collection",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-05-06T22:40:37",
+        "last_update": "2025-11-26T21:19:38",
         "pypi": "https://pypi.org/project/Dataretrieval/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Dataretrieval",
-        "version": "1.0.12",
+        "version": "1.1.0",
         "legacy": ""
     },
     "ESMPY": {
