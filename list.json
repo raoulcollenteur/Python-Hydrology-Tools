@@ -523,12 +523,12 @@
         "category": "Groundwater",
         "docs": "https://timml.readthedocs.io/",
         "CI": 1,
-        "last_update": "2025-05-31T16:59:08",
+        "last_update": "2025-12-10T10:01:20",
         "pypi": "https://pypi.org/project/TIMML/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1016/j.advwatres.2005.11.005",
         "conda": "https://anaconda.org/conda-forge/TIMML",
-        "version": "6.7.0",
+        "version": "6.8.0",
         "legacy": 0
     },
     "TTim": {
@@ -691,12 +691,12 @@
         "category": "Groundwater",
         "docs": "https://archpy.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2025-11-03T08:43:17",
+        "last_update": "2025-12-11T14:22:16",
         "pypi": "https://pypi.org/project/Geoarchpy/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.3389/fams.2024.1441596",
         "conda": "",
-        "version": "1.2.9",
+        "version": "1.2.10",
         "legacy": ""
     },
     "PyKasso": {
@@ -817,12 +817,12 @@
         "category": "Optimization and Uncertainty",
         "docs": "https://pyemu.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2024-12-11T22:59:50",
+        "last_update": "2025-12-07T18:55:14",
         "pypi": "https://pypi.org/project/Pyemu/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Pyemu",
-        "version": "1.3.8",
+        "version": "1.4.0",
         "legacy": ""
     },
     "HPGL": {
@@ -845,12 +845,12 @@
         "category": "Evaluation",
         "docs": "https://hydroerr.readthedocs.io/en/stable/",
         "CI": 0,
-        "last_update": "2019-04-23T15:02:49",
+        "last_update": "2025-12-09T18:38:49",
         "pypi": "https://pypi.org/project/HydroErr/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/HydroErr",
-        "version": "1.24",
+        "version": "2.0.0",
         "legacy": ""
     },
     "Climate-indices": {
@@ -985,12 +985,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2025-11-24T11:42:49",
+        "last_update": "2025-12-09T22:24:51",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.115.0",
+        "version": "0.116.0",
         "legacy": ""
     },
     "Dataretrieval": {
