@@ -131,12 +131,12 @@
         "category": "Catchment Hydrology",
         "docs": "https://hydpy-dev.github.io/hydpy",
         "CI": 1,
-        "last_update": "2025-05-09T17:05:03",
+        "last_update": "2025-12-23T16:01:33",
         "pypi": "https://pypi.org/project/HydPy/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "6.1.5",
+        "version": "6.2.0",
         "legacy": ""
     },
     "Catchmod": {
@@ -635,12 +635,12 @@
         "category": "Evaluation",
         "docs": "https://hydrostats.readthedocs.io/en/stable/",
         "CI": 0,
-        "last_update": "2019-04-24T20:56:21",
+        "last_update": "2025-12-22T18:27:07",
         "pypi": "https://pypi.org/project/Hydrostats/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.3390/hydrology5040066",
         "conda": "https://anaconda.org/conda-forge/Hydrostats",
-        "version": "0.78",
+        "version": "1.0.0",
         "legacy": ""
     },
     "htimeseries": {
@@ -1265,12 +1265,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-11-14T09:47:04",
+        "last_update": "2025-12-24T10:46:50",
         "pypi": "https://pypi.org/project/pyopenrivercam/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
-        "version": "0.8.12",
+        "version": "0.9.0",
         "legacy": ""
     },
     "river-route": {
