@@ -985,12 +985,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2025-12-09T22:24:51",
+        "last_update": "2026-01-03T19:36:11",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.116.0",
+        "version": "0.117.0",
         "legacy": ""
     },
     "Dataretrieval": {
