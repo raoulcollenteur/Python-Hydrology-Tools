@@ -411,12 +411,12 @@
         "category": "Meteorological tools",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-07-26T09:01:06",
+        "last_update": "2026-01-04T19:13:41",
         "pypi": "https://pypi.org/project/SPEI/",
         "doi_software": "https://doi.org/10.5281/zenodo.10816741",
         "doi_paper": "",
         "conda": "",
-        "version": "0.8.0",
+        "version": "0.8.1",
         "legacy": ""
     },
     "Pytesmo": {
@@ -1018,7 +1018,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/ESMPY",
-        "version": "8.9.0",
+        "version": "8.9.1",
         "legacy": ""
     },
     "PyHSPF": {
@@ -1307,12 +1307,12 @@
         "category": "Unsaturated Zone",
         "docs": "zawadzkim.github.io/pySWAP/",
         "CI": 1,
-        "last_update": "2025-11-22T17:37:23",
+        "last_update": "2026-01-08T20:36:24",
         "pypi": "https://pypi.org/project/pyswap/",
         "doi_software": "https://doi.org/10.5281/zenodo.14884487",
         "doi_paper": "",
         "conda": "",
-        "version": "0.3.3",
+        "version": "0.3.7",
         "legacy": ""
     },
     "": {
