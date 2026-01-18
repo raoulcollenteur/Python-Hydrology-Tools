@@ -215,12 +215,12 @@
         "category": "Catchment Hydrology",
         "docs": "https://neuralhydrology.readthedocs.io/",
         "CI": 1,
-        "last_update": "2025-03-15T12:48:39",
+        "last_update": "2026-01-14T19:07:48",
         "pypi": "https://pypi.org/project/NeuralHydrology/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.21105/joss.04050",
         "conda": "",
-        "version": "1.12.0",
+        "version": "1.13.0",
         "legacy": 0
     },
     "DRYP": {
@@ -332,7 +332,7 @@
         "doi_software": "https://zenodo.org/badge/latestdoi/85334761",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Improver",
-        "version": "1.18.5",
+        "version": "1.18.7",
         "legacy": ""
     },
     "MetSim": {
@@ -369,12 +369,12 @@
         "category": "Meteorological tools",
         "docs": "https://pysteps.readthedocs.io/en/stable/",
         "CI": 1,
-        "last_update": "2025-11-28T20:34:02",
+        "last_update": "2026-01-14T11:45:27",
         "pypi": "https://pypi.org/project/PySteps/",
         "doi_software": "https://zenodo.org/badge/latestdoi/140263418",
         "doi_paper": "https://doi.org/10.5194/gmd-12-4185-2019",
         "conda": "https://anaconda.org/conda-forge/PySteps",
-        "version": "1.19.0",
+        "version": "1.19.1",
         "legacy": 0
     },
     "Evaporation": {
@@ -467,12 +467,12 @@
         "category": "Unsaturated Zone",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-11-14T12:51:36",
+        "last_update": "2026-01-12T13:47:11",
         "pypi": "https://pypi.org/project/pedon/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.0.10",
+        "version": "0.0.11",
         "legacy": ""
     },
     "FloPy": {
@@ -593,12 +593,12 @@
         "category": "Groundwater",
         "docs": "https://nlmod.readthedocs.io",
         "CI": 1,
-        "last_update": "2025-07-21T07:40:32",
+        "last_update": "2026-01-12T11:19:54",
         "pypi": "https://pypi.org/project/nlmod/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.10.0",
+        "version": "0.11.0",
         "legacy": 0
     },
     "Hydropy": {
@@ -747,12 +747,12 @@
         "category": "Geospatial",
         "docs": "https://pygeoprocessing.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2025-07-10T19:35:44",
+        "last_update": "2026-01-14T17:55:37",
         "pypi": "https://pypi.org/project/PyGeoprocessing/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PyGeoprocessing",
-        "version": "2.4.9",
+        "version": "2.4.10",
         "legacy": ""
     },
     "Pysheds": {
@@ -1265,12 +1265,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-12-24T10:46:50",
+        "last_update": "2026-01-15T10:22:24",
         "pypi": "https://pypi.org/project/pyopenrivercam/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
-        "version": "0.9.0",
+        "version": "0.9.2",
         "legacy": ""
     },
     "river-route": {
