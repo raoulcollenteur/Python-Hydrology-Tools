@@ -593,12 +593,12 @@
         "category": "Groundwater",
         "docs": "https://nlmod.readthedocs.io",
         "CI": 1,
-        "last_update": "2026-01-12T11:19:54",
+        "last_update": "2026-01-19T18:01:20",
         "pypi": "https://pypi.org/project/nlmod/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.11.0",
+        "version": "0.11.1",
         "legacy": 0
     },
     "Hydropy": {
@@ -691,12 +691,12 @@
         "category": "Groundwater",
         "docs": "https://archpy.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2025-12-11T14:22:16",
+        "last_update": "2026-01-20T10:19:21",
         "pypi": "https://pypi.org/project/Geoarchpy/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.3389/fams.2024.1441596",
         "conda": "",
-        "version": "1.2.10",
+        "version": "1.2.11",
         "legacy": ""
     },
     "PyKasso": {
@@ -901,12 +901,12 @@
         "category": "Evaluation",
         "docs": "https://xskillscore.readthedocs.io/en/stable/",
         "CI": 0,
-        "last_update": "2025-07-14T17:40:59",
+        "last_update": "2026-01-19T17:22:15",
         "pypi": "https://pypi.org/project/xskillscore/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/xskillscore",
-        "version": "0.0.27",
+        "version": "0.0.28",
         "legacy": ""
     },
     "HKVFEWSPY": {
@@ -999,12 +999,12 @@
         "category": "Data Collection",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-11-26T21:19:38",
+        "last_update": "2026-01-22T17:59:16",
         "pypi": "https://pypi.org/project/Dataretrieval/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Dataretrieval",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "legacy": ""
     },
     "ESMPY": {
