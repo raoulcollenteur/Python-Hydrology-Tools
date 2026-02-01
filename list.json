@@ -411,12 +411,12 @@
         "category": "Meteorological tools",
         "docs": "",
         "CI": 0,
-        "last_update": "2026-01-04T19:13:41",
+        "last_update": "2026-01-30T12:04:41",
         "pypi": "https://pypi.org/project/SPEI/",
         "doi_software": "https://doi.org/10.5281/zenodo.10816741",
         "doi_paper": "",
         "conda": "",
-        "version": "0.8.1",
+        "version": "0.8.2",
         "legacy": ""
     },
     "Pytesmo": {
@@ -523,12 +523,12 @@
         "category": "Groundwater",
         "docs": "https://timml.readthedocs.io/",
         "CI": 1,
-        "last_update": "2025-12-10T10:01:20",
+        "last_update": "2026-01-28T09:14:18",
         "pypi": "https://pypi.org/project/TIMML/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1016/j.advwatres.2005.11.005",
         "conda": "https://anaconda.org/conda-forge/TIMML",
-        "version": "6.8.0",
+        "version": "6.9.0",
         "legacy": 0
     },
     "TTim": {
@@ -537,12 +537,12 @@
         "category": "Groundwater",
         "docs": "https://ttim.readthedocs.io",
         "CI": 1,
-        "last_update": "2025-05-06T14:54:38",
+        "last_update": "2026-01-28T09:11:46",
         "pypi": "https://pypi.org/project/TTim/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1007/s10040-013-0975-2",
         "conda": "https://anaconda.org/conda-forge/TTim",
-        "version": "0.7.2",
+        "version": "0.8.0",
         "legacy": 0
     },
     "PyHELP": {
@@ -621,12 +621,12 @@
         "category": "Groundwater",
         "docs": "https://pastas.readthedocs.io",
         "CI": 1,
-        "last_update": "2025-11-14T21:02:37",
+        "last_update": "2026-01-28T16:37:56",
         "pypi": "https://pypi.org/project/Pastas/",
         "doi_software": "https://doi.org/10.5281/zenodo.1465866",
         "doi_paper": "http://doi.org/10.5281/zenodo.1465866",
         "conda": "https://anaconda.org/conda-forge/Pastas",
-        "version": "1.12.0",
+        "version": "1.13.1",
         "legacy": ""
     },
     "Hydrostats": {
@@ -719,12 +719,12 @@
         "category": "Evaluation",
         "docs": "https://traval.readthedocs.io/",
         "CI": 0,
-        "last_update": "2025-04-11T10:11:03",
+        "last_update": "2026-01-27T10:05:49",
         "pypi": "https://pypi.org/project/traval/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.5.2",
+        "version": "0.5.4",
         "legacy": ""
     },
     "PcRaster": {
@@ -999,12 +999,12 @@
         "category": "Data Collection",
         "docs": "",
         "CI": 0,
-        "last_update": "2026-01-22T17:59:16",
+        "last_update": "2026-01-26T20:23:04",
         "pypi": "https://pypi.org/project/Dataretrieval/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Dataretrieval",
-        "version": "1.1.1",
+        "version": "1.1.2",
         "legacy": ""
     },
     "ESMPY": {
@@ -1307,12 +1307,12 @@
         "category": "Unsaturated Zone",
         "docs": "zawadzkim.github.io/pySWAP/",
         "CI": 1,
-        "last_update": "2026-01-08T20:36:24",
+        "last_update": "2026-01-30T10:27:41",
         "pypi": "https://pypi.org/project/pyswap/",
         "doi_software": "https://doi.org/10.5281/zenodo.14884487",
         "doi_paper": "",
         "conda": "",
-        "version": "0.3.7",
+        "version": "0.3.9",
         "legacy": ""
     },
     "": {
