@@ -313,12 +313,12 @@
         "category": "Meteorological tools",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-02-10T23:01:41",
+        "last_update": "2026-02-12T17:51:38",
         "pypi": "https://pypi.org/project/pyfao56/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1016/j.softx.2023.101518",
         "conda": "https://anaconda.org/conda-forge/pyfao56",
-        "version": "1.4.0",
+        "version": "1.4.3",
         "legacy": ""
     },
     "Improver": {
@@ -332,7 +332,7 @@
         "doi_software": "https://zenodo.org/badge/latestdoi/85334761",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Improver",
-        "version": "1.18.8",
+        "version": "1.18.9",
         "legacy": ""
     },
     "MetSim": {
@@ -593,12 +593,12 @@
         "category": "Groundwater",
         "docs": "https://nlmod.readthedocs.io",
         "CI": 1,
-        "last_update": "2026-01-19T18:01:20",
+        "last_update": "2026-02-12T08:49:31",
         "pypi": "https://pypi.org/project/nlmod/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.11.1",
+        "version": "0.11.2",
         "legacy": 0
     },
     "Hydropy": {
@@ -677,12 +677,12 @@
         "category": "Data Collection",
         "docs": "https://hydropandas.readthedocs.io",
         "CI": 0,
-        "last_update": "2025-12-19T15:17:11",
+        "last_update": "2026-02-12T16:20:41",
         "pypi": "https://pypi.org/project/HydroPandas/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.18.0",
+        "version": "0.18.1",
         "legacy": ""
     },
     "GeoArchPy": {
