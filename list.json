@@ -789,12 +789,12 @@
         "category": "Optimization and Uncertainty",
         "docs": "https://spotpy.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2025-02-18T09:55:45",
+        "last_update": "2026-02-16T13:38:42",
         "pypi": "https://pypi.org/project/SPOTpy/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/SPOTpy",
-        "version": "1.6.6",
+        "version": "1.6.7",
         "legacy": ""
     },
     "PyGLUE": {
@@ -901,12 +901,12 @@
         "category": "Evaluation",
         "docs": "https://xskillscore.readthedocs.io/en/stable/",
         "CI": 0,
-        "last_update": "2026-01-19T17:22:15",
+        "last_update": "2026-02-18T14:05:31",
         "pypi": "https://pypi.org/project/xskillscore/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/xskillscore",
-        "version": "0.0.28",
+        "version": "0.0.29",
         "legacy": ""
     },
     "HKVFEWSPY": {
@@ -985,12 +985,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2026-02-01T22:25:47",
+        "last_update": "2026-02-16T23:35:32",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.118.0",
+        "version": "0.119.0",
         "legacy": ""
     },
     "Dataretrieval": {
