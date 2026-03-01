@@ -369,12 +369,12 @@
         "category": "Meteorological tools",
         "docs": "https://pysteps.readthedocs.io/en/stable/",
         "CI": 1,
-        "last_update": "2026-01-14T11:45:27",
+        "last_update": "2026-02-27T09:20:18",
         "pypi": "https://pypi.org/project/PySteps/",
         "doi_software": "https://zenodo.org/badge/latestdoi/140263418",
         "doi_paper": "https://doi.org/10.5194/gmd-12-4185-2019",
         "conda": "https://anaconda.org/conda-forge/PySteps",
-        "version": "1.19.1",
+        "version": "1.20.0",
         "legacy": 0
     },
     "Evaporation": {
@@ -1265,12 +1265,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2026-02-05T15:01:21",
+        "last_update": "2026-02-27T13:50:42",
         "pypi": "https://pypi.org/project/pyopenrivercam/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
-        "version": "0.9.3",
+        "version": "0.9.4",
         "legacy": ""
     },
     "river-route": {
