@@ -1041,12 +1041,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-09-19T11:13:18",
+        "last_update": "2026-03-17T12:50:07",
         "pypi": "https://pypi.org/project/PYWR/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PYWR",
-        "version": "1.29.0",
+        "version": "1.30.0",
         "legacy": ""
     },
     "SPHY": {
