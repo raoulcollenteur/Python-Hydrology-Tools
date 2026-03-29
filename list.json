@@ -621,12 +621,12 @@
         "category": "Groundwater",
         "docs": "https://pastas.readthedocs.io",
         "CI": 1,
-        "last_update": "2026-02-04T19:26:35",
+        "last_update": "2026-03-26T06:12:22",
         "pypi": "https://pypi.org/project/Pastas/",
         "doi_software": "https://doi.org/10.5281/zenodo.1465866",
         "doi_paper": "http://doi.org/10.5281/zenodo.1465866",
         "conda": "https://anaconda.org/conda-forge/Pastas",
-        "version": "1.13.2",
+        "version": "1.14.0",
         "legacy": ""
     },
     "Hydrostats": {
