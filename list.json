@@ -747,12 +747,12 @@
         "category": "Geospatial",
         "docs": "https://pygeoprocessing.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2026-01-14T17:55:37",
+        "last_update": "2026-04-10T15:40:37",
         "pypi": "https://pypi.org/project/PyGeoprocessing/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PyGeoprocessing",
-        "version": "2.4.10",
+        "version": "2.4.11",
         "legacy": ""
     },
     "Pysheds": {
@@ -859,12 +859,12 @@
         "category": "Statistics",
         "docs": "https://climate-indices.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2025-08-03T21:41:54",
+        "last_update": "2026-04-06T15:10:06",
         "pypi": "https://pypi.org/project/Climate-indices/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "2.2.0",
+        "version": "2.4.0",
         "legacy": ""
     },
     "HydroLM": {
@@ -985,12 +985,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2026-02-16T23:35:32",
+        "last_update": "2026-04-11T13:32:25",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.119.0",
+        "version": "0.120.0",
         "legacy": ""
     },
     "Dataretrieval": {
@@ -999,12 +999,12 @@
         "category": "Data Collection",
         "docs": "",
         "CI": 0,
-        "last_update": "2026-01-26T20:23:04",
+        "last_update": "2026-04-09T23:09:22",
         "pypi": "https://pypi.org/project/Dataretrieval/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Dataretrieval",
-        "version": "1.1.2",
+        "version": "1.1.3",
         "legacy": ""
     },
     "ESMPY": {
@@ -1097,12 +1097,12 @@
         "category": "Miscellaneous",
         "docs": "https://landlab.readthedocs.io/",
         "CI": 0,
-        "last_update": "2025-08-10T14:58:49",
+        "last_update": "2026-04-06T20:41:50",
         "pypi": "https://pypi.org/project/Landlab/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Landlab",
-        "version": "2.10.1",
+        "version": "2.11.0",
         "legacy": ""
     },
     "EFlowCalc": {
@@ -1279,12 +1279,12 @@
         "category": "Miscellaneous",
         "docs": "https://river-route.hales.app/en/latest/",
         "CI": 0,
-        "last_update": "2026-03-11T02:01:22",
+        "last_update": "2026-04-11T18:31:41",
         "pypi": "https://pypi.org/project/river-route/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "2.0.1",
+        "version": "2.1.0",
         "legacy": ""
     },
     "pywatershed": {
