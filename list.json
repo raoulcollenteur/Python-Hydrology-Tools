@@ -332,7 +332,7 @@
         "doi_software": "https://zenodo.org/badge/latestdoi/85334761",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Improver",
-        "version": "1.18.9",
+        "version": "1.18.10",
         "legacy": ""
     },
     "MetSim": {
@@ -369,12 +369,12 @@
         "category": "Meteorological tools",
         "docs": "https://pysteps.readthedocs.io/en/stable/",
         "CI": 1,
-        "last_update": "2026-02-27T09:20:18",
+        "last_update": "2026-04-16T19:41:41",
         "pypi": "https://pypi.org/project/PySteps/",
         "doi_software": "https://zenodo.org/badge/latestdoi/140263418",
         "doi_paper": "https://doi.org/10.5194/gmd-12-4185-2019",
         "conda": "https://anaconda.org/conda-forge/PySteps",
-        "version": "1.20.0",
+        "version": "1.21.0",
         "legacy": 0
     },
     "Evaporation": {
@@ -1279,12 +1279,12 @@
         "category": "Miscellaneous",
         "docs": "https://river-route.hales.app/en/latest/",
         "CI": 0,
-        "last_update": "2026-04-11T18:31:41",
+        "last_update": "2026-04-12T16:17:50",
         "pypi": "https://pypi.org/project/river-route/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "2.1.0",
+        "version": "2.1.1",
         "legacy": ""
     },
     "pywatershed": {
