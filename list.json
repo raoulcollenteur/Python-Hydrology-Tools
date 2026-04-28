@@ -1,4 +1,16 @@
-{
+{    "HydroGR": {
+        "description": "Analysis of hydrological time series using time series models.",
+        "url": "https://github.com/SimonDelmas/hydrogr",
+        "category": "Catchment Hydrology",
+        "docs": "",
+        "CI": 0,
+        "last_update": "",
+        "pypi": "https://pypi.org/project/hydrogr/",
+        "doi_software": "",
+        "doi_paper": "",
+        "conda": "",
+        "version": ""
+    },
     "CMF": {
         "description": "Catchment Modelling Framework, a hydrologic modelling toolbox.",
         "url": "https://github.com/philippkraft/cmf",
