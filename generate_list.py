@@ -21,7 +21,7 @@ def is_date_old(date_str):
 def is_date_recent(date_str):
     try:
         date_obj = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
-        return datetime.now() - date_obj <= timedelta(days=365)
+        return datetime.now() - date_obj <= timedelta(days=730)  # two years
     except ValueError:
         return False
 
