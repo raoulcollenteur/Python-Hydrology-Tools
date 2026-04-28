@@ -409,15 +409,15 @@
         "description": "Calculate and visualize some popular drought indices such as the SPI, SPEI and SGI.",
         "url": "https://github.com/martinvonk/SPEI",
         "category": "Meteorological tools",
-        "docs": "",
-        "CI": 0,
+        "docs": "https://martinvonk.github.io/SPEI/",
+        "CI": 1,
         "last_update": "2026-01-30T12:04:41",
         "pypi": "https://pypi.org/project/SPEI/",
         "doi_software": "https://doi.org/10.5281/zenodo.10816741",
-        "doi_paper": "",
+        "doi_paper": "https://joss.theoj.org/papers/10.21105/joss.08454",
         "conda": "",
         "version": "0.8.2",
-        "legacy": ""
+        "legacy": 0
     },
     "Pytesmo": {
         "description": "python Toolbox for the Evaluation of Soil Moisture Observations.",
