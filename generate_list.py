@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 def format_date(date_str):
     try:
         date_obj = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
-        return date_obj.strftime("%y-%m-%d")
+        return date_obj.strftime("%Y-%m-%d")
     except ValueError:
         return "no date"
 
@@ -36,7 +36,7 @@ def generate_list():
             "My attempt to list interesting open source python projects that can be used in the field of Hydrology. In a 2024 update, I automated various tasks to maintain the quality of this list, and added more information about the packages that can serve as quality indicators. The description now lists when the last update on Pypi/Conda was, to highlight whether a package is probably active (🟢) or inactive (🔴). Also information about the FAIR repository, description paper, and Continuous Integration testing (CI) is included. All this in the hope that more and more packages develop according to common research software developement best practices. Suggestions as issues or pull requests are welcome! \n\n"
         )
 
-        file.write("Raoul A. Collenteur, Eawag.\n\n")
+        file.write("Raoul A. Collenteur, Collenteur Hydroconsult GmbH.\n\n")
 
         categories = {}
         legacy_packages = []
