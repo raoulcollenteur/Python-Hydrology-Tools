@@ -732,12 +732,12 @@
         "category": "Groundwater",
         "docs": "https://timflow.readthedocs.io/",
         "CI": 1,
-        "last_update": "",
+        "last_update": "2026-02-10T14:27:19",
         "pypi": "https://pypi.org/project/timflow/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": ""
+        "version": "0.1.0"
     },
     "traval": {
         "description": "Tools for applying automatic error detection schemes to timeseries",
