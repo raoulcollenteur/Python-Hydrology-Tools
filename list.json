@@ -438,12 +438,12 @@
         "category": "Unsaturated Zone",
         "docs": "https://pytesmo.readthedocs.io",
         "CI": 0,
-        "last_update": "2025-03-05T15:59:08",
+        "last_update": "2026-04-30T10:23:39",
         "pypi": "https://pypi.org/project/Pytesmo/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.18.0",
+        "version": "0.18.1",
         "legacy": ""
     },
     "Phydrus": {
@@ -732,12 +732,12 @@
         "category": "Groundwater",
         "docs": "https://timflow.readthedocs.io/",
         "CI": 1,
-        "last_update": "2026-02-10T14:27:19",
+        "last_update": "2026-04-29T10:02:35",
         "pypi": "https://pypi.org/project/timflow/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.1.0"
+        "version": "0.2.0"
     },
     "traval": {
         "description": "Tools for applying automatic error detection schemes to timeseries",
@@ -1263,12 +1263,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2025-08-13T22:35:35",
+        "last_update": "2026-05-01T22:11:47",
         "pypi": "https://pypi.org/project/pydsstools/",
         "doi_software": "https://zenodo.org/doi/10.5281/zenodo.7144730",
         "doi_paper": "",
         "conda": "",
-        "version": "2.4.0",
+        "version": "3.0.1",
         "legacy": ""
     },
     "eWaterCycle": {
