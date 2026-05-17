@@ -345,7 +345,7 @@
         "doi_software": "https://zenodo.org/badge/latestdoi/85334761",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Improver",
-        "version": "1.18.11",
+        "version": "1.18.12",
         "legacy": ""
     },
     "MetSim": {
@@ -382,12 +382,12 @@
         "category": "Meteorological tools",
         "docs": "https://pysteps.readthedocs.io/en/stable/",
         "CI": 1,
-        "last_update": "2026-04-16T19:41:41",
+        "last_update": "2026-05-14T11:38:40",
         "pypi": "https://pypi.org/project/PySteps/",
         "doi_software": "https://zenodo.org/badge/latestdoi/140263418",
         "doi_paper": "https://doi.org/10.5194/gmd-12-4185-2019",
         "conda": "https://anaconda.org/conda-forge/PySteps",
-        "version": "1.21.0",
+        "version": "1.21.1",
         "legacy": 0
     },
     "Evaporation": {
