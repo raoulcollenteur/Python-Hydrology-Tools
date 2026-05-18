@@ -1341,6 +1341,20 @@
         "version": "0.3.9",
         "legacy": ""
     },
+    "gwrefpy": {
+        "description": "A Python package for detection of deviations in groundwater time series.",
+        "url": "https://github.com/sgfsweden/gwrefpy",
+        "category": "Groundwater",
+        "docs": "https://sgfsweden.github.io/gwrefpy/",
+        "CI": 1,
+        "last_update": "",
+        "pypi": "https://pypi.org/project/gwrefpy/",
+        "doi_software": "",
+        "doi_paper": "",
+        "conda": "",
+        "version": "",
+        "legacy": ""
+    },
     "": {
         "description": "",
         "url": "",
