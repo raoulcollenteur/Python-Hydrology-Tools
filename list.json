@@ -144,12 +144,12 @@
         "category": "Catchment Hydrology",
         "docs": "https://hydpy-dev.github.io/hydpy",
         "CI": 1,
-        "last_update": "2026-05-03T18:57:45",
+        "last_update": "2026-05-21T10:48:54",
         "pypi": "https://pypi.org/project/HydPy/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "6.3.0",
+        "version": "6.3.1",
         "legacy": ""
     },
     "Catchmod": {
@@ -1067,12 +1067,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2026-03-17T12:50:07",
+        "last_update": "2026-05-21T12:40:18",
         "pypi": "https://pypi.org/project/PYWR/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PYWR",
-        "version": "1.30.0",
+        "version": "1.31.0",
         "legacy": ""
     },
     "SPHY": {
@@ -1291,12 +1291,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2026-02-27T13:50:42",
+        "last_update": "2026-05-22T06:57:39",
         "pypi": "https://pypi.org/project/pyopenrivercam/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
-        "version": "0.9.4",
+        "version": "0.9.5",
         "legacy": ""
     },
     "river-route": {
