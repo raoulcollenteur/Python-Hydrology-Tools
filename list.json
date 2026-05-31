@@ -410,12 +410,12 @@
         "category": "Meteorological tools",
         "docs": "https://pyet.readthedocs.io/",
         "CI": 1,
-        "last_update": "2025-09-02T21:54:14",
+        "last_update": "2026-05-26T04:10:31",
         "pypi": "https://pypi.org/project/pyet/",
         "doi_software": "https://zenodo.org/doi/10.5281/zenodo.5896799",
         "doi_paper": "https://doi.org/10.5194/gmd-17-7083-2024",
         "conda": "https://anaconda.org/conda-forge/pyet",
-        "version": "1.4.0",
+        "version": "1.5.0",
         "legacy": 0
     },
     "SPEI": {
@@ -764,7 +764,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PcRaster",
-        "version": "4.4.2",
+        "version": "4.4.3",
         "legacy": ""
     },
     "PyGeoprocessing": {
@@ -1011,12 +1011,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2026-05-09T05:45:40",
+        "last_update": "2026-05-26T08:28:04",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.121.0",
+        "version": "0.121.1",
         "legacy": ""
     },
     "Dataretrieval": {
@@ -1025,12 +1025,12 @@
         "category": "Data Collection",
         "docs": "",
         "CI": 0,
-        "last_update": "2026-05-07T01:40:22",
+        "last_update": "2026-05-25T20:46:04",
         "pypi": "https://pypi.org/project/Dataretrieval/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Dataretrieval",
-        "version": "1.1.4",
+        "version": "1.1.5",
         "legacy": ""
     },
     "ESMPY": {
