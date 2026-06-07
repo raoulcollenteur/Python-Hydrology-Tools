@@ -345,7 +345,7 @@
         "doi_software": "https://zenodo.org/badge/latestdoi/85334761",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Improver",
-        "version": "1.18.12",
+        "version": "1.18.13",
         "legacy": ""
     },
     "MetSim": {
@@ -1011,12 +1011,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2026-05-26T08:28:04",
+        "last_update": "2026-06-06T23:49:05",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.121.1",
+        "version": "0.122.0",
         "legacy": ""
     },
     "Dataretrieval": {
@@ -1263,12 +1263,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2026-05-08T23:24:44",
+        "last_update": "2026-06-06T22:07:27",
         "pypi": "https://pypi.org/project/pydsstools/",
         "doi_software": "https://zenodo.org/doi/10.5281/zenodo.7144730",
         "doi_paper": "",
         "conda": "",
-        "version": "3.0.2",
+        "version": "3.1.0",
         "legacy": ""
     },
     "eWaterCycle": {
@@ -1291,12 +1291,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2026-05-22T06:57:39",
+        "last_update": "2026-06-06T12:35:27",
         "pypi": "https://pypi.org/project/pyopenrivercam/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
-        "version": "0.9.5",
+        "version": "0.9.6",
         "legacy": ""
     },
     "river-route": {
