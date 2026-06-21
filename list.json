@@ -345,7 +345,7 @@
         "doi_software": "https://zenodo.org/badge/latestdoi/85334761",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Improver",
-        "version": "1.18.14",
+        "version": "1.18.15",
         "legacy": ""
     },
     "MetSim": {
@@ -1011,12 +1011,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2026-06-06T23:49:05",
+        "last_update": "2026-06-18T18:30:45",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.122.0",
+        "version": "0.123.0",
         "legacy": ""
     },
     "Dataretrieval": {
@@ -1291,12 +1291,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2026-06-06T12:35:27",
+        "last_update": "2026-06-18T17:56:51",
         "pypi": "https://pypi.org/project/pyopenrivercam/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
-        "version": "0.9.6",
+        "version": "0.9.7",
         "legacy": ""
     },
     "river-route": {
