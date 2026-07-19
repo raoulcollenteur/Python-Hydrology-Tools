@@ -1291,12 +1291,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2026-07-06T13:19:56",
+        "last_update": "2026-07-14T10:14:23",
         "pypi": "https://pypi.org/project/pyopenrivercam/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
-        "version": "0.9.8",
+        "version": "0.9.9",
         "legacy": ""
     },
     "river-route": {
