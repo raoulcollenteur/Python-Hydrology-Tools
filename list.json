@@ -1011,12 +1011,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2026-07-07T21:22:34",
+        "last_update": "2026-07-21T22:19:37",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.127.0",
+        "version": "0.128.0",
         "legacy": ""
     },
     "Dataretrieval": {
