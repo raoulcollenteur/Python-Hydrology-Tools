@@ -382,12 +382,12 @@
         "category": "Meteorological tools",
         "docs": "https://pysteps.readthedocs.io/en/stable/",
         "CI": 1,
-        "last_update": "2026-07-09T08:39:13",
+        "last_update": "2026-08-03T06:16:23",
         "pypi": "https://pypi.org/project/PySteps/",
         "doi_software": "https://zenodo.org/badge/latestdoi/140263418",
         "doi_paper": "https://doi.org/10.5194/gmd-12-4185-2019",
         "conda": "https://anaconda.org/conda-forge/PySteps",
-        "version": "1.21.2",
+        "version": "1.21.3",
         "legacy": 0
     },
     "Evaporation": {
@@ -508,12 +508,12 @@
         "category": "Groundwater",
         "docs": "https://deltares.github.io/imod-python/",
         "CI": 1,
-        "last_update": "2025-11-11T16:42:07",
+        "last_update": "2026-08-03T14:43:04",
         "pypi": "https://pypi.org/project/imod/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "1.0.0.post1",
+        "version": "1.1.0",
         "legacy": ""
     },
     "WellApplication": {
@@ -843,12 +843,12 @@
         "category": "Optimization and Uncertainty",
         "docs": "https://pyemu.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2025-12-07T18:55:14",
+        "last_update": "2026-08-03T02:22:33",
         "pypi": "https://pypi.org/project/Pyemu/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Pyemu",
-        "version": "1.4.0",
+        "version": "1.7.0",
         "legacy": ""
     },
     "HPGL": {
@@ -1011,12 +1011,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2026-07-29T23:06:26",
+        "last_update": "2026-08-03T23:26:25",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.130.0",
+        "version": "0.132.0",
         "legacy": ""
     },
     "Dataretrieval": {
