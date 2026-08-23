@@ -345,7 +345,7 @@
         "doi_software": "https://zenodo.org/badge/latestdoi/85334761",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Improver",
-        "version": "1.18.18",
+        "version": "1.18.19",
         "legacy": ""
     },
     "MetSim": {
@@ -690,12 +690,12 @@
         "category": "Data Collection",
         "docs": "https://hydropandas.readthedocs.io",
         "CI": 0,
-        "last_update": "2026-02-12T16:20:41",
+        "last_update": "2026-08-20T08:13:04",
         "pypi": "https://pypi.org/project/HydroPandas/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.18.1",
+        "version": "0.19.0",
         "legacy": ""
     },
     "GeoArchPy": {
@@ -1011,12 +1011,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2026-08-03T23:26:25",
+        "last_update": "2026-08-22T07:10:44",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.132.0",
+        "version": "0.134.0",
         "legacy": ""
     },
     "Dataretrieval": {
