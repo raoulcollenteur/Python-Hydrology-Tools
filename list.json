@@ -494,12 +494,12 @@
         "category": "Groundwater",
         "docs": "https://flopy.readthedocs.io",
         "CI": 1,
-        "last_update": "2026-02-06T23:45:55",
+        "last_update": "2026-09-03T17:04:10",
         "pypi": "https://pypi.org/project/FloPy/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1111/gwat.12413",
         "conda": "https://anaconda.org/conda-forge/FloPy",
-        "version": "3.10.0",
+        "version": "3.11.0",
         "legacy": 0
     },
     "imod-python": {
@@ -634,12 +634,12 @@
         "category": "Groundwater",
         "docs": "https://pastas.readthedocs.io",
         "CI": 1,
-        "last_update": "2026-03-26T06:12:22",
+        "last_update": "2026-09-02T09:53:03",
         "pypi": "https://pypi.org/project/Pastas/",
         "doi_software": "https://doi.org/10.5281/zenodo.1465866",
         "doi_paper": "http://doi.org/10.5281/zenodo.1465866",
         "conda": "https://anaconda.org/conda-forge/Pastas",
-        "version": "1.14.0",
+        "version": "2.0.0",
         "legacy": ""
     },
     "Hydrostats": {
@@ -1011,12 +1011,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2026-08-22T07:10:44",
+        "last_update": "2026-09-03T22:28:18",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.134.0",
+        "version": "0.136.0",
         "legacy": ""
     },
     "Dataretrieval": {
