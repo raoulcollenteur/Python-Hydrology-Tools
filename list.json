@@ -690,12 +690,12 @@
         "category": "Data Collection",
         "docs": "https://hydropandas.readthedocs.io",
         "CI": 0,
-        "last_update": "2026-08-20T08:13:04",
+        "last_update": "2026-09-10T07:44:09",
         "pypi": "https://pypi.org/project/HydroPandas/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.19.0",
+        "version": "0.20.1",
         "legacy": ""
     },
     "GeoArchPy": {
@@ -732,12 +732,12 @@
         "category": "Groundwater",
         "docs": "https://timflow.readthedocs.io/",
         "CI": 1,
-        "last_update": "2026-07-07T12:34:03",
+        "last_update": "2026-09-10T09:14:57",
         "pypi": "https://pypi.org/project/timflow/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.4.1"
+        "version": "0.5.0"
     },
     "traval": {
         "description": "Tools for applying automatic error detection schemes to timeseries",
@@ -1277,12 +1277,12 @@
         "category": "Miscellaneous",
         "docs": "https://ewatercycle.readthedocs.io",
         "CI": 1,
-        "last_update": "2024-12-04T12:18:30",
+        "last_update": "2026-09-08T14:23:01",
         "pypi": "https://pypi.org/project/eWaterCycle/",
         "doi_software": "https://zenodo.org/doi/10.5281/zenodo.5119389",
         "doi_paper": "https://doi.org/10.5194/gmd-15-5371-2022",
         "conda": "",
-        "version": "2.4.0",
+        "version": "2.5.0",
         "legacy": 0
     },
     "pyopenrivercam": {
