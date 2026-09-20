@@ -690,12 +690,12 @@
         "category": "Data Collection",
         "docs": "https://hydropandas.readthedocs.io",
         "CI": 0,
-        "last_update": "2026-09-10T07:44:09",
+        "last_update": "2026-09-14T10:00:24",
         "pypi": "https://pypi.org/project/HydroPandas/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.20.1",
+        "version": "0.20.2",
         "legacy": ""
     },
     "GeoArchPy": {
@@ -1011,12 +1011,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2026-09-03T22:28:18",
+        "last_update": "2026-09-18T14:01:15",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.136.0",
+        "version": "0.137.0",
         "legacy": ""
     },
     "Dataretrieval": {
@@ -1277,12 +1277,12 @@
         "category": "Miscellaneous",
         "docs": "https://ewatercycle.readthedocs.io",
         "CI": 1,
-        "last_update": "2026-09-08T14:23:01",
+        "last_update": "2026-09-16T08:47:04",
         "pypi": "https://pypi.org/project/eWaterCycle/",
         "doi_software": "https://zenodo.org/doi/10.5281/zenodo.5119389",
         "doi_paper": "https://doi.org/10.5194/gmd-15-5371-2022",
         "conda": "",
-        "version": "2.5.0",
+        "version": "2.6.0",
         "legacy": 0
     },
     "pyopenrivercam": {
@@ -1291,12 +1291,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2026-07-14T10:14:23",
+        "last_update": "2026-09-17T14:44:13",
         "pypi": "https://pypi.org/project/pyopenrivercam/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/pyopenrivercam",
-        "version": "0.9.9",
+        "version": "0.9.10",
         "legacy": ""
     },
     "river-route": {
