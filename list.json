@@ -1011,12 +1011,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2026-09-29T11:30:42",
+        "last_update": "2026-10-10T06:45:47",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.139.0",
+        "version": "0.144.0",
         "legacy": ""
     },
     "Dataretrieval": {
@@ -1347,12 +1347,12 @@
         "category": "Groundwater",
         "docs": "https://sgfsweden.github.io/gwrefpy/",
         "CI": 1,
-        "last_update": "2026-01-29T06:53:38",
+        "last_update": "2026-10-07T20:12:08",
         "pypi": "https://pypi.org/project/gwrefpy/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.4.1",
+        "version": "1.0.0",
         "legacy": ""
     },
     "": {
