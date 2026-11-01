@@ -424,12 +424,12 @@
         "category": "Meteorological tools",
         "docs": "https://martinvonk.github.io/SPEI/",
         "CI": 1,
-        "last_update": "2026-01-30T12:04:41",
+        "last_update": "2026-10-28T17:54:42",
         "pypi": "https://pypi.org/project/SPEI/",
         "doi_software": "https://doi.org/10.5281/zenodo.10816741",
         "doi_paper": "https://joss.theoj.org/papers/10.21105/joss.08454",
         "conda": "",
-        "version": "0.8.2",
+        "version": "0.8.3",
         "legacy": 0
     },
     "Pytesmo": {
@@ -885,12 +885,12 @@
         "category": "Statistics",
         "docs": "https://climate-indices.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2026-10-12T22:58:01",
+        "last_update": "2026-10-26T17:56:07",
         "pypi": "https://pypi.org/project/Climate-indices/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "3.0.0",
+        "version": "3.1.0",
         "legacy": ""
     },
     "HydroLM": {
@@ -1011,12 +1011,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2026-10-24T18:07:17",
+        "last_update": "2026-10-31T01:24:16",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.174.0",
+        "version": "0.179.0",
         "legacy": ""
     },
     "Dataretrieval": {
@@ -1254,7 +1254,7 @@
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Mesas",
-        "version": "1.20240418",
+        "version": "2.0.2",
         "legacy": ""
     },
     "pydsstools": {
