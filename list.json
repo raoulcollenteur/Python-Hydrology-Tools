@@ -494,12 +494,12 @@
         "category": "Groundwater",
         "docs": "https://flopy.readthedocs.io",
         "CI": 1,
-        "last_update": "2026-09-03T17:04:10",
+        "last_update": "2026-11-01T02:18:04",
         "pypi": "https://pypi.org/project/FloPy/",
         "doi_software": "",
         "doi_paper": "https://doi.org/10.1111/gwat.12413",
         "conda": "https://anaconda.org/conda-forge/FloPy",
-        "version": "3.11.0",
+        "version": "3.12.0",
         "legacy": 0
     },
     "imod-python": {
@@ -634,12 +634,12 @@
         "category": "Groundwater",
         "docs": "https://pastas.readthedocs.io",
         "CI": 1,
-        "last_update": "2026-09-02T09:53:03",
+        "last_update": "2026-11-02T13:34:33",
         "pypi": "https://pypi.org/project/Pastas/",
         "doi_software": "https://doi.org/10.5281/zenodo.1465866",
         "doi_paper": "http://doi.org/10.5281/zenodo.1465866",
         "conda": "https://anaconda.org/conda-forge/Pastas",
-        "version": "2.0.0",
+        "version": "2.0.1",
         "legacy": ""
     },
     "Hydrostats": {
@@ -773,12 +773,12 @@
         "category": "Geospatial",
         "docs": "https://pygeoprocessing.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2026-04-10T15:40:37",
+        "last_update": "2026-11-04T00:16:51",
         "pypi": "https://pypi.org/project/PyGeoprocessing/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PyGeoprocessing",
-        "version": "2.4.11",
+        "version": "2.4.12",
         "legacy": ""
     },
     "Pysheds": {
@@ -885,12 +885,12 @@
         "category": "Statistics",
         "docs": "https://climate-indices.readthedocs.io/en/latest/",
         "CI": 0,
-        "last_update": "2026-10-26T17:56:07",
+        "last_update": "2026-11-03T23:12:30",
         "pypi": "https://pypi.org/project/Climate-indices/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "3.1.0",
+        "version": "3.2.0",
         "legacy": ""
     },
     "HydroLM": {
@@ -1011,12 +1011,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2026-10-31T01:24:16",
+        "last_update": "2026-11-06T19:44:29",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.179.0",
+        "version": "0.184.0",
         "legacy": ""
     },
     "Dataretrieval": {
