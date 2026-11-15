@@ -606,12 +606,12 @@
         "category": "Groundwater",
         "docs": "https://nlmod.readthedocs.io",
         "CI": 1,
-        "last_update": "2026-02-12T08:49:31",
+        "last_update": "2026-11-11T10:18:41",
         "pypi": "https://pypi.org/project/nlmod/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "",
-        "version": "0.11.2",
+        "version": "0.12.0",
         "legacy": 0
     },
     "Hydropy": {
@@ -1011,12 +1011,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2026-11-06T19:44:29",
+        "last_update": "2026-11-13T19:47:25",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.184.0",
+        "version": "0.188.0",
         "legacy": ""
     },
     "Dataretrieval": {
