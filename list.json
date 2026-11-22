@@ -1011,12 +1011,12 @@
         "category": "Data Collection",
         "docs": "https://wetterdienst.readthedocs.io/",
         "CI": 0,
-        "last_update": "2026-11-13T19:47:25",
+        "last_update": "2026-11-21T15:47:23",
         "pypi": "https://pypi.org/project/Wetterdienst/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/Wetterdienst",
-        "version": "0.188.0",
+        "version": "0.194.0",
         "legacy": ""
     },
     "Dataretrieval": {
@@ -1067,12 +1067,12 @@
         "category": "Miscellaneous",
         "docs": "",
         "CI": 0,
-        "last_update": "2026-06-08T12:42:43",
+        "last_update": "2026-11-17T13:15:54",
         "pypi": "https://pypi.org/project/PYWR/",
         "doi_software": "",
         "doi_paper": "",
         "conda": "https://anaconda.org/conda-forge/PYWR",
-        "version": "1.31.1",
+        "version": "1.32.0",
         "legacy": ""
     },
     "SPHY": {
